@@ -25,6 +25,7 @@
 - [x] Commendation letter: Onesimus to Facilities (Nehemiah)
 - [x] Light comments: long gatherings timed by Titus, Lucia's 10 pm rule, "obviously", Cris' calendar reminder
 - [x] Goal progress entries
+- [x] Short special reports on the journeys and letters: Damascus, basket, Antioch sending, Perga, Lystra, Galatians, Jerusalem Council, Barnabas separation, Philippi, Thessalonica/Berea/Athens, Corinth, Corinthian correspondence, Ephesus riot, collection, Miletus, arrest, shipwreck, Rome
 - [ ] Written feedback comments on reports from Timothy, Titus, Tychicus, Priscilla, Aquila, Silas, Epaphroditus and Philemon (add when their records exist)
 - [ ] More Than Enough giving review minutes (belong to Stephen's records)
 - [ ] Stephen testimony or reflection: only after a lead-author decision, restricted
