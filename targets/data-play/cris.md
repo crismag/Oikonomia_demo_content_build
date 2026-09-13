@@ -13,7 +13,8 @@
 
 ## Record coverage (not started)
 - [x] Leadership follow-up reports on leaders' lived history: Moses' bottleneck, Peter at Antioch, the spear (restricted), Jonah's assignment, Paul and Barnabas, Martha and Mary, Elijah after Carmel, Nehemiah's storeroom, the seating request, Thomas
-- [x] Incident report: Eutychus
+- [x] Incident reports: Eutychus, stone tablets replacement, golden calf (serious), Saul's armor, Gideon's staffing reduction, livestock-noise audit, borrowed axe head
+- [x] Further follow-ups: Peter's overcommitment, Nehemiah's declined meetings, Saul at Gilgal, David and Michal, Naaman, Philip and Andrew's feeding calculation, Solomon's strategy document
 - [x] Weekly church schedule, events calendar and weekly agendas (Jul–Sep)
 - [ ] Weekly coordination summaries, Jan–Sep 2026
 - [ ] Leadership Council meeting notes with action items
