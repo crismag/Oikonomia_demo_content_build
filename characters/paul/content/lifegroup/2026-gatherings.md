@@ -2,7 +2,7 @@
 
 **Oikonomia section:** Lifegroup Gathering
 
-Paul's Lifegroup meets on Thursday evenings in the Ruiz family's home, roughly monthly with extra gatherings when needed. These are his gathering reports. The biblical accounts are Paul's lived history, remembered in the group, not events of 2026.
+Paul's Lifegroup meets on Thursday evenings in the Ruiz family's home: monthly in the first half of the year, and every other week from July. These are his gathering reports. The biblical accounts are Paul's lived history, remembered in the group, not events of 2026.
 
 ---
 
@@ -190,6 +190,32 @@ What would it cost you to receive someone as a brother or sister, and who might 
 
 ---
 
+## 2026-07-23 — Singing at Midnight
+
+**Venue:** Ruiz home  
+**Attendance:** Hector and Lucia Ruiz, Oliver Chen, Amara Osei, Joy Kim, Rafael Duarte; guest Silas  
+**Tags:** #devotional #joy #faith
+
+Silas joined us, and brought a guitar, which Lucia had not been warned about and forgave.
+
+He and I told the Philippi story together, which is harder than it sounds, because we remember different parts. We had been beaten with rods and thrown into the inner prison with our feet in stocks. About midnight we were praying and singing hymns to God, and the other prisoners were listening. Then a great earthquake shook the foundations, every door opened and everyone's chains came loose. The jailer woke, saw the doors open, drew his sword and was about to kill himself. I shouted, "Don't harm yourself, for we are all here!" He came in trembling and asked, "Sirs, what must I do to be saved?" That same night he washed our wounds, and he and his household were baptised, and he set food before us and rejoiced.
+
+Silas remembers the singing. I remember the shout. Joy asked what we sang. Neither of us would claim to remember the words, and Silas said he would not invent them for a Lifegroup.
+
+We sang instead, with the guitar. Joy, who has been too unwell to come most weeks, sang the harmony.
+
+### Discussion
+
+What do you do at midnight, when nothing has changed yet?
+
+### Prayer
+
+For Joy's health. For Amara's mother, now home.
+
+**Biblical account:** Acts 16:22–34.
+
+---
+
 ## 2026-08-06 — Enough Grace
 
 **Venue:** Ruiz home  
@@ -211,6 +237,53 @@ I also admitted to the group that I have been carrying too much this summer, and
 For Joy's tests next week. Amara will drive her.
 
 **Biblical account:** 2 Corinthians 12:7–10.
+
+---
+
+## 2026-08-13 — To an Unknown God
+
+**Venue:** Ruiz home  
+**Attendance:** Hector and Lucia Ruiz, Oliver Chen, Amara Osei, Rafael Duarte, Titus; Joy absent (tests)  
+**Tags:** #reflective #uncertainty #hope
+
+Rafael brought the written questions he promised in January, eight months late and four pages long. The first was: "Why should anyone who isn't already religious take any of this seriously?"
+
+I told the group about Athens. I walked through the city and was troubled by the idols everywhere. When they took me to the Areopagus to explain myself, I began by telling them they were very religious, and that I had found an altar inscribed "TO AN UNKNOWN GOD." I told them the God who made the world doesn't live in shrines made by hands and isn't served as though He needed anything, since He gives everyone life and breath. I quoted their own poets: in Him we live and move and have our being. Some mocked. Some wanted to hear more. A few believed.
+
+I told Rafael I wasn't going to answer four pages in one evening. We agreed to take one question a month, at the start of gatherings, for ten minutes.
+
+Titus timed me: eleven minutes. Rafael said the extra minute was fair given the size of the question.
+
+### Follow-up
+
+- One of Rafael's questions per month, ten minutes, beginning September.
+- This week has been hard for me. I've told Barnabas. The group doesn't need the details, but I told them I'm not at my best, because pretending otherwise would contradict what I said about weakness last week.
+
+**Biblical account:** Acts 17:16–34.
+
+---
+
+## 2026-08-27 — Nothing Will Separate Us
+
+**Venue:** Ruiz home  
+**Attendance:** Hector and Lucia Ruiz, Oliver Chen, Amara Osei, Joy Kim, Rafael Duarte  
+**Tags:** #devotional #fear #faith #hope
+
+Joy is waiting for test results. She came anyway, and asked the group not to make the evening about her. We made it about waiting instead, which she said was allowed.
+
+I read what I wrote to the believers in Rome: I am persuaded that neither death nor life, nor angels, nor rulers, nor things present, nor things to come, nor powers, nor height, nor depth, nor anything else in all creation will be able to separate us from God's love in Christ Jesus our Lord.
+
+I told them I wrote "I am persuaded," not "I feel." There have been nights this summer when I didn't feel much. Being persuaded is what holds on those nights.
+
+Hector said his new job starts next week. Lucia said she has already planned the celebration soup.
+
+### Prayer
+
+**Visibility:** This gathering's leaders
+
+For Joy's results, due this week. Amara will be with her.
+
+**Biblical account:** Romans 8:31–39.
 
 ---
 
@@ -237,3 +310,26 @@ What ordinary need are you embarrassed to ask for?
 - Baptism conversation with Rafael. Invite Titus.
 
 **Biblical account:** 2 Timothy 4:6–13.
+
+---
+
+## 2026-09-10 — Buried and Raised
+
+**Venue:** Ruiz home  
+**Attendance:** Hector and Lucia Ruiz, Oliver Chen, Amara Osei, Joy Kim, Rafael Duarte, Titus  
+**Tags:** #joy #celebratory #reflective
+
+Titus and I met with Rafael on Tuesday about baptism. Tonight Rafael asked to use his monthly question slot to ask the group what baptism had meant to them. Hector, Lucia, Amara and Joy answered. Oliver said he hadn't been baptised yet either, and that he would like to talk about it too. Rafael looked at Oliver for a long moment and said, "Same Sunday?"
+
+I read from Romans: all of us who were baptised into Christ Jesus were baptised into His death. We were buried with Him through baptism, so that just as Christ was raised from the dead, we too might walk in newness of life.
+
+I told them my own baptism came three days after I had been blind on the road, in a house where the first believer I met called me brother. I'm not sure I understood much that day, except that I was not who I had been.
+
+Rafael and Oliver have asked to be baptised on the same Sunday. Titus will coordinate with Events Ministry.
+
+### Follow-up
+
+- Baptism date for Rafael and Oliver: Titus, with Solomon's team.
+- Rafael's October question is already submitted. It is about suffering.
+
+**Biblical account:** Romans 6:3–4; Acts 9:17–19.

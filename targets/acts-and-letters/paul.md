@@ -1,6 +1,6 @@
 # Paul — Generation Target
 
-**ID:** `person.paul` | **Status:** FOUNDATION EXISTS
+**ID:** `person.paul` | **Status:** SUBSTANTIAL
 
 **Identity:** senior leader for church development and mentoring: former persecutor stopped by Jesus, trusted by Barnabas, sent out with him, and formed through churches planted and strengthened, sharp conflict, public correction of Peter, suffering, custody, letters, and the delegation of hard assignments to Timothy and Titus; affectionate and argumentative, still prone to sharpness and to carrying every church alone.
 
@@ -12,21 +12,30 @@
 - [x] `2026-goals.md` (leaders who teach others; tone in correction; room for people to become useful again; carrying the churches without carrying them alone)
 - [x] `2026-rhythm.md` (Monday correspondence, Tuesday Mentorship Night as leader, Wednesday one-to-ones, Thursday Lifegroup)
 
-## Record coverage (not started)
-- [ ] Lifegroup Gathering reports, Jan–Sep 2026 (Thursday)
-- [ ] Written feedback comments on reports from Timothy, Titus, Tychicus, Priscilla, Aquila, Silas, Epaphroditus and Philemon
-- [ ] Mentorship Night: Timothy and Titus delegated assignments with written backing; June and November reviews with Barnabas
-- [ ] Mentorship readiness disagreement with Barnabas about a new developing leader (new matter, not an Acts 15 replay)
-- [ ] Paul requests John Mark by name for a specific piece of work; completion and brief commendation
-- [ ] Restricted pastoral correction written with care, followed by a restoration record (Goal 2)
-- [ ] Peter / Paul 2026 accountability disagreement (restricted), a new matter, not an Antioch replay (shared with Peter's target)
-- [ ] Leadership Council meeting notes: inclusion or doctrinal decision; team disagreement about a leader's risk
-- [ ] More Than Enough giving accountability review with Stephen and Titus (ministry owns the work; Paul visibility only)
-- [ ] Testimony: Damascus road; basket; Philippi at midnight; the storm; "Cheer up, Paul"
-- [ ] Personal development / wellbeing report on carrying every church (Goal 4)
-- [ ] Commendation letter for a leader moving between ministries (Phoebe pattern)
-- [ ] Light comments: handwritten sign-off, travel plans changed and defended, cloak and parchments, meetings that run late; Cris calendar follow-ups
-- [ ] Stephen testimony or reflection: only after a lead-author decision, restricted to the people involved
+## Record coverage
+- [x] Lifegroup Gathering reports, Jan–Sep 2026 (Thursday; monthly to June, fortnightly from July; 13 gatherings)
+- [x] Weekly leadership reports (selected Jan–Jun; every week Jul–Sep as part of Goal 4)
+- [x] Mentorship: written backing for Timothy's Radicals decision; Timothy leads Mentorship Night; June review with Barnabas; Titus leads the giving review
+- [x] Readiness disagreement with Barnabas about Joy Kim (new matter, not an Acts 15 replay), trial and review
+- [x] John Mark requested by name; checklist delivered; commendation
+- [x] Restricted pastoral correction with tone check and restoration record (Rafael and Oliver)
+- [x] Peter / Paul disagreement: Paul's comment lives on Peter's proposal record; Paul's tone check with Priscilla
+- [x] Leadership Council participation (minutes in `characters/peter/content/meetings/2026-06-07-…`)
+- [x] Wellbeing report on carrying every church (Goal 4), with Moses and Deborah's Council decision
+- [x] Commendation letter: Onesimus to Facilities (Nehemiah)
+- [x] Light comments: long gatherings timed by Titus, Lucia's 10 pm rule, "obviously", Cris' calendar reminder
+- [x] Goal progress entries
+- [ ] Written feedback comments on reports from Timothy, Titus, Tychicus, Priscilla, Aquila, Silas, Epaphroditus and Philemon (add when their records exist)
+- [ ] More Than Enough giving review minutes (belong to Stephen's records)
+- [ ] Stephen testimony or reflection: only after a lead-author decision, restricted
+- [ ] Future planning Oct 2026 – Dec 2027: November review with Barnabas; Rafael and Oliver's baptism; Joy's trial decision
+
+## Continuity threads open at 2026-09-13
+- Rafael's and Oliver's baptism date (Titus with Events Ministry).
+- Rafael's monthly question slot; October question on suffering.
+- Joy Kim's Mentorship trial: Barnabas to discuss resuming in October.
+- Paul's doctor visit in September; Barnabas to ask in October.
+- Timothy co-preparing Mentorship Night through November; Martin's request to co-lead a spring session.
 
 ## Roles
 Leadership Council; Mentorship (leader under Barnabas); Lifegroup; receives reports from Timothy, Titus, Tychicus, Priscilla, Aquila, Silas, Epaphroditus and Philemon; More Than Enough (sees only).

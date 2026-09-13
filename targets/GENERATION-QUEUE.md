@@ -48,7 +48,7 @@ This is the roster/status view. Character-specific topics live only in the linke
 - [ ] Mary of Bethany — `gospels/mary-of-bethany.md` — FOUNDATION EXISTS
 
 ## Acts and Letters
-- [ ] Paul — `acts-and-letters/paul.md` — FOUNDATION EXISTS
+- [x] Paul — `acts-and-letters/paul.md` — SUBSTANTIAL
 - [ ] Barnabas — `acts-and-letters/barnabas.md` — FOUNDATION EXISTS
 - [ ] Silas — `acts-and-letters/silas.md` — FOUNDATION EXISTS
 - [ ] Luke — `acts-and-letters/luke.md` — FOUNDATION EXISTS
