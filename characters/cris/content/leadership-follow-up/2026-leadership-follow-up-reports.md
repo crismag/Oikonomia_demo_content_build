@@ -636,3 +636,60 @@ I started reading this document impressed. I finished it sober. The wisdom in se
 **Solomon:** I'd like to add a section 9 in 2026. Finishing with a whole heart.
 
 **David:** So would I, for both of us.
+
+---
+
+## Leadership Follow-up — Peter
+
+**Record type:** Leadership Situation / Follow-up  
+**Date:** 2026-09-11  
+**Visibility:** Named people  
+**Shared with:** Peter, John  
+**Status:** Follow-up Required  
+**Tags:** #administrative #funny #conflict
+
+John dropped the ball on Peter.
+
+We had agreed not to circulate the details of the incident involving Peter and Malchus any more widely than necessary. The situation had already been addressed, nobody wanted it becoming this month's leadership discussion, and — most importantly — the ear was restored and Malchus is fine.
+
+Unfortunately, John included the incident in his written account.
+
+Very thoroughly.
+
+Including Peter's name.
+
+Peter is understandably asking why we had a confidentiality discussion if one of the people in that discussion was going to document the entire incident anyway.
+
+I spoke briefly with John. His position is that the incident was significant to the overall account and that leaving Peter unnamed would make the record incomplete.
+
+Technically, he has a point.
+
+Peter does not currently find this observation helpful.
+
+### Follow-up
+
+- Speak with Peter before the next leadership meeting.
+- Clarify with John the difference between historical documentation and internal incident-report visibility.
+- Confirm that Malchus has no outstanding care needs.
+- Do not allow this to turn into a wider discussion about Peter's impulse control.
+- Review confidentiality expectations with the team.
+
+### Current Assessment
+
+No formal disciplinary action recommended.
+
+Peter acted impulsively under considerable pressure and understands that drawing a sword was not an appropriate de-escalation technique.
+
+John did not appear to be trying to embarrass Peter. He simply seems incapable of leaving an important detail out of a report.
+
+### Prayer
+
+Wisdom for Peter as he continues growing in restraint.
+
+Wisdom for John regarding discretion.
+
+Wisdom for me because I apparently now have to mediate between an apostle who cuts details out too quickly and an apostle who refuses to cut any details out at all.
+
+**Attention:** A confidentiality agreement and a complete written record are pulling in different directions.  
+**Attention to:** Cris  
+**Biblical account:** John 18:10–11; Luke 22:50–51.
