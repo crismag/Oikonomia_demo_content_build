@@ -25,6 +25,11 @@ I went. I have not forgotten how close I came to staying quiet.
 - Keep a restricted record of concerns I raised and concerns I held back, and review it with Deborah each quarter.
 - Tell my story in testimony when it helps someone else find courage, without making it sound as though I was never afraid.
 
+### Progress
+
+- 2026-05-11 — Put the worker concern in writing and told Deborah, despite the member being a friend and donor.
+- 2026-09-09 — Raised my discomfort about a Council colleague directly with Ezra.
+
 **Biblical account:** Esther 4:8–16.
 
 ---
@@ -47,6 +52,11 @@ I won't dress that delay up as a clever plan; the account doesn't give my reason
 - Write the request out in plain words: the harm, the people affected, who is responsible, what I am asking for.
 - Choose the setting and time deliberately rather than raising it in the first available moment.
 - Refuse to use preparation as an excuse to delay when delay would cause harm.
+
+### Progress
+
+- 2026-05-18 — Asked four named leaders to pray and fast before the request.
+- 2026-06-05 — Made a prepared, precise request to the employer with Deborah.
 
 **Biblical account:** Esther 4:15–5:8; Esther 7:1–6.
 
@@ -71,6 +81,11 @@ A favourable decision is not the same as the harm being undone.
 - Share authority with the people best placed to carry the follow-up, as I set Mordecai over Haman's house, and support them publicly.
 - Report honestly to the Council when a matter is still unresolved.
 
+### Progress
+
+- 2026-07-06 — Kept the matter open after back pay when shifts were cut.
+- 2026-09-07 — Closed Nadia's part only at her request; other workers' items remain open.
+
 **Biblical account:** Esther 8:1–8.
 
 ---
@@ -93,5 +108,10 @@ People bring me things they cannot say publicly. I want to keep those confidence
 - Ask the person concerned before sharing their situation, unless someone is in immediate danger.
 - When disclosure is needed, disclose only what the decision-maker needs.
 - Review visibility on my restricted records with Cris each quarter, without Cris reading their content.
+
+### Progress
+
+- 2026-07-21 — Asked Deborah to watch how I use influence after Victor withdrew his donation.
+- 2026-07-27 — Held to consent-led disclosure in a disagreement with Mordecai.
 
 **Biblical account:** Esther 2:10, 20; Esther 7:3–4; Esther 8:1–2.

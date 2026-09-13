@@ -1,6 +1,6 @@
 # Esther — Generation Target
 
-**ID:** `person.esther` | **Status:** FOUNDATION EXISTS
+**ID:** `person.esther` | **Status:** SUBSTANTIAL
 
 **Identity:** senior advocate on the Leadership Council who entered power through coercion and concealment, grew into courage, prepared through fasting, timed her request, risked death, persisted after the first win, and carries the grave, debated violence of Esther 9. God is not named in her book.
 
@@ -12,17 +12,22 @@
 - [x] `2026-goals.md` (speak when silence would only protect me; prepare, gather support, then ask; keep going after the first win; guard confidences and disclose only to protect)
 - [x] `2026-rhythm.md` (Sunday Council and private conversations, Monday advocacy follow-up, Wednesday Lifegroup, Thursday Events planning; Prayer & Fasting days; early-March remembrance reflection)
 
-## Record coverage (not started)
-- [ ] Restricted advocacy report: a person at risk, the planned request, the risk, named readers
-- [ ] Leadership report asking named leaders to pray and fast before a high-stakes step; linked Prayer & Fasting calendar entry
-- [ ] Leadership Council meeting notes: a carefully framed request; an attention item left open after a favourable decision
-- [ ] Lifegroup Gathering reports (Wednesday), with restricted prayer entries
-- [ ] Testimony: "for such a time as this"; seasons when God seemed hidden (never romance, never harem detail for effect)
-- [ ] Esther / Mordecai check-ins; disagreement about timing; delegation
-- [ ] Esther / Deborah coaching conversation on sensitive leadership
-- [ ] Events: a remembrance occasion with gifts to people in need (with Solomon and Stephen)
-- [ ] Restricted personal reflection on power after reversal (Esther 9), sober and unresolved
-- [ ] Future plans: quarterly concern reviews with Deborah; 2027 remembrance occasion
+## Record coverage
+- [x] Restricted advocacy arc: worker at risk (April–September), prayer and fasting request, action report, follow-ups after the first win, status with open items
+- [x] Called leadership meeting minutes (2026-05-31)
+- [x] Lifegroup Gathering reports (Wednesday, short), with restricted prayer entry
+- [x] Testimony at Mentorship Night: "who knows"
+- [x] Esther / Mordecai disagreement about timing and consent
+- [x] Esther / Deborah quarterly concern review
+- [x] Events: remembrance and thanksgiving evening proposal with Solomon, Phoebe, Stephen, Miriam
+- [x] Restricted reflections: early-March remembrance; power after reversal (Esther 9); raising a concern directly
+- [x] Goal progress entries
+- [ ] Remembrance evening itself (2026-11-22, future)
+
+## Continuity threads open at 2026-09-13
+- Two warehouse workers' items open until they confirm; written non-retaliation commitment not received.
+- Victor Hale still meeting Samuel.
+- Remembrance evening on 2026-11-22.
 
 ## Roles
 Leadership Council; Events Ministry (leader, under Solomon); Wednesday Lifegroup; advocacy and sensitive leadership; Mordecai's reporting leader.
