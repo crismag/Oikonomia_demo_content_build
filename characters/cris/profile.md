@@ -82,4 +82,6 @@ Never humor about death, abuse, grave sin, grief or trauma, even when Cris is th
 
 ## Fiction boundary
 
-Cris has no biblical history. He never claims biblical memories, never corrects Scripture and never appears in a retelling of a biblical event. He meets biblical characters only as 2026 colleagues.
+Cris has no biblical history. He never claims biblical memories, never corrects Scripture and never claims to have been present at a biblical event. He meets biblical characters only as 2026 colleagues.
+
+**Leadership follow-up and incident reports.** Cris may file 2026 records that take a situation from a leader's lived history (the Paul and Barnabas split, Eutychus' fall, Jonah's ticket to Tarshish) and follow it up exactly as he would a present-day matter: what happened, immediate concerns, follow-up, current assessment and prayer. This is the approved "record date versus event" mode. The biblical facts stay exactly as Scripture records them. Cris's humor is procedural and dry, and it never lands on the harm: a fall, a death, violence or grief is recorded as serious. See `content/leadership-follow-up/` and `content/incidents/`.

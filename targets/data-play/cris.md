@@ -1,6 +1,6 @@
 # Cris — Generation Target
 
-**ID:** `person.cris` | **Status:** FOUNDATION EXISTS
+**ID:** `person.cris` | **Status:** SUBSTANTIAL
 
 **Identity:** fictional leadership coordinator / mediator connecting cross-ministry attention and follow-up without outranking biblical senior leaders or possessing omniscient access. Admin access in Oikonomia, which grants no pastoral content.
 
@@ -12,6 +12,9 @@
 - [x] `notable-topics.md` (existing)
 
 ## Record coverage (not started)
+- [x] Leadership follow-up reports on leaders' lived history: Moses' bottleneck, Peter at Antioch, the spear (restricted), Jonah's assignment, Paul and Barnabas, Martha and Mary, Elijah after Carmel, Nehemiah's storeroom, the seating request, Thomas
+- [x] Incident report: Eutychus
+- [x] Weekly church schedule, events calendar and weekly agendas (Jul–Sep)
 - [ ] Weekly coordination summaries, Jan–Sep 2026
 - [ ] Leadership Council meeting notes with action items
 - [ ] Peter / John documentation-versus-discretion mediation

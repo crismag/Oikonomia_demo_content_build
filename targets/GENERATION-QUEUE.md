@@ -70,7 +70,7 @@ This is the roster/status view. Character-specific topics live only in the linke
 - [ ] Aristarchus — `acts-and-letters/aristarchus.md` — FOUNDATION EXISTS
 
 ## Data Play persona
-- [ ] Cris — `data-play/cris.md` — FOUNDATION EXISTS
+- [x] Cris — `data-play/cris.md` — SUBSTANTIAL
 
 ## Status
 Every character now has a generation-ready foundation (profile with Oikonomia identity, notable topics, target checklist; biblical context, relationships, goals and rhythm where Scripture supports them). Record generation has not started except for Moses, Joshua and David.
