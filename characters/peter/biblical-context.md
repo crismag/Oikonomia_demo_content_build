@@ -238,7 +238,7 @@ When some insisted Gentile believers must be circumcised and keep the law of Mos
 
 ## Paul's visit; pillars; Antioch — Galatians 1:18–19; 2:1–14
 
-Three years after his conversion, Paul went to Jerusalem to visit Peter and stayed with him fifteen days. Later, James, Cephas and John, "reputed to be pillars," gave Paul and Barnabas the right hand of fellowship: Paul and Barnabas to the Gentiles, they to the circumcised, with a request to "remember the poor." When Peter came to Antioch he ate with Gentile believers until certain men came from James. Then he drew back and separated himself, "fearing those who were of the circumcision." Other Jewish believers followed, even Barnabas. Paul opposed Peter to his face before them all, saying he was not walking in line with the truth of the gospel.
+"After three years" (the starting point is not stated), Paul went to Jerusalem to visit Peter and stayed with him fifteen days. Later, James, Cephas and John, "reputed to be pillars," gave Paul and Barnabas the right hand of fellowship: Paul and Barnabas to the Gentiles, they to the circumcised, with a request to "remember the poor." When Peter came to Antioch he ate with Gentile believers until certain men came from James. Then he drew back and separated himself, "fearing those who were of the circumcision." Other Jewish believers followed, even Barnabas. Paul opposed Peter to his face before them all, saying he was not walking in line with the truth of the gospel.
 
 **Scripture's silence:** Galatians does not record Peter's response. Do not invent the conversation or its immediate outcome. 2 Peter 3:15 later calls Paul "our beloved brother."
 

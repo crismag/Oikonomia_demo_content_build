@@ -31,7 +31,7 @@ Paul visited Peter in Jerusalem and stayed fifteen days (Galatians 1:18). Later 
 ### Barnabas
 Barnabas sold a field and laid the money at the apostles' feet (Acts 4:36–37). At Antioch he was "carried away" and joined Peter's withdrawal (Galatians 2:13). At the Jerusalem Council Barnabas and Paul reported after Peter spoke (Acts 15:12).
 
-**2026 fiction:** Barnabas and Peter both know what it is to be corrected in public and to keep going. Encouragement flows both ways.
+**2026 fiction:** Barnabas and Peter were both caught up in the Antioch withdrawal that Paul publicly opposed, and both kept going. Encouragement flows both ways.
 
 ### John Mark
 Peter went to the house of Mary, John Mark's mother, after his release from prison (Acts 12:12). 1 Peter 5:13 sends greetings from "Mark, my son."
