@@ -44,7 +44,7 @@ Canonical minutes.
 ### Action items
 
 - [x] Fellowship hall ceiling contractor booked — Hezekiah, due 2026-06-20
-- [x] Side door rehang — Hezekiah and Thaddaeus, due 2026-07-04
+- [x] Side door rehang, with Thaddaeus — Hezekiah, due 2026-07-04
 - [x] Children's wing painting — Caleb, due 2026-08-22
 - [x] Window latches and glass — Onesimus, due 2026-07-04
 - [x] Corridor electrical — Joshua, due 2026-07-11

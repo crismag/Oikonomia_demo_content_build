@@ -42,7 +42,7 @@ Canonical minutes of a small called meeting. Readable by participants only. Name
 ### Action items
 
 - [x] Obtain Nadia's written consent — Esther, due 2026-06-03
-- [x] Meet the member — Esther and Deborah, due 2026-06-12
+- [x] Meet the member, with Deborah — Esther, due 2026-06-12
 - [x] Be available to the member pastorally — Samuel, due 2026-06-19
 - [x] Prepare More Than Enough for possible loss of the donation — Stephen, due 2026-06-30
 - [ ] Written non-retaliation commitment received — Deborah, due 2026-07-05
