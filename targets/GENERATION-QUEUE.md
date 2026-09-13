@@ -49,18 +49,18 @@ This is the roster/status view. Character-specific topics live only in the linke
 
 ## Acts and Letters
 - [x] Paul — `acts-and-letters/paul.md` — SUBSTANTIAL
-- [ ] Barnabas — `acts-and-letters/barnabas.md` — FOUNDATION EXISTS
-- [ ] Silas — `acts-and-letters/silas.md` — FOUNDATION EXISTS
-- [ ] Luke — `acts-and-letters/luke.md` — FOUNDATION EXISTS
-- [ ] John Mark — `acts-and-letters/john-mark.md` — FOUNDATION EXISTS
+- [x] Barnabas — `acts-and-letters/barnabas.md` — SUBSTANTIAL
+- [x] Silas — `acts-and-letters/silas.md` — SUBSTANTIAL
+- [x] Luke — `acts-and-letters/luke.md` — SUBSTANTIAL
+- [x] John Mark — `acts-and-letters/john-mark.md` — SUBSTANTIAL
 - [ ] Stephen — `acts-and-letters/stephen.md` — FOUNDATION EXISTS
 - [ ] Philip the Evangelist — `acts-and-letters/philip-the-evangelist.md` — FOUNDATION EXISTS
 - [ ] Lydia — `acts-and-letters/lydia.md` — FOUNDATION EXISTS
-- [ ] Priscilla — `acts-and-letters/priscilla.md` — FOUNDATION EXISTS
+- [x] Priscilla — `acts-and-letters/priscilla.md` — SUBSTANTIAL
 - [ ] Aquila — `acts-and-letters/aquila.md` — FOUNDATION EXISTS
 - [ ] Apollos — `acts-and-letters/apollos.md` — FOUNDATION EXISTS
 - [ ] Cornelius — `acts-and-letters/cornelius.md` — FOUNDATION EXISTS
-- [ ] Timothy — `acts-and-letters/timothy.md` — FOUNDATION EXISTS
+- [x] Timothy — `acts-and-letters/timothy.md` — SUBSTANTIAL
 - [ ] Titus — `acts-and-letters/titus.md` — FOUNDATION EXISTS
 - [ ] Phoebe — `acts-and-letters/phoebe.md` — FOUNDATION EXISTS
 - [ ] Epaphroditus — `acts-and-letters/epaphroditus.md` — FOUNDATION EXISTS

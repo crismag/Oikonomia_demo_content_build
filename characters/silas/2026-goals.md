@@ -25,6 +25,10 @@ A message can be accurate and still land badly, or encouraging and no longer acc
 - Report back to the sender, briefly, how the message was received and what questions came up.
 - Never add my own view to a decision I am carrying; give it separately, to the sender.
 
+### Progress
+
+- 2026-03-23 — Explained a leadership decision in person after the written summary.
+
 **Biblical account:** Acts 15:22–33; Acts 16:4–5; 1 Peter 5:12.
 
 ---
@@ -49,6 +53,10 @@ Praise isn't a reward for rescue. People in hard places are listening to what we
 - In my Lifegroup, pray with members in the middle of hard situations, not only after they resolve.
 - Offer Miriam one testimony for a Psalmists devotional about praise under pressure.
 
+### Progress
+
+- 2026-08-02 — First Sunday-afternoon care-home service; a quiet resident sang.
+
 **Biblical account:** Acts 16:19–34.
 
 ---
@@ -71,5 +79,9 @@ Someone has to remain when the lead leader has to go, keep people steady, and th
 - Support Timothy at Radicals when he asks, without taking over his ministry.
 - Keep a short handover note whenever I have covered for another leader.
 - Rest after a hard season before taking the next assignment.
+
+### Progress
+
+- 2026-09-06 — Led the September care-home service after a long dedication day.
 
 **Biblical account:** Acts 17:10–15; Acts 18:5; 2 Corinthians 1:19.

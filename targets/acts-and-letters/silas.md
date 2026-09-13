@@ -1,6 +1,6 @@
 # Silas — Generation Target
 
-**ID:** `person.silas` | **Status:** FOUNDATION EXISTS
+**ID:** `person.silas` | **Status:** SUBSTANTIAL
 
 **Identity:** trusted mission teammate: Jerusalem leader and prophet who carried the council's decision, Paul's partner through Philippi's beating and midnight worship, the one who stayed behind with Timothy, and (as Silvanus, probably) a co-sender with Paul and Peter's faithful brother.
 

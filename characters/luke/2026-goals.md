@@ -26,6 +26,11 @@ Most care needs are not dramatic. They are long. People who are ill, confined or
 - Flag to Peter, as Attention, anyone whose visits have lapsed.
 - Tell Peter honestly when the long-term list is more than the team can carry.
 
+### Progress
+
+- 2026-06-22 — Flagged two unassigned long-term follow-ups before they slipped.
+- 2026-09-08 — Every regular visitor has a rest week scheduled.
+
 **Biblical account:** Colossians 4:14; Philemon 23–24; 2 Timothy 4:9–11.
 
 ---
@@ -49,5 +54,9 @@ A good record helps the next visitor walk in informed and helps a need get met. 
 - Keep health details in restricted records only, limited to what care requires, and never write a diagnosis.
 - Give Peter a clean schedule and follow-up list each Monday so his weekly report doesn't have to rebuild it.
 - Review restricted care notes with Peter each quarter and remove anything that no longer serves the person.
+
+### Progress
+
+- 2026-08-27 — Mark's checklist adopted on every Thursday route.
 
 **Biblical account:** Colossians 4:14.

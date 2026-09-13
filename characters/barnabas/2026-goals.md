@@ -26,6 +26,11 @@ Later I argued for giving my cousin Mark another chance, strongly enough that Pa
 - When other leaders are afraid of someone, take their fear seriously and answer it with facts, not reassurance.
 - Record disagreements about readiness fairly in the Mentorship notes, including views I don't share.
 
+### Progress
+
+- 2026-06-16 — Asked for a second reviewer where family could affect my judgment.
+- 2026-09-08 — Peter confirmed as second reviewer for Mark's October review.
+
 **Biblical account:** Acts 9:26–28; Acts 15:36–40; Colossians 4:10.
 
 ---
@@ -50,6 +55,10 @@ That was the point. Mentorship is not measured by how many people need the mento
 - Hand at least one Mentorship Night session each quarter to a leader I have developed.
 - When someone I brought in becomes more visible than I am, say publicly that I'm glad.
 
+### Progress
+
+- 2026-08-18 — Three people nobody had named added to the co-leader list.
+
 **Biblical account:** Acts 11:22–26; Acts 13:1–3; Acts 14:12.
 
 ---
@@ -72,6 +81,10 @@ My gift is being with people. The danger of that gift is going wherever the resp
 - Say the hard sentence in a development conversation, not only the encouraging ones.
 - Ask Peter to tell me when he sees me agreeing to keep the peace.
 - Keep my welcome of newcomers from every background the same, whoever is present.
+
+### Progress
+
+- 2026-04-27 — Recorded my side of the separation over Mark without making Paul the villain.
 
 **Biblical account:** Acts 11:22–24; Galatians 2:11–14.
 

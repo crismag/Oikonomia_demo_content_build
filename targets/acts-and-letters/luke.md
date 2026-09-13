@@ -1,6 +1,6 @@
 # Luke — Generation Target
 
-**ID:** `person.luke` | **Status:** FOUNDATION EXISTS
+**ID:** `person.luke` | **Status:** SUBSTANTIAL
 
 **Identity:** Field Ministry coordinator: "the beloved physician," Paul's fellow worker and the one who stayed; by tradition the careful author of Luke–Acts and the "we" companion. Orderly, observant, understated and discreet.
 

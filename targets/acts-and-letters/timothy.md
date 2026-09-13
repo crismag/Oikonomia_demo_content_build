@@ -1,6 +1,6 @@
 # Timothy — Generation Target
 
-**ID:** `person.timothy` | **Status:** FOUNDATION EXISTS
+**ID:** `person.timothy` | **Status:** SUBSTANTIAL
 
 **Identity:** Radicals head and emerging trusted leader: proven, people-focused co-worker sent into hard places and reporting honestly; growing in courage, teaching responsibility, gentle correction and independence under Paul's mentorship. Not a nervous stereotype; age never assigned.
 

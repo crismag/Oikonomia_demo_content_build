@@ -27,6 +27,11 @@ We did not need to prove anything in the synagogue. He did not need to be embarr
 - Identify one more capable teacher at Mentorship Night who would benefit from the same approach.
 - Recommend Apollos to teach beyond our circle when he is ready, and say so in writing.
 
+### Progress
+
+- 2026-05-13 — Gave Apollos restricted, specific teaching feedback.
+- 2026-07-24 — Helped Paul choose what to hand on first.
+
 **Biblical account:** Acts 18:24–28.
 
 ---
@@ -51,6 +56,10 @@ A city is full of couples and families who have just moved, some by choice and s
 - Ask newcomer couples what practical help they need (housing leads, work contacts) and connect them with the right person.
 - Tell our own story of being uprooted only when it helps, and without making it the centre.
 
+### Progress
+
+- 2026-08-12 — The Morgans joined TrailBlazers.
+
 **Biblical account:** Acts 18:1–3; 1 Corinthians 16:19; Romans 16:3–5.
 
 ---
@@ -73,5 +82,9 @@ I want the gathering in our home to be warm and well fed, and also clear. People
 - Leave room for questions and follow up privately where someone is confused.
 - Share teaching turns with Aquila and with developing leaders in the group.
 - Take part in at least one Mentorship Night series as a learner rather than a contributor.
+
+### Progress
+
+- 2026-06-03 — Home gathering where questions were welcome before they were polished.
 
 **Biblical account:** Acts 18:26; 1 Corinthians 16:19; Romans 16:5.

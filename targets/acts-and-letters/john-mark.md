@@ -1,6 +1,6 @@
 # John Mark — Generation Target
 
-**ID:** `person.john_mark` | **Status:** FOUNDATION EXISTS
+**ID:** `person.john_mark` | **Status:** SUBSTANTIAL
 
 **Identity:** developing leader whose early withdrawal becomes a restoration and usefulness arc: cousin of Barnabas, refused by Paul, later valued by Paul and (probably) called "my son" by Peter; quiet, concise and practical.
 

@@ -25,6 +25,11 @@ Nobody is helped if I wait until I feel qualified. The answer to being overlooke
 - Prepare teaching early in the week and ask Paul for feedback on content, not permission.
 - Review with Paul each quarter where I held back and why.
 
+### Progress
+
+- 2026-03-03 — Made the Radicals volunteer decision myself; Paul backed it in writing.
+- 2026-07-14 — Made the follow-up plan before asking Paul to read it.
+
 **Biblical account:** 1 Timothy 4:12–16; 1 Corinthians 16:10–11; 2 Timothy 1:6–7.
 
 ---
@@ -49,6 +54,10 @@ I was chosen because believers in Lystra and Iconium spoke well of me. I want Ra
 - Ask each Radicals leader to be developing one other person by September.
 - Keep appointment decisions unhurried: character and reputation first, visibility second.
 
+### Progress
+
+- 2026-07-28 — Led the first half of Mentorship Night.
+
 **Biblical account:** 2 Timothy 2:1–7; Acts 16:1–3; 1 Timothy 5:22.
 
 ---
@@ -72,6 +81,10 @@ Young adults bring hard questions and sometimes strong online arguments into the
 - Decline to host debates that are about winning, and offer a follow-up conversation instead.
 - Record difficult conversations in restricted reports shared with Paul, so I can learn from them.
 
+### Progress
+
+- 2026-09-01 — Agreed Martin co-leads a spring session; Friday leadership reviewed in October.
+
 **Biblical account:** 1 Timothy 1:3–7; 1 Timothy 5:1–2; 2 Timothy 2:14–26.
 
 ---
@@ -94,5 +107,9 @@ A report can say attendance was fine and miss the person who is quietly falling 
 - Follow up in person with any young adult who misses three Fridays in a row.
 - When Paul asks me to check on a situation, report back within a week with what I saw, including anything uncomfortable.
 - Celebrate good news in reports as specifically as I name concerns.
+
+### Progress
+
+- 2026-08-14 — Told Esther, with permission, that a young adult is sleeping at night.
 
 **Biblical account:** 1 Thessalonians 3:1–10; Philippians 2:19–22.

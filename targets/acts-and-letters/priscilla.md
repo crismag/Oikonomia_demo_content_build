@@ -1,6 +1,6 @@
 # Priscilla — Generation Target
 
-**ID:** `person.priscilla` | **Status:** FOUNDATION EXISTS
+**ID:** `person.priscilla` | **Status:** SUBSTANTIAL
 
 **Identity:** mature discipler and teacher practising genuinely shared leadership with Aquila, hospitality that becomes a church, welcome for people starting over, and private corrective instruction that sends gifted people further.
 

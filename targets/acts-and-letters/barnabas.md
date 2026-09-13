@@ -1,6 +1,6 @@
 # Barnabas — Generation Target
 
-**ID:** `person.barnabas` | **Status:** FOUNDATION EXISTS
+**ID:** `person.barnabas` | **Status:** SUBSTANTIAL
 
 **Identity:** head of Mentorship: encourager and bridge-builder who advocates for people with specific evidence, recruits leaders who will outgrow him, gives practically, holds his ground in real disagreement, and can still be carried along by respected people.
 

@@ -26,6 +26,11 @@ I'm not going to put my reasons into a goal. What matters for this year is that 
 - Review my completed and unfinished assignments with Barnabas each quarter, with a second Mentorship leader present.
 - Don't accept a new assignment while one is overdue.
 
+### Progress
+
+- 2026-06-12 — Told Peter about a missed visit before he came to me.
+- 2026-09-02 — Deferred a fifth household until my shifts settle.
+
 **Biblical account:** Acts 13:5, 13; Acts 15:36–40.
 
 ---
@@ -50,6 +55,10 @@ Usefulness came from ordinary, reliable service over time. I want to keep it tha
 - Write a short completion note after each assignment so Luke's records and Peter's weekly report are accurate.
 - Say yes when Paul, Peter or Barnabas asks for help on specific work, if Goal 1 allows it.
 
+### Progress
+
+- 2026-08-20 — Delivered Paul's checklist a day early.
+
 **Biblical account:** Colossians 4:10–11; Philemon 24; 2 Timothy 4:11; 1 Peter 5:13.
 
 ---
@@ -72,5 +81,9 @@ I don't need to prove that either of them was wrong. I need to keep serving fait
 - Don't take sides in disagreements between Paul and Barnabas, in public or in comments.
 - Share my story at Mentorship Night only when it helps someone else, and keep it short.
 - Pray regularly for both Barnabas and Paul.
+
+### Progress
+
+- 2026-04-28 — Wrote my own account of Cyprus without deciding who was right.
 
 **Biblical account:** Acts 15:36–41; Colossians 4:10; 2 Timothy 4:11.
