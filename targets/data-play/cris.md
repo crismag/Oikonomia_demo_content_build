@@ -16,6 +16,7 @@
 - [x] Incident reports: Eutychus, stone tablets replacement, golden calf (serious), Saul's armor, Gideon's staffing reduction, livestock-noise audit, borrowed axe head
 - [x] Further follow-ups: Peter's overcommitment, Nehemiah's declined meetings, Saul at Gilgal, David and Michal, Naaman, Philip and Andrew's feeding calculation, Solomon's strategy document
 - [x] Weekly church schedule, events calendar and weekly agendas (Jul–Sep)
+- [x] Personal concerns and leadership reflections on parables and teachings: ninety-nine sheep, two small coins, the Samaritan, the fattened calf, the great banquet, vineyard payroll, Mary's ointment, counting the cost
 - [ ] Weekly coordination summaries, Jan–Sep 2026
 - [ ] Leadership Council meeting notes with action items
 - [ ] Peter / John documentation-versus-discretion mediation
