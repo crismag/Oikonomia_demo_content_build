@@ -9,7 +9,7 @@
 **Record type:** Events Proposal  
 **Date:** 2026-09-10  
 **Visibility:** Leadership  
-**Shared with:** Solomon, Phoebe, Stephen, Miriam  
+**Shared with:** Solomon, Phoebe, Stephen, Miriam, Cris  
 **Status:** In Progress  
 **Tags:** #administrative #gratitude #hope
 

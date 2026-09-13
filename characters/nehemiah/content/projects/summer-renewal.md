@@ -51,7 +51,7 @@ A volunteer-led summer project, July to August, with contractors for ceiling and
 **Record type:** Project Completion Report  
 **Date:** 2026-09-07  
 **Visibility:** Leadership  
-**Shared with:** Ezra, Hezekiah, Caleb, Joshua, Saul, Thaddaeus, Aristarchus, Onesimus, Solomon, Martha, Stephen  
+**Shared with:** Ezra, Hezekiah, Caleb, Joshua, Saul, Thaddaeus, Aristarchus, Onesimus, Solomon, Martha, Stephen, Cris  
 **Status:** Complete  
 **Tags:** #celebratory #gratitude #joy
 

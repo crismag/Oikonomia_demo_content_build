@@ -105,6 +105,7 @@ Musical beauty and theological care should not be treated as competitors.
 **Record type:** Equipment Stewardship Review  
 **Date:** 2026-05-17  
 **Visibility:** Shared  
+**Shared with:** Cris
 **Status:** Complete  
 **Tags:** #administrative
 
@@ -157,6 +158,7 @@ Develop a small indexed set of lament selections with biblical context for pasto
 **Record type:** Weekly Psalmists Report  
 **Date:** 2026-08-30  
 **Visibility:** Shared  
+**Shared with:** Cris
 **Status:** Complete  
 **Tags:** #administrative #funny
 

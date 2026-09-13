@@ -10,6 +10,7 @@ Paul files a weekly leadership report to the Leadership Council on Monday when s
 
 **Record type:** Weekly Leadership Report  
 **Visibility:** Leadership  
+**Shared with:** Cris
 **Status:** Complete  
 **Tags:** #reflective #hope #administrative
 
@@ -99,6 +100,7 @@ Barnabas also asked me, directly, whether I am carrying something I haven't name
 
 **Record type:** Weekly Leadership Report  
 **Visibility:** Leadership  
+**Shared with:** Cris
 **Status:** Complete  
 **Tags:** #reflective #exhaustion #humility
 
@@ -306,6 +308,7 @@ I received a card from Epaphroditus, who once nearly died carrying a gift to me 
 
 **Record type:** Weekly Leadership Report  
 **Visibility:** Leadership  
+**Shared with:** Cris
 **Status:** Complete  
 **Tags:** #reflective #hope #gratitude
 

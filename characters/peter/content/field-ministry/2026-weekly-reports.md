@@ -10,7 +10,7 @@ Peter heads Field Ministry and writes its weekly report on Monday. Luke supplies
 
 **Record type:** Ministry Report / Field Ministry  
 **Visibility:** Leadership  
-**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene, Cris  
 **Status:** Complete  
 **Tags:** #administrative #hope
 
@@ -247,7 +247,7 @@ Thomas and Jonah continue the Gerald Voss visits. Jonah's latest note was four l
 
 **Record type:** Ministry Report / Field Ministry  
 **Visibility:** Leadership  
-**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene, Cris  
 **Status:** Complete  
 **Tags:** #administrative #reflective
 
@@ -394,7 +394,7 @@ I apologised to John this week for comparing our Lifegroups' sizes in a tone he 
 
 **Record type:** Ministry Report / Field Ministry  
 **Visibility:** Leadership  
-**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene, Cris  
 **Status:** Complete  
 **Tags:** #pastoral #hope #administrative
 

@@ -10,7 +10,7 @@ Nehemiah heads Facilities and files a weekly report dated the Sunday of the week
 
 **Record type:** Ministry Report / Facilities  
 **Visibility:** Leadership  
-**Shared with:** Hezekiah, Caleb, Joshua  
+**Shared with:** Hezekiah, Caleb, Joshua, Cris  
 **Status:** Complete  
 **Tags:** #administrative #serious #conviction
 
@@ -297,7 +297,7 @@ When the wall was half built, the people of Judah said the strength of the burde
 
 **Record type:** Ministry Report / Facilities  
 **Visibility:** Leadership  
-**Shared with:** Hezekiah, Caleb, Joshua  
+**Shared with:** Hezekiah, Caleb, Joshua, Cris  
 **Status:** Complete  
 **Tags:** #administrative #hope #gratitude
 
@@ -455,7 +455,7 @@ Sunday, September 6. Events owns the occasion; Psalmists leads worship; Producti
 
 **Record type:** Ministry Report / Facilities  
 **Visibility:** Leadership  
-**Shared with:** Hezekiah, Caleb, Joshua, Saul, Thaddaeus, Aristarchus, Onesimus, Solomon, Miriam, Tychicus  
+**Shared with:** Hezekiah, Caleb, Joshua, Saul, Thaddaeus, Aristarchus, Onesimus, Solomon, Miriam, Tychicus, Cris  
 **Status:** Complete  
 **Tags:** #celebratory #joy #gratitude
 

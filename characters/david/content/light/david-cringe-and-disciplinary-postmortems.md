@@ -96,6 +96,7 @@ I understand why Leadership would still like to discuss the method.
 **Record type:** Equipment / Cringe Moment  
 **Date:** 2026-02-09  
 **Visibility:** Shared  
+**Shared with:** Cris
 **Status:** Returned Immediately  
 **Tags:** #light #administrative #cringe
 
@@ -140,6 +141,7 @@ David returned to:
 **Record type:** Historical Administrative Record  
 **Date:** 2026-03-02  
 **Visibility:** Shared  
+**Shared with:** Cris
 **Status:** Completed  
 **Tags:** #administrative #cringe #awkward
 
@@ -180,6 +182,7 @@ David and his men killed two hundred Philistines and delivered the required evid
 **Record type:** Property / Personal Development  
 **Date:** 2026-03-30  
 **Visibility:** Shared  
+**Shared with:** Cris
 **Status:** Self-Reported  
 **Tags:** #administrative #cringe #conviction #light
 
@@ -213,6 +216,7 @@ David's conscience troubled him afterward.
 **Record type:** Administrative / Reporting Issue  
 **Date:** 2026-05-24  
 **Visibility:** Shared  
+**Shared with:** Cris
 **Status:** Resolved  
 **Tags:** #administrative #funny #cringe
 
@@ -249,6 +253,7 @@ David was reminded that:
 **Record type:** Ministry / Light Incident  
 **Date:** 2026-06-26  
 **Visibility:** Shared  
+**Shared with:** Cris
 **Status:** Closed  
 **Tags:** #funny #light #cringe
 
@@ -286,6 +291,7 @@ David decided explanation was insufficient and demonstrated.
 **Record type:** Psalmists / Asset Clarification  
 **Date:** 2026-08-07  
 **Visibility:** Shared  
+**Shared with:** Cris
 **Status:** Pending Owner Clarification  
 **Tags:** #administrative #funny #cringe
 
