@@ -90,6 +90,7 @@ Choose the section by asking the question in `GENERATION-CONTEXT.md`: *where doe
 | **Meeting Notes** | Meeting minutes or a personal meeting note, with decisions and action items | §8.3 |
 | **Goals** | Annual or quarterly goals and their progress | §8.4 |
 | **Calendar** | Recurring rhythm and dated events | §8.5 |
+| **Agenda** | A leader's weekly to-do items: follow-ups, preparation, calls, commitments made in other records | §8.6 |
 | **Reach-Out** | Outreach contact reports | §8.1 without visibility, status or tags |
 | **Form** | Checklists or structured forms that genuinely need fields, such as a volunteer form | Discuss before authoring |
 
@@ -339,6 +340,33 @@ Or for a one-off event, `**Date:** 2026-04-05` instead of `Repeats` / `From` / `
 
 ---
 
+### 8.6 Agenda
+
+```markdown
+# Peter — Weekly Agenda — August to September 2026
+
+**Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-08-31
+
+- [x] Call the Riverside family before the follow-up visit — due 2026-09-02 — Field Ministry
+- [ ] Brief four remaining Lifegroup leaders on in-person handoffs — due 2026-09-06
+- [x] Coffee with John — Thursday
+- [ ] Ask Tunde about co-leading from October — for Marisol
+```
+
+- One file per person; one `## Week of YYYY-MM-DD` record per week. The date is the **Monday** of that week.
+- Each item is one checklist line. `[x]` is done, `[ ]` is open.
+- After the text, optional parts separated by ` — `, in any order:
+  - `due YYYY-MM-DD`, or a weekday (`Thursday`) meaning that day of the week;
+  - a ministry name from `organization/ministries.md`;
+  - `for <Name>` when the item is done on behalf of, or assigned to, another roster person.
+- Items should come from somewhere real: a meeting action, a follow-up, a commitment in a report, a calendar occasion. Agendas are not a place to invent new storylines.
+- Keep item text short and concrete. Pastoral details stay out; "Call L.K." or "Hospital visit (see restricted note)" is enough.
+- Agendas are private working lists: they have no visibility, status or tags lines, and no comments.
+
 ## 9. Writing inside a record
 
 The body converts cleanly into Oikonomia when it uses:
@@ -397,6 +425,7 @@ For script maintainers. Authors do not need this section.
 | Meeting Notes | `meeting_note` (`note_type`, `meeting_type`, facilitator, note taker, participants, absentees, blocks, tags) + `meeting_task` per action item |
 | Goal | `goal` (year 2026, status, ministry, owner, target, description) + `goal_update` per Progress bullet |
 | Calendar | `schedule_entry` (single date or recurrence, category, ministry, organizer ← owner) |
+| Agenda | `agenda_item` per checklist line: `text`, `week_of` ← week Monday (or `date` when a weekday or due date is given), `completed` ← `[x]`, `due_at` ← due date, `ministry_id`, `assignee_id` ← `for <Name>` or owner |
 | Oikonomia identity | `person`, `account` (active), `onboarding_state` (complete), `ministry_member` / `responsibility_group_member` (confirmed), `demo_identity` for Featured / Available |
 | Status word | `Draft` → draft; anything else → finished; original wording kept in the body header |
 | Tag spelling | Lowercased, `#` stripped |
