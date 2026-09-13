@@ -23,6 +23,10 @@
 - [x] Mentorship with John Mark (start, missed visit, progress)
 - [x] Newcomer welcome review with Greeters and Ushers and Cornelius (`content/meetings/2026-07-12-…`)
 - [x] Gentle humor: over-promising, answering for others (barbecue), three-seconds rule
+- [x] Weekly Field Ministry reports every week July–September
+- [x] Jonah coaching records (Feb; fortnightly Jul–Sep): naming resentment, Gerald Voss, Riverside fire, Carl Brennan's letter
+- [x] Apology to John for comparing Lifegroups
+- [x] Inclusion principle three-month review (September)
 - [x] Goal progress entries
 - [ ] Calling testimony (Luke 5) as a standalone record
 - [ ] Future planning Oct 2026 – Dec 2027: co-leader handover, 2027 visitor recruitment
@@ -30,8 +34,9 @@
 ## Continuity threads open at 2026-09-13
 - Lifegroup co-leadership with Marisol and Tunde from 2026-10-07.
 - Tomasz's baptism, 2026-09-27.
-- Peter's briefing of Lifegroup leaders on in-person handoffs (due 2026-09-06, open).
-- Cornelius' newcomer pathway report to Council (due 2026-08-30, open).
+- Peter's briefing of Lifegroup leaders on in-person handoffs (five of nine done; rest booked 2026-09-13).
+- Cornelius' newcomer pathway report moved to the October Council.
+- Jonah on the Riverside (Brennan) follow-up through October; Carl Brennan's association volunteering at distribution.
 - Field Ministry recruitment of four visitors for 2027.
 - Mark's fifth household and 2027 team-lead review in October.
 

@@ -30,6 +30,7 @@ Speed isn't the problem. Answering before I've understood is.
 - 2026-03-16 — Raised my voice at a hospital nursing station on March 12; apologised the next day and wrote an incident review with Barnabas. No solo hospital visits until the end of April.
 - 2026-04-29 — The Lifegroup's three-seconds rule: Priya's count averages 1.8 seconds. Improving, not there.
 - 2026-05-11 — Withdrew the second-group proposal after reading every response before deciding.
+- 2026-08-26 — Apologised to John for comparing our Lifegroups' sizes.
 - 2026-09-02 — No repeat of the March incident. Still answering some Lifegroup questions early.
 
 **Biblical account:** Mark 9:2–8; Matthew 16:21–23; John 18:10–11.
@@ -62,6 +63,7 @@ It is easy for me to be glad a room is full. The charge was to feed and tend the
 - 2026-02-09 — Two new Field Ministry visitors began training.
 - 2026-08-10 — Both spring trainees now visit independently; no missed visits in July or August so far.
 - 2026-09-02 — Marisol and Tunde agreed to co-lead the Wednesday Lifegroup from October.
+- 2026-08-31 — August ended with no missed visits despite summer coverage gaps.
 - 2026-09-07 — James and Elisha each lead a Thursday route independently; follow-up list has no item older than ten days.
 
 **Biblical account:** John 21:15–17; 1 Peter 5:1–4; Acts 9:32–43.
@@ -94,6 +96,7 @@ The fear that made me deny Jesus in a courtyard showed up again at a dinner tabl
 - 2026-05-13 — Apologised to the Lifegroup; bilingual materials and paired discussion agreed together.
 - 2026-06-07 — Leadership Council adopted the principle that Lifegroups are not divided by language or length of attendance.
 - 2026-07-12 — Newcomer welcome review with Greeters and Ushers and Cornelius; in-person Lifegroup handoffs agreed.
+- 2026-09-08 — Three-month review with Paul: principle practised in four Lifegroups; my leader briefings are behind (five of nine).
 
 **Biblical account:** Acts 10:9–48; Acts 11:1–18; Galatians 2:11–14.
 
@@ -124,6 +127,8 @@ My failure came with an assignment attached. I want to help leaders who think a 
 - 2026-04-05 — Shared the denial and restoration testimony at Easter; three people asked for pastoral follow-up.
 - 2026-06-16 — Walked with Mark through a missed visit without removing his route.
 - 2026-08-05 — Tomasz shared his testimony of nearly leaving; baptism set for September 27.
+- 2026-08-14 — Assigned Jonah to the Riverside family after the fire, with Mary Magdalene leading.
 - 2026-08-25 — Mark has had no gaps since June; Barnabas to consider him for team lead in 2027.
+- 2026-09-11 — Jonah honest about not yet being glad; stays on the Riverside follow-up through October.
 
 **Biblical account:** Luke 22:31–32; Mark 16:7; John 21:15–19; 1 Peter 5:13.

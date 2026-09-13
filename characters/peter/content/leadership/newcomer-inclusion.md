@@ -94,3 +94,44 @@ Whenever I describe people as a "load," or suggest moving someone to another roo
 **Paul:** Thank you. For what it's worth, I didn't write my comment as someone who has never divided a table. Barnabas and I once disagreed so sharply about who should come with us that we went separate ways. I'm glad you asked for this to be watched. I'll watch.
 
 **Barnabas:** I'll watch too. And for the record, Peter, I remember Antioch from where I was standing. I went along with you. This time you stopped before anyone had to follow.
+
+---
+
+## Inclusion Principle — Three Months On
+
+**Record type:** Leadership Review  
+**Date:** 2026-09-08  
+**Visibility:** Leadership  
+**Shared with:** Cornelius, Mordecai, Andrew, Philip  
+**Status:** Follow-up Required  
+**Tags:** #administrative #hope #accountability
+
+Deborah asked in June that the Council check in September whether the Lifegroup inclusion principle is being practised, not only written. Paul and I reviewed it this week.
+
+### What is happening
+
+- Ezra added the principle to the Lifegroup leaders' guide in June.
+- Four Lifegroups now use bilingual sheets. Mine uses English and Mandarin; Thomas' uses English and Spanish.
+- Three volunteer interpreters (Mandarin, Spanish, Yoruba) are on Mordecai's schedule. The Lin family uses one on the first Sunday of each month.
+- Andrew has walked eleven newcomer households to a Lifegroup leader in person since July.
+- My own group: the Lins still attend every gathering. Mrs. Lin now checks the Mandarin sheets. Emily translates only when she offers.
+
+### What isn't
+
+- I didn't brief all Lifegroup leaders on in-person handoffs by September 6, as assigned in July. I've briefed five of nine. The rest are booked for next Sunday.
+- Cornelius' newcomer pathway report was due August 30 and is still outstanding. Cornelius has told me it will come to the October Council, because he wants to include the September interpreter numbers.
+
+### Honest note
+
+Two longer-standing members in another Lifegroup have told their leader they're frustrated by the slower pace. That's not a failure of the principle. It's a pastoral conversation their leader is having, and Samuel was right in June that they need patience too.
+
+**Attention:** Newcomer pathway report moved to the October Council; four Lifegroup leaders still to be briefed.  
+**Attention to:** Church leadership  
+**Related goal:** Goal 3 — Keep the same table when different people are watching
+
+### Comments
+
+**Cornelius:** Confirmed for October. The September numbers are worth waiting for; interpreter requests doubled.
+
+**Andrew:** Eleven households, and one of them came back to tell me they'd joined.
+

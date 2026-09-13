@@ -94,3 +94,34 @@ For what it's worth, I've been here before. A servant of the high priest once lo
 **John:** Peter was wrong at the nursing station and right about the care history.
 
 **Cris:** Noted. Not in the care history.
+
+---
+
+## Apology to John — Counting Chairs
+
+**Record type:** Relationship / Personal Development  
+**Date:** 2026-08-26  
+**Visibility:** Named people  
+**Shared with:** John  
+**Status:** Complete  
+**Tags:** #light #humility #regret
+
+In July I asked John how many people came to his Wednesday Lifegroup, which has a waiting list. John says the tone was "competitive." I asked a second time in August, which John says confirmed the tone.
+
+My own Lifegroup talked about comparison on August 19, and I told them I would apologise. I did, today, over coffee.
+
+I have asked this kind of question before. After Jesus restored me and told me to follow Him, I turned around, saw the disciple whom Jesus loved following, and asked, "Lord, what about this man?" Jesus said, "What is that to you? You follow me."
+
+John's group is bigger because John's group is good. Mine is smaller because mine is good in a different way, and because a sixteen-year-old translator and a man with strong opinions about chairs don't fit fifteen more people.
+
+**Related goal:** Goal 1 — Listen all the way through before I answer  
+**Biblical account:** John 21:20–22.
+
+### Comments
+
+**John:** Apology accepted. For the record, I wrote down the tone the first time and did not mention it until you did.
+
+**Peter:** Of course you wrote it down.
+
+**John:** I write most things down.
+

@@ -199,6 +199,98 @@ Elisha told the team about a servant who once ran after a healed man and took si
 
 ---
 
+## 2026-07-13 — Field Ministry Weekly Report — Walter Home, Routes Rebalanced
+
+**Record type:** Ministry Report / Field Ministry  
+**Visibility:** Leadership  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene  
+**Status:** Complete  
+**Tags:** #administrative #gratitude
+
+**Visits this week:** 15 home visits, 1 hospital visit, 1 care-home service.
+
+Walter Price is home after his second hospital stay and is back at Lifegroup. He asked Field Ministry to stop visiting him "before it becomes a habit." We'll phone instead.
+
+Luke rebalanced the Thursday routes so no visitor has more than five households. Mark picked up a household from Elisha's route, which frees Elisha for the two families in crisis he's been supporting.
+
+### Open
+
+- August holiday coverage: Luke is drafting a schedule.
+
+**Related goal:** Goal 2 — Feed and tend, not only gather
+
+---
+
+## 2026-07-20 — Field Ministry Weekly Report — Care-Home Chaplain Change
+
+**Record type:** Ministry Report / Field Ministry  
+**Visibility:** Leadership  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene, Silas  
+**Status:** Complete  
+**Tags:** #administrative #hope
+
+**Visits this week:** 14 home visits, 2 hospital visits, 1 care-home service.
+
+Maple Court care home has a new chaplaincy coordinator who asked whether our monthly service could move to Sunday afternoons. Silas and his worship volunteers can do the first Sunday of each month. Luke has confirmed from August.
+
+Thomas and Jonah continue the Gerald Voss visits. Jonah's latest note was four lines, which I'm reporting as a trend.
+
+### Open
+
+- Sunday afternoon care-home service needs one more volunteer to help residents to the chapel.
+
+**Related goal:** Goal 2 — Feed and tend, not only gather
+
+---
+
+## 2026-07-27 — Field Ministry Weekly Report — A Quiet Week
+
+**Record type:** Ministry Report / Field Ministry  
+**Visibility:** Leadership  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene  
+**Status:** Complete  
+**Tags:** #administrative #reflective
+
+**Visits this week:** 12 home visits, 1 hospital visit.
+
+An ordinary week. No crises, no incidents, no missed visits. I'm writing that down because in January I wouldn't have believed a quiet week was possible for this team.
+
+Mary Magdalene's grief visits with one family end this month at the family's request; they've asked to be added to the Christmas card list instead, which she has done.
+
+### Open
+
+- None new.
+
+**Related goal:** Goal 2 — Feed and tend, not only gather
+
+### Comments
+
+**Cris:** Confirming this report has no open items. I have checked twice.
+
+---
+
+## 2026-08-03 — Field Ministry Weekly Report — August Coverage Begins
+
+**Record type:** Ministry Report / Field Ministry  
+**Visibility:** Leadership  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene, John Mark  
+**Status:** Complete  
+**Tags:** #administrative #exhaustion
+
+**Visits this week:** 13 home visits, 2 hospital visits.
+
+First week of August coverage. James, John and Luke are away in rotation. Elisha and Mary Magdalene covered two extra routes each.
+
+John Mark is drafting the visit-follow-up checklist Paul asked him to write, and has promised Luke a draft this week.
+
+### Open
+
+- Coverage for the weeks of August 17 and 24 is still thin.
+
+**Related goal:** Goal 2 — Feed and tend, not only gather
+
+---
+
 ## 2026-08-10 — Field Ministry Weekly Report — Summer Coverage
 
 **Record type:** Ministry Report / Field Ministry  
@@ -223,6 +315,78 @@ Half the team is away for at least one week in August. We kept every housebound 
 **Attention:** Field Ministry needs at least four additional trained visitors for 2027 coverage.  
 **Attention to:** Church leadership  
 **Related goal:** Goal 2 — Feed and tend, not only gather
+
+---
+
+## 2026-08-17 — Field Ministry Weekly Report — Fire on Riverside Drive
+
+**Record type:** Ministry Report / Field Ministry  
+**Visibility:** Leadership  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene, Stephen, Jonah  
+**Status:** Complete  
+**Tags:** #serious #compassion #administrative
+
+**Visits this week:** 11 home visits, 2 hospital visits, 1 household assessment with More Than Enough.
+
+A house fire on Riverside Drive last Tuesday left a family of six without a home for several months. Nobody was hurt. Stephen asked Field Ministry to help More Than Enough assess what the family needs.
+
+Mary Magdalene led the visit today at the motel where the family is staying, with Jonah. The needs list is with Stephen's team. The family's circumstances and any history with the church stay out of this report.
+
+### Open
+
+- Follow-up visit in two weeks (Mary Magdalene and Jonah).
+
+**Related goal:** Goal 2 — Feed and tend, not only gather
+
+---
+
+## 2026-08-24 — Field Ministry Weekly Report — Riverside Needs Met
+
+**Record type:** Ministry Report / Field Ministry  
+**Visibility:** Leadership  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene, Stephen, Jonah, John Mark  
+**Status:** Complete  
+**Tags:** #gratitude #hope
+
+**Visits this week:** 12 home visits, 1 hospital visit.
+
+More Than Enough delivered everything on the Riverside family's needs list within a week, including a replacement hearing aid. Jonah asked to deliver that one personally.
+
+John Mark's checklist is final. Luke says it's the first document the team has read voluntarily.
+
+Coverage held through the thinnest week of the summer. Nobody missed a visit.
+
+### Open
+
+- Rest week for each regular visitor before the end of September (Luke scheduling).
+
+**Related goal:** Goal 2 — Feed and tend, not only gather
+
+---
+
+## 2026-08-31 — Field Ministry Weekly Report — End of Summer
+
+**Record type:** Ministry Report / Field Ministry  
+**Visibility:** Leadership  
+**Shared with:** James son of Zebedee, John, Luke, Elisha, Mary Magdalene  
+**Status:** Complete  
+**Tags:** #gratitude #relief #administrative
+
+**Visits this week:** 16 home visits, 2 hospital visits, 1 care-home service.
+
+Everyone is back. August ended with no missed visits, two new independent visitors, and a team that is tired but not burned out. Luke has scheduled a rest week for every regular visitor in September.
+
+I apologised to John this week for comparing our Lifegroups' sizes in a tone he described as competitive. That's in a separate note. It doesn't belong in a ministry report, except to say that the Field Ministry team's two most senior visitors are speaking to each other normally.
+
+### Open
+
+- 2027 recruitment (four trained visitors).
+
+**Related goal:** Goal 2 — Feed and tend, not only gather
+
+### Comments
+
+**John:** We are speaking normally.
 
 ---
 
