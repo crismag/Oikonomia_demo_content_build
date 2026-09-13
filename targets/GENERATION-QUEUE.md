@@ -31,7 +31,7 @@ This is the roster/status view. Character-specific topics live only in the linke
 - [ ] Jonah — `ot/jonah.md` — FOUNDATION EXISTS
 
 ## Gospels / Twelve
-- [ ] Peter — `gospels/peter.md` — FOUNDATION EXISTS
+- [x] Peter — `gospels/peter.md` — SUBSTANTIAL
 - [ ] Andrew — `gospels/andrew.md` — FOUNDATION EXISTS
 - [ ] James son of Zebedee — `gospels/james-son-of-zebedee.md` — FOUNDATION EXISTS
 - [ ] John — `gospels/john.md` — FOUNDATION EXISTS
