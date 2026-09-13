@@ -25,6 +25,10 @@ Years later Peter and I were sent to Samaria. We prayed for Samaritan believers 
 - When I feel indignant at someone who rejects us, pray and wait a day before writing anything.
 - Talk honestly at Mentorship Night about the fire request, without making it smaller or funnier than it was.
 
+### Progress
+
+- 2026-08-17 — Proposed a new open Lifegroup led by two trained members instead of keeping a waiting list.
+
 **Biblical account:** Luke 9:49–56; Mark 9:38–41; Acts 8:14–25.
 
 ---
@@ -50,6 +54,12 @@ My instinct is to write everything down exactly. I want my records to be accurat
 - Separate what was said from what I think it means, in every record.
 - Keep pastoral details from Field Ministry visits in restricted records, and say face to face what doesn't belong on paper.
 
+### Progress
+
+- 2026-03-23 — Agreed with Peter and Cris on what belongs in a care history versus a restricted visit note.
+- 2026-06-23 — Removed identifying detail from a visit note after Peter asked who needed it.
+- 2026-07-30 — Two notes reviewed with Peter; one sentence removed.
+
 **Biblical account:** Acts 4:19–20; Mark 9:9; Luke 9:36; Mark 5:43.
 
 ---
@@ -72,5 +82,9 @@ The teaching I return to most is in 1 John: "let's not love in word only, or wit
 - Join Peter's Thursday Field Ministry visits at least twice a month, especially for long-term home care.
 - Refer material needs to More Than Enough rather than handling distribution myself.
 - Teach one short series in Lifegroup on love one another from 1 John, with a practical response each week.
+
+### Progress
+
+- 2026-05-13 — Lifegroup practical needs handed to the right ministry with a named person.
 
 **Biblical account:** Acts 3:1–10; 1 John 3:16–18; 1 John 4:7–12.

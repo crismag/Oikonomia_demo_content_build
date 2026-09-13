@@ -1,6 +1,6 @@
 # James son of Zebedee — Generation Target
 
-**ID:** `person.james_zebedee` | **Status:** FOUNDATION EXISTS
+**ID:** `person.james_zebedee` | **Status:** SUBSTANTIAL
 
 **Identity:** high-energy inner-circle disciple and Field Ministry team leader under Peter, whose zeal and ambition are redirected toward servant leadership and staying present with people. Scripture records no words of his alone and only one sentence about his death; his files keep to that.
 

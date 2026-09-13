@@ -27,6 +27,10 @@ I still notice who gets the visible assignment. I want to be the one who makes t
 - Name a teammate's work in each team summary to Peter before my own.
 - At Mentorship Night, speak honestly about the seats request when teams are competing.
 
+### Progress
+
+- 2026-09-10 — Ran my Thursday route independently for the first time.
+
 **Biblical account:** Mark 10:35–45; Matthew 20:20–28.
 
 ---
@@ -51,6 +55,10 @@ Being chosen to come close didn't mean I stayed. Field Ministry takes us into ho
 - Pray with the team before difficult visits, not only after.
 - Ask Peter for honest feedback each quarter on whether I rush people.
 
+### Progress
+
+- 2026-04-16 — Added a buffer between visits after staying to listen made us late.
+
 **Biblical account:** Mark 14:32–42; Matthew 26:36–46.
 
 ---
@@ -74,5 +82,10 @@ In Field Ministry some people say no: they don't want a visit, don't return a ca
 - Wait at least a week before asking Peter whether to try again.
 - Refuse to talk about people who turned us away as difficult, in reports or in comments.
 - Talk with Elijah at Mentorship Night about what Scripture records of his fire and what Jesus said to us.
+
+### Progress
+
+- 2026-07-14 — Recorded a refused visit without assigning a motive.
+- 2026-09-10 — The door refused in August opened a week later.
 
 **Biblical account:** Luke 9:51–56; 2 Kings 1:9–12.

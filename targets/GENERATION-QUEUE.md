@@ -33,8 +33,8 @@ This is the roster/status view. Character-specific topics live only in the linke
 ## Gospels / Twelve
 - [x] Peter — `gospels/peter.md` — SUBSTANTIAL
 - [ ] Andrew — `gospels/andrew.md` — FOUNDATION EXISTS
-- [ ] James son of Zebedee — `gospels/james-son-of-zebedee.md` — FOUNDATION EXISTS
-- [ ] John — `gospels/john.md` — FOUNDATION EXISTS
+- [x] James son of Zebedee — `gospels/james-son-of-zebedee.md` — SUBSTANTIAL
+- [x] John — `gospels/john.md` — SUBSTANTIAL
 - [ ] Philip — `gospels/philip.md` — FOUNDATION EXISTS
 - [ ] Nathanael / Bartholomew — `gospels/nathanael-bartholomew.md` — FOUNDATION EXISTS
 - [ ] Matthew — `gospels/matthew.md` — FOUNDATION EXISTS

@@ -1,6 +1,6 @@
 # John — Generation Target
 
-**ID:** `person.john` | **Status:** FOUNDATION EXISTS
+**ID:** `person.john` | **Status:** SUBSTANTIAL
 
 **Identity:** teaching and pastoral care leader and careful witness; Peter's long-time partner; earlier zeal (exclusion, the fire request, ambition) visibly corrected and redirected, including toward Samaritans. "The disciple whom Jesus loved" and authorship of the Gospel, letters and Revelation are traditional or debated and stay qualified.
 
