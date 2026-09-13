@@ -1,6 +1,28 @@
-# Moses — Weekly Agenda — September 2026
+# Moses — Weekly Agenda — August to September 2026
 
 **Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-08-17
+
+- [x] Edom route-change reflection — Monday
+- [x] Weekly report: Aaron, grief and transition — due 2026-08-23
+
+---
+
+## Week of 2026-08-24
+
+- [x] Governance case write-up: daughters of Zelophehad — Monday
+- [x] Leadership transition status: Aaron's death — Monday
+- [x] Weekly report: giving Joshua authority — due 2026-08-30
+
+---
+
+## Week of 2026-08-31
+
+- [x] Succession request reflection — Monday
+- [x] Prepare Council agenda, with Paul returning — due 2026-09-06
 
 ---
 

@@ -1,6 +1,25 @@
-# Silas — Weekly Agenda — September 2026
+# Silas — Weekly Agenda — August to September 2026
 
 **Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-08-17
+
+- [x] Psalmists practice — Thursday — Psalmists
+
+---
+
+## Week of 2026-08-24
+
+- [x] Psalmists practice — Friday — Psalmists
+- [x] Confirm volunteers for the September care-home service — Field Ministry
+
+---
+
+## Week of 2026-08-31
+
+- [x] Care-home service after the dedication — Sunday — Field Ministry
 
 ---
 

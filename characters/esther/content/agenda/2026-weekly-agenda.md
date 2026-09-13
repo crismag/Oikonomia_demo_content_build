@@ -1,6 +1,56 @@
-# Esther — Weekly Agenda — August to September 2026
+# Esther — Weekly Agenda — July to September 2026
 
 **Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-07-06
+
+- [x] Check in with Nadia after back pay — Monday
+- [x] Ask Deborah to write about the non-retaliation commitment — for Deborah
+- [x] Ask Stephen for discreet grocery support for the household — More Than Enough
+
+---
+
+## Week of 2026-07-13
+
+- [x] Record Nadia's new job without details — due 2026-07-13
+- [x] Thank Timothy and Cornelius for the connection
+
+---
+
+## Week of 2026-07-20
+
+- [x] Record Victor's withdrawal of his donation — due 2026-07-20
+- [x] Reflection on power after reversal, shared with Deborah — Tuesday
+- [x] Lifegroup: the decree still stood — Wednesday
+
+---
+
+## Week of 2026-07-27
+
+- [x] Talk through timing and consent with Mordecai — Monday
+- [x] No approach to workers without their consent — for Mordecai
+
+---
+
+## Week of 2026-08-03
+
+- [x] Confirm Nadia's final warehouse paycheque cleared — due 2026-08-07
+
+---
+
+## Week of 2026-08-10
+
+- [x] Meet two further workers with Deborah; refer to the legal clinic — due 2026-08-14
+
+---
+
+## Week of 2026-08-17
+
+- [x] Record that others came forward — Monday
+- [x] Lifegroup: raised by someone — Wednesday
+- [x] Prepare Mentorship Night talk — due 2026-08-24 — Mentorship
 
 ---
 

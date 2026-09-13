@@ -1,6 +1,26 @@
-# Barnabas — Weekly Agenda — September 2026
+# Barnabas — Weekly Agenda — August to September 2026
 
 **Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-08-17
+
+- [x] Co-leader candidates with evidence — due 2026-08-18 — Mentorship
+
+---
+
+## Week of 2026-08-24
+
+- [x] Mentorship Night: Esther's talk; allow point 2 in the resource — Tuesday — Mentorship
+- [x] Mark's progress review notes from Peter — Tuesday — Mentorship
+
+---
+
+## Week of 2026-08-31
+
+- [x] Read Paul's wellbeing report — Monday
+- [x] Friday distribution shift — Friday — More Than Enough
 
 ---
 

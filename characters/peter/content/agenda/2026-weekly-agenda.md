@@ -1,6 +1,68 @@
-# Peter — Weekly Agenda — August to September 2026
+# Peter — Weekly Agenda — July to September 2026
 
 **Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-07-06
+
+- [x] Field Ministry report: gifts guideline — Monday — Field Ministry
+- [x] Lifegroup: I said yes before I asked — Wednesday
+- [x] Confirm the barbecue with Solomon in writing, with the group's agreement — due 2026-07-10 — Events Ministry
+- [x] Call Walter after discharge
+- [x] Newcomer welcome review with Mordecai and Cornelius — Sunday — Greeters and Ushers
+
+---
+
+## Week of 2026-07-13
+
+- [x] Field Ministry report — Monday — Field Ministry
+- [x] Rebalance Thursday routes with Luke — Field Ministry
+- [x] Jonah coaching: naming it — Friday
+- [x] Hand the men's breakfast idea to someone else, or drop it
+
+---
+
+## Week of 2026-07-20
+
+- [x] Field Ministry report: care-home chaplain change — Monday — Field Ministry
+- [x] Lifegroup: Tabitha's coats — Wednesday
+- [x] Ask Silas about first-Sunday care-home services — Field Ministry
+
+---
+
+## Week of 2026-07-27
+
+- [x] Field Ministry report: a quiet week — Monday — Field Ministry
+- [x] Plan August holiday coverage with Luke — Field Ministry
+- [x] Jonah coaching: Gerald — Friday
+- [x] Ask John how many people come to his Lifegroup
+
+---
+
+## Week of 2026-08-03
+
+- [x] Field Ministry report: August coverage — Monday — Field Ministry
+- [x] Lifegroup: Tomasz shares his testimony — Wednesday
+- [x] Ask Events about a September baptism date for Tomasz — Events Ministry
+
+---
+
+## Week of 2026-08-10
+
+- [x] Field Ministry report: summer coverage — Monday — Field Ministry
+- [x] Assign Jonah to the Riverside household visit with Mary Magdalene — Field Ministry
+- [x] Jonah coaching: the fire on Riverside — Friday
+- [x] Barbecue: ice and grill confirmed — Saturday — Events Ministry
+
+---
+
+## Week of 2026-08-17
+
+- [x] Field Ministry report: fire on Riverside Drive — Monday — Field Ministry
+- [x] Riverside household visit — Monday — for Mary Magdalene
+- [x] Lifegroup: what about him — Wednesday
+- [x] Ask John a second time how many come to his group
 
 ---
 

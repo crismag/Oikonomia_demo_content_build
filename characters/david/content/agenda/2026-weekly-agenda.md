@@ -1,6 +1,29 @@
-# David — Weekly Agenda — September 2026
+# David — Weekly Agenda — August to September 2026
 
 **Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-08-17
+
+- [x] Ziba matter record — Monday
+- [x] Psalmists practice — Thursday — Psalmists
+
+---
+
+## Week of 2026-08-24
+
+- [x] Solomon: preparing a son reflection — Monday
+- [x] Attend Esther's Mentorship Night talk — Tuesday — Mentorship
+- [x] Lifegroup: work someone else will finish — Thursday
+- [x] Weekly Psalmists report, an actual report — due 2026-08-30 — Psalmists
+
+---
+
+## Week of 2026-08-31
+
+- [x] Respond to Cris: songs do not close tasks — Monday — for Cris
+- [x] Family attention item — due 2026-09-01
 
 ---
 

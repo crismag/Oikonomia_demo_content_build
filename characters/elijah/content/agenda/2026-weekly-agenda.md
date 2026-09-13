@@ -1,6 +1,25 @@
-# Elijah — Weekly Agenda — September 2026
+# Elijah — Weekly Agenda — August to September 2026
 
 **Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-08-17
+
+- [x] Saturday prayer meeting: a short prayer — Saturday
+
+---
+
+## Week of 2026-08-24
+
+- [x] Mentorship Night — Tuesday — Mentorship
+- [x] Saturday prayer meeting — Saturday
+
+---
+
+## Week of 2026-08-31
+
+- [x] Join Samuel's quarterly Prayer and Fasting gathering; don't take over — Saturday
 
 ---
 

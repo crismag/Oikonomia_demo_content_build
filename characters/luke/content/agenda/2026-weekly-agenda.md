@@ -1,6 +1,25 @@
-# Luke — Weekly Agenda — September 2026
+# Luke — Weekly Agenda — August to September 2026
 
 **Oikonomia section:** Agenda
+
+---
+
+## Week of 2026-08-17
+
+- [x] Receive Mark's final checklist — due 2026-08-21 — Field Ministry
+
+---
+
+## Week of 2026-08-24
+
+- [x] Adopt the checklist on every Thursday route — due 2026-08-27 — Field Ministry
+- [x] Schedule rest weeks for September — Field Ministry
+
+---
+
+## Week of 2026-08-31
+
+- [x] Clean schedule and follow-up list to Peter — Monday — Field Ministry
 
 ---
 
