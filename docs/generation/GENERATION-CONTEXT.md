@@ -2,11 +2,19 @@
 
 Use this as the master handoff for a fresh authoring session.
 
-## Purpose
+## Purpose and destination
 
-Data Play is a rich, human-readable demo-content world for Oikonomia, a church leadership planning/reporting platform. The content must simultaneously work as realistic application data, a biblical leadership case study, a connected character drama, an occasional gentle comedy, and at times a devotional/Daily Bread-like reflection.
+**Data Play exists to produce canonical source content for eventual transformation and insertion into the Oikonomia Demo application.**
 
-It is not a collection of sterile fixtures and not a collection of prompts for future AI generation.
+Oikonomia is a church leadership planning/reporting platform. Data Play is not primarily an independent Bible-character writing project, devotional collection or fictional novel. It may intentionally have the richness of biblical reflection, leadership case study, connected character drama, occasional gentle comedy and Daily Bread-like reading, but the eventual destination is Oikonomia.
+
+Generated material should therefore map naturally to Oikonomia's actual sections and product behavior: Weekly Calendar / Agenda, Monthly Calendar / Agenda, Meeting Notes, Ministry, Lifegroup, Reach-Out, Leadership Progress Report and Volunteer Forms / Documents, together with Goals, Attendance, People, Events, tasks/actions, Attention Required, comments/follow-ups, permissions, shared/personal workspaces, linked documents, completion and printable views.
+
+Before generating an application artifact ask: **Where does this belong in Oikonomia, who owns it, who can see it, and what later activity can it affect?** Do not create a record merely because a biblical topic is interesting. Some history belongs in character/context material rather than an application record.
+
+The content must simultaneously work as realistic application data and worthwhile human-readable material. It is not a collection of sterile fixtures and not a collection of prompts for future AI generation.
+
+**Required:** every AI author or reviewer must also read `AI-GENERATION-GUARDRAILS.md` before substantial generation.
 
 ## Central fiction
 
@@ -31,6 +39,8 @@ Jesus generally remains the theological and historical center rather than an ord
 Author actual records: reports, meetings, schedules, goals, tasks, Lifegroup entries, ministry activity, prayers, testimony, personal development, mentorship, conversations/comments, attention items, follow-ups, operational reviews and related artifacts.
 
 The transformer/importer should mostly map authored substance into Oikonomia records. It should not invent the character's story.
+
+**AI writes canonical source content. A transformer maps it. Oikonomia validates and owns the resulting records.**
 
 ## Biblical literacy
 
@@ -61,9 +71,13 @@ Data Play should exercise real product concepts: leader-created work, shared wor
 
 Persona switching uses normal authorization. It does not create omniscient access. Admin/system access does not automatically expose confidential pastoral content.
 
+Respect record boundaries. Calendar/activity records say what happened and when; meetings/gatherings record what happened within them; reports explain what mattered and what needs attention; tasks state concrete work and ownership. Do not repeat identical prose merely to populate multiple sections.
+
 ## Ministries
 
 Use the canonical church ministries and responsibilities in `CHURCH-ROLES-AND-MINISTRIES.md`. Put work where it belongs. Example: manna/food provision belongs naturally in Victuals material even when Moses is historically central to the account.
+
+Topics are perspectives, not exclusive ownership. Multiple characters may legitimately reflect on one biblical event, but their Oikonomia artifacts should represent genuinely different responsibilities or perspectives rather than duplicated content.
 
 ## Humor
 
@@ -85,8 +99,20 @@ Tags describe the actual record, not merely the biblical story mentioned.
 
 ## Source architecture
 
-Prefer stable semantic identities such as `person.david`, `ministry.psalmists`, `scenario.david.ziklag` rather than database IDs. Generated/import output is disposable and separate. Canonical source content must never be rewritten by a transformer.
+Prefer stable semantic identities such as `person.david`, `ministry.psalmists`, `scenario.david.ziklag` rather than database IDs. Canonical source documents remain human-readable and semantically structured rather than imitating current SQLite tables or volatile implementation details.
+
+Generated/import output is disposable and separate. Canonical source content must never be rewritten by a transformer.
+
+## Required generation discipline
+
+For substantial generation follow:
+
+**READ → RESEARCH → CLASSIFY FACTS → PLAN → WRITE → CROSS-CHECK → COMMIT**
+
+The complete factual, chronology, character, Oikonomia, permissions, humor, sensitivity and pre-commit rules are authoritative in `AI-GENERATION-GUARDRAILS.md`.
 
 ## Quality test
 
-A strong Data Play record should still be worth reading if the reader temporarily forgets it is software test data. It should also remain structured and realistic enough that, when imported, it meaningfully tests Oikonomia.
+A strong Data Play record should still be worth reading if the reader temporarily forgets it is software test data. It should also remain structured and realistic enough that, when imported, it naturally belongs in Oikonomia and meaningfully exercises the product.
+
+When biblical fidelity, Oikonomia usefulness and creative flourish compete, **biblical fidelity comes first, then coherent Oikonomia use, then creative flourish.**
