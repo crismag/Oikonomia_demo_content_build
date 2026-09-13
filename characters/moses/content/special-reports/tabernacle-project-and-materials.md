@@ -1,13 +1,16 @@
 # Moses — Special Operational Reports: Tabernacle Project and Materials
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Project Authorization — Tabernacle
 
 **Record type:** Major Project / Authorization  
-**Owner:** Moses  
+**Date:** 2026-05-25  
+**Visibility:** Leadership  
 **Status:** Authorized  
-**Tags:** #administrative #devotional #serious #project
+**Tags:** #administrative #devotional #serious
 
 ### Purpose
 
@@ -34,7 +37,8 @@ This was not a project whose design Moses was free to improvise according to pre
 ## Materials Collection Status — Freewill Offering
 
 **Record type:** Materials / Donation Status  
-**Owner:** Moses  
+**Date:** 2026-06-01  
+**Visibility:** Leadership  
 **Status:** Collection Closed — More Than Enough  
 **Tags:** #administrative #celebratory #gratitude #abundance
 
@@ -72,9 +76,10 @@ A successful donation drive does not need to continue merely because people are 
 ## Skilled Personnel Appointment — Bezalel and Oholiab
 
 **Record type:** Personnel / Skilled Work Assignment  
-**Owner:** Moses  
+**Date:** 2026-06-01  
+**Visibility:** Leadership  
 **Status:** Appointed  
-**Tags:** #administrative #serious #creative #leadership
+**Tags:** #administrative #serious #creative
 
 ### Lead artisan
 
@@ -103,9 +108,10 @@ The project did not become less spiritual because craftsmanship, technical abili
 ## Project Completion Status — Tabernacle
 
 **Record type:** Project Completion Report  
-**Owner:** Moses  
+**Date:** 2026-06-08  
+**Visibility:** Leadership  
 **Status:** Completed / Inspected  
-**Tags:** #administrative #celebratory #gratitude #project
+**Tags:** #administrative #celebratory #gratitude
 
 ### Completion
 

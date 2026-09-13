@@ -1,12 +1,15 @@
 # Joshua — 2026 Goals
 
+**Oikonomia section:** Goals
+
 These are Joshua's actual 2026 Oikonomia goals. They reflect a leader who spent years serving faithfully under Moses and is now learning to exercise delegated authority, make difficult decisions, recover from failure, seek God before commitment, and prepare other leaders rather than remaining permanently defined as Moses' successor.
 
 ## Goal 1 — Lead the decisions that have actually been delegated to me
 
 **Category:** Leadership Development  
 **Status:** Active  
-**Period:** January–September 2026
+**Period:** January–September 2026  
+**Target:** 2026-09
 
 I have spent much of my life serving alongside Moses. That history taught me loyalty, patience, courage, and the value of learning before assuming responsibility. It can also make it too easy for me to look toward Moses when a decision has already been entrusted to me.
 
@@ -21,7 +24,7 @@ I want to receive responsibility fully: listen carefully, seek God, consult appr
 - Review difficult decisions during Tuesday Mentorship Night without turning mentorship into retroactive permission seeking.
 - Accept responsibility for outcomes rather than attributing every decision to Moses.
 
-**Biblical foundation:** Exodus 17:8–16; Numbers 27:15–23; Deuteronomy 31:7–8, 23; Joshua 1:1–9.
+**Biblical account:** Exodus 17:8–16; Numbers 27:15–23; Deuteronomy 31:7–8, 23; Joshua 1:1–9.
 
 ---
 
@@ -29,7 +32,8 @@ I want to receive responsibility fully: listen carefully, seek God, consult appr
 
 **Category:** Personal / Leadership Development  
 **Status:** Active  
-**Period:** January–December 2026
+**Period:** January–December 2026  
+**Target:** 2026-12
 
 I have heard the words "be strong and courageous" many times. They were not given to me because leadership would always feel easy.
 
@@ -48,7 +52,7 @@ Faith did not require us to deny the fortified cities or the strength of the peo
 - Do not allow majority anxiety to determine a decision that belongs to obedience.
 - Encourage other leaders to practice the same kind of honest courage.
 
-**Biblical foundation:** Numbers 13–14; Deuteronomy 31:7–8, 23; Joshua 1:1–9.
+**Biblical account:** Numbers 13–14; Deuteronomy 31:7–8, 23; Joshua 1:1–9.
 
 ---
 
@@ -56,7 +60,8 @@ Faith did not require us to deny the fortified cities or the strength of the peo
 
 **Category:** Spiritual Leadership / Decision Making  
 **Status:** Active  
-**Period:** January–December 2026
+**Period:** January–December 2026  
+**Target:** 2026-12
 
 I want prayer and discernment to occur before major commitments, not merely after we have already decided what appears reasonable.
 
@@ -85,7 +90,8 @@ I learned that due diligence and spiritual discernment are not competitors, but 
 
 **Category:** Leadership Development / Accountability  
 **Status:** Active  
-**Period:** January–December 2026
+**Period:** January–December 2026  
+**Target:** 2026-12
 
 Jericho was an extraordinary victory. The next assignment looked smaller.
 
@@ -112,7 +118,8 @@ Failure may require prayer, investigation, accountability, correction, a changed
 
 **Category:** Mentorship / Multiplication  
 **Status:** Active  
-**Period:** February–December 2026
+**Period:** February–December 2026  
+**Target:** 2026-12
 
 For a long time my leadership identity could accurately be described in relation to Moses. I served him, learned from him, accompanied him, received responsibility from him, and was eventually commissioned to lead after him.
 
@@ -129,7 +136,7 @@ During 2026 I want to identify leaders who can receive real responsibility, make
 - Allow developing leaders to make reasonable decisions differently from how I would make them.
 - Record their progress without comparing them constantly to Moses, Caleb, or me.
 
-**Biblical foundation:** Exodus 24:13; Exodus 33:11; Numbers 27:15–23; Deuteronomy 31; Joshua 1.
+**Biblical account:** Exodus 24:13; Exodus 33:11; Numbers 27:15–23; Deuteronomy 31; Joshua 1.
 
 ---
 
@@ -137,7 +144,8 @@ During 2026 I want to identify leaders who can receive real responsibility, make
 
 **Category:** Testimony / Teaching / Institutional Memory  
 **Status:** Active  
-**Period:** January–December 2026
+**Period:** January–December 2026  
+**Target:** 2026-12
 
 When Israel crossed the Jordan, God instructed that twelve stones be taken from the river and set up as a memorial. The purpose was not decoration.
 

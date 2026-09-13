@@ -1,11 +1,14 @@
 # Moses — Special Operational Reports: Delegation and Leadership Capacity
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Leadership Capacity Status — Moses Handling All Cases
 
 **Record type:** Capacity / Operational Status  
-**Owner:** Moses  
+**Date:** 2026-04-06  
+**Visibility:** Leadership  
 **Status:** Unsustainable  
 **Tags:** #serious #administrative #exhaustion #overload
 
@@ -40,12 +43,14 @@ Immediate redesign of decision distribution.
 ## Delegation Design — Jethro Recommendation
 
 **Record type:** Organizational Design / Recommendation  
-**Advisor:** Jethro  
-**Owner:** Moses  
+**Date:** 2026-04-13  
+**Visibility:** Leadership  
 **Status:** Accepted and Implemented  
-**Tags:** #administrative #serious #relief #leadership
+**Tags:** #administrative #serious #relief
 
 ### Proposed model
+
+**Advisor:** Jethro
 
 Moses should continue representing the people before God and teaching them God's decrees and instructions.
 
@@ -80,8 +85,9 @@ Delegation is not merely asking more people to help Moses. It changes where ordi
 ## Leadership Capacity Escalation — Numbers 11
 
 **Record type:** Wellbeing / Capacity Escalation  
-**Owner:** Moses  
-**Visibility:** Restricted  
+**Date:** 2026-06-15  
+**Visibility:** Named people  
+**Shared with:** Aaron, Joshua  
 **Status:** Attention Required at time of event  
 **Tags:** #serious #pastoral #exhaustion #distress #overload
 
@@ -117,9 +123,10 @@ But perhaps also stop assigning one person the work of seventy-one.
 ## Seventy Elders — Personnel Appointment Status
 
 **Record type:** Personnel / Leadership Appointment  
-**Owner:** Moses  
+**Date:** 2026-06-22  
+**Visibility:** Leadership  
 **Status:** Implemented  
-**Tags:** #administrative #serious #leadership #relief
+**Tags:** #administrative #serious #relief
 
 ### Requirement
 

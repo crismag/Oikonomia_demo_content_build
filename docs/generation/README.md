@@ -17,17 +17,19 @@ Generation should therefore respect Oikonomia's actual sections, record types, o
 5. `CONTENT-RULES.md` — biblical fidelity, explicitness, source-vs-record rules, metadata.
 6. `CHARACTER-DEVELOPMENT-GUIDE.md` — how to turn a biblical person into a coherent Data Play identity.
 7. `RECORD-TYPES.md` — what kinds of Oikonomia artifacts to author and how they differ.
-8. `RELATIONSHIP-AND-SCENARIO-GUIDE.md` — continuity and cross-character story construction.
-9. `HUMOR-AND-SENSITIVITY.md` — comedy boundaries and treatment of grave material.
+8. `RECORD-FORMAT.md` — **required writing format** for finished records, character identities and tags, so the import script can read them.
+9. `RELATIONSHIP-AND-SCENARIO-GUIDE.md` — continuity and cross-character story construction.
+10. `HUMOR-AND-SENSITIVITY.md` — comedy boundaries and treatment of grave material.
 
 An AI should not begin substantial character generation after reading only a target file. It must use the generation context and guardrails, then inspect the character's existing workspace and relevant biblical source material.
 
-Character-specific generation targets live separately under `/targets`. Canonical character material lives under `/characters`.
+Character-specific generation targets live separately under `/targets`. Canonical character material lives under `/characters`. The shared church structure lives under `/organization`.
 
-## Three-layer model
+## Layer model
 
 - `docs/generation/` = **how** Data Play must be generated.
 - `targets/` = **what** still needs to be generated for each character.
+- `organization/` = the **shared church structure**: campus, ministries, leadership groups and venues.
 - `characters/` = the **actual canonical authored content**.
 
 Planning files are not finished content. Finished character content must not be reduced to prompts telling another AI what to write.
@@ -44,7 +46,7 @@ The detailed protocol and required pre-commit audit are in `AI-GENERATION-GUARDR
 
 **AI writes canonical source content. A transformer maps it. Oikonomia validates and owns the resulting records.**
 
-This repository is a semantic authoring source. Keep it independent of volatile database IDs, SQLite/table layouts and temporary UI implementation details. Oikonomia should import through its own domain/service layer.
+This repository is a semantic authoring source. Keep it independent of volatile database IDs, SQLite/table layouts and temporary UI implementation details. Records stay human-readable Markdown; `RECORD-FORMAT.md` fixes only the headings, field lines and closing lines an import script needs. The script produces a separate, disposable Oikonomia demo baseline and never rewrites this repository.
 
 ## Supersession
 

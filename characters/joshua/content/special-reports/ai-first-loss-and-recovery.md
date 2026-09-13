@@ -1,5 +1,7 @@
 # Joshua — Special Reports: First Major Loss and Recovery at Ai
 
+**Oikonomia section:** Leadership Report
+
 > **Source boundary:** Joshua 7–8 supplies unusually rich operational detail: reconnaissance advice, approximate force deployed, 36 Israelite deaths, retreat, Joshua's grief, God's response, investigation, Achan's confession, corrective action, and the successful second operation. Where Scripture does not provide a figure or detail, this package says so rather than inventing it.
 
 ---
@@ -7,9 +9,12 @@
 ## Reconnaissance Assessment — Ai
 
 **Record type:** Field Assessment  
-**Submitted to:** Joshua  
+**Date:** 2026-05-04  
+**Visibility:** Shared  
 **Status:** Superseded by outcome  
 **Tags:** #administrative #serious #confidence #risk
+
+**Submitted to:** Joshua
 
 ### Assessment received
 
@@ -40,7 +45,9 @@ The recommendation underestimated the situation because the visible size of Ai w
 ## Incident Report — Defeat at Ai
 
 **Record type:** Critical Incident / Loss Report  
-**Owner:** Joshua  
+**Date:** 2026-05-11  
+**Visibility:** Named people  
+**Shared with:** Moses, Caleb  
 **Status:** Attention Required  
 **Tags:** #dramatic #serious #grief #failure #shock
 
@@ -82,7 +89,9 @@ Thirty-six deaths must not be reduced to a useful leadership lesson. Families lo
 ## Immediate Realization — Grief Was Not the Entire Response
 
 **Record type:** Personal / Leadership Reflection  
-**Visibility:** Restricted  
+**Date:** 2026-05-11  
+**Visibility:** Named people  
+**Shared with:** Moses  
 **Status:** Complete  
 **Tags:** #serious #grief #confusion #conviction
 
@@ -105,7 +114,9 @@ Prayer is not avoidance. There are moments when seeking God leads directly into 
 ## Investigation Initiation — Covenant Violation
 
 **Record type:** Investigation Record  
-**Owner:** Joshua  
+**Date:** 2026-05-18  
+**Visibility:** Named people  
+**Shared with:** Moses, Caleb  
 **Status:** Investigation Completed  
 **Tags:** #serious #administrative #accountability #conviction
 
@@ -139,9 +150,13 @@ This account concerns grave covenant disobedience and severe judgment. It should
 ## Investigation Finding — Achan
 
 **Record type:** Investigation Finding  
-**Subject:** Achan son of Karmi  
+**Date:** 2026-05-18  
+**Visibility:** Named people  
+**Shared with:** Moses, Caleb  
 **Status:** Substantiated  
 **Tags:** #serious #dramatic #regret #accountability
+
+**Subject:** Achan son of Karmi
 
 Joshua asked Achan to give glory to God and tell what he had done without hiding it.
 
@@ -175,6 +190,9 @@ These items are not "Joshua's loot." They are evidence connected to Achan's proh
 ## Corrective Action and Severity Note
 
 **Record type:** Historical Accountability Record  
+**Date:** 2026-05-18  
+**Visibility:** Named people  
+**Shared with:** Moses, Caleb  
 **Status:** Closed  
 **Tags:** #serious #grief #judgment #accountability
 
@@ -199,7 +217,8 @@ The transferable leadership truth is narrower:
 ## Recovery Plan — Second Operation at Ai
 
 **Record type:** Corrective Action / Operational Plan  
-**Owner:** Joshua  
+**Date:** 2026-05-25  
+**Visibility:** Shared  
 **Status:** Completed  
 **Tags:** #serious #hope #courage #recovery
 
@@ -230,6 +249,8 @@ Correction is incomplete if we discover what went wrong but become too afraid to
 ## Post-Recovery Assessment — Ai
 
 **Record type:** After-Action Review  
+**Date:** 2026-06-01  
+**Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #reflective #serious #relief #hope #conviction
 

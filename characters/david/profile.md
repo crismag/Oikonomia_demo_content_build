@@ -1,5 +1,17 @@
 # David — Canonical Data Play Profile
 
+## Oikonomia identity
+
+**Name:** David  
+**Title:** Senior Leader · Psalmists  
+**Access:** Bishop  
+**Campus:** Main campus  
+**Reports to:** None  
+**Ministries:** Psalmists — leader; Mentorship — member  
+**Groups:** Leadership Council — member  
+**Leads Lifegroups:** Yes  
+**Demo persona:** Featured
+
 ## Role in the 2026 demo
 
 David is a senior leader with a strong connection to **Psalmists**, worship development, mentoring, prayer, testimony, and leadership formation.

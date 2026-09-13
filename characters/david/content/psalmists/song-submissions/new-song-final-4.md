@@ -1,73 +1,76 @@
 # Song Submission — New Song Final 4
 
-**Submitted by:** David  
-**Ministry:** Psalmists  
-**Record type:** Song Submission / Creative Review  
-**Submitted:** 2026-09-11  
-**Target service:** Sunday, 2026-09-13  
-**Status:** Review — Changes Requested  
-**Response from David:** —  
-**Resolved:** No  
-**Tags:** #worship #creative #administrative #funny #coherence
+**Oikonomia section:** Leadership Report
 
 > **Data Play note:** This is a fictional 2026 song submission inspired by themes found across David's biblical songs and life. It is not presented as a biblical Psalm or as reconstructed Scripture.
 
 ---
 
-## Submitted Song
+## New Song Final 4
 
-### Verse 1 — Surrounded
+**Submitted by:** David  
+**Ministry:** Psalmists  
+**Record type:** Song Submission / Creative Review  
+**Date:** 2026-09-11  
+**Visibility:** Shared  
+**Target service:** Sunday, 2026-09-13  
+**Status:** Review — Changes Requested  
+**Response from David:** —  
+**Resolved:** No  
+**Tags:** #creative #administrative #funny #coherence
+
+### Submitted Song
+
+#### Verse 1 — Surrounded
 
 They gather around me and speak as though the morning will never come.  
 The road behind me is closed and the hills ahead are filled with trouble.  
 Still I remember the God who heard me when I called,  
 The One who has carried me through places I thought would become my grave.
 
-### Verse 2 — The Heavens
+#### Verse 2 — The Heavens
 
 The heavens declare what anxious hearts forget.  
 Day speaks to day and night carries knowledge into night.  
 The moon does not ask my enemies whether it should rise,  
 And the stars remain where the Lord has appointed them.
 
-### Chorus — Shepherd
+#### Chorus — Shepherd
 
 You are my Shepherd; I will not be abandoned.  
 You lead me where fear cannot become my master.  
 Your goodness follows farther than the enemy can chase me.  
 I will dwell in Your presence and call You faithful.
 
-### Verse 3 — The King
+#### Verse 3 — The King
 
 Some trust in strength that can be counted.  
 Some trust in weapons they can hold.  
 I will remember the Name that carried a shepherd into battle  
 And taught a frightened heart that the battle belongs to the Lord.
 
-### Bridge — Where Are You?
+#### Bridge — Where Are You?
 
 Why do You feel far away when trouble is near?  
 Why does the night become long when I am waiting for You?  
 I will speak the question instead of hiding it.  
 I will wait here until lament remembers Your name.
 
-### Chorus — Shepherd
+#### Chorus — Shepherd
 
 You are my Shepherd; I will not be abandoned.  
 You lead me where fear cannot become my master.  
 Your goodness follows farther than the enemy can chase me.  
 I will dwell in Your presence and call You faithful.
 
-### Final Section — Jerusalem
+#### Final Section — Jerusalem
 
 Let the gates remember the King of glory.  
 Let the city lift its voice.  
 Let every generation receive what we have learned  
 And carry praise beyond the years we were given.
 
----
-
-## Psalmists Review
+### Psalmists Review
 
 **Reviewer:** Psalmists Team Member  
 **Review date:** Friday, 2026-09-11, 9:41 PM  
@@ -123,9 +126,7 @@ Please confirm the intended narrative progression and the final file before Sund
 
 Thank you.
 
----
-
-## Review State
+### Review State
 
 **Changes requested:** Yes  
 **David notified:** Yes  

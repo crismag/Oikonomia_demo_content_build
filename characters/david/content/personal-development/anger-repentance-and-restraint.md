@@ -1,11 +1,14 @@
 # David — Personal Development: Anger, Restraint, Correction, and Repentance
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## I Was Ready to Kill People Because Nabal Insulted Us
 
 **Record type:** Personal Development  
-**Visibility:** Restricted  
+**Date:** 2026-03-16  
+**Visibility:** Only me  
 **Status:** Complete  
 **Tags:** #serious #anger #regret #conviction #gratitude
 
@@ -34,6 +37,7 @@ The lesson is not merely "listen to wise people." The lesson is that anger can m
 ## I Had the Opportunity to Kill Saul
 
 **Record type:** Personal Development  
+**Date:** 2026-04-02  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #serious #restraint #fear #conviction
@@ -63,7 +67,8 @@ I still did not have permission to make myself judge over Saul's life.
 ## Nathan Said, "You Are the Man"
 
 **Record type:** Personal Development / Confession  
-**Visibility:** Highly Restricted  
+**Date:** 2026-06-08  
+**Visibility:** Only me  
 **Status:** Complete with continuing consequences  
 **Tags:** #serious #conviction #regret #grief #repentance
 
@@ -85,7 +90,7 @@ That confession did not make the consequences disappear.
 
 I keep this report restricted because confession is not performance. But I also refuse to protect my leadership image by pretending the failure was smaller than Scripture says it was.
 
-**Related goals:** Receive correction before defending myself; never confuse authority with permission.
+**Related goal:** Receive correction before defending myself; never confuse authority with permission.
 
 **Biblical account:** 2 Samuel 11–12.  
 **Repentance connection:** Psalm 51 is traditionally connected by its superscription to Nathan's confrontation after David went to Bathsheba.
@@ -95,7 +100,8 @@ I keep this report restricted because confession is not performance. But I also 
 ## Create in Me a Clean Heart
 
 **Record type:** Prayer / Personal Development  
-**Visibility:** Restricted  
+**Date:** 2026-06-22  
+**Visibility:** Only me  
 **Status:** Active prayer  
 **Tags:** #devotional #serious #regret #repentance #hope
 

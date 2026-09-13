@@ -1,5 +1,7 @@
 # Joshua — Special Documents: Twelve Spies Personnel and Assessment Package
 
+**Oikonomia section:** Leadership Report
+
 > **Ownership note:** Moses, acting at the Lord's command, sent the twelve men to explore Canaan. Joshua was one of the selected representatives, not the hiring manager. This package is included under Joshua because the assignment became a defining part of his leadership history. Numbers 13 provides the names and assignment instructions; Numbers 13–14 records the competing reports and consequences.
 
 ---
@@ -7,10 +9,13 @@
 ## Personnel Selection Record — Twelve Representatives
 
 **Record type:** Personnel Selection / Special Assignment  
-**Assignment authority:** Moses  
-**Joshua's role:** Selected representative — tribe of Ephraim  
+**Date:** 2026-02-16  
+**Visibility:** Shared  
 **Status:** Completed  
-**Tags:** #administrative #serious #leadership
+**Tags:** #administrative #serious
+
+**Assignment authority:** Moses  
+**Joshua's role:** Selected representative — tribe of Ephraim
 
 ### Selection purpose
 
@@ -53,9 +58,12 @@ Numbers 13 also records that Moses called Hoshea son of Nun **Joshua**.
 ## Assignment Brief — Exploration of Canaan
 
 **Record type:** Assignment / Scope Document  
-**Issued by:** Moses  
+**Date:** 2026-02-16  
+**Visibility:** Shared  
 **Status:** Completed  
-**Tags:** #administrative #serious #assessment
+**Tags:** #administrative #serious
+
+**Issued by:** Moses
 
 ### Scope
 
@@ -87,6 +95,8 @@ The later failure was not that the team gathered evidence. The failure was how m
 ## Field Evidence Record — Canaan
 
 **Record type:** Reconnaissance Evidence  
+**Date:** 2026-02-16  
+**Visibility:** Shared  
 **Status:** Completed  
 **Tags:** #administrative #serious #evidence
 
@@ -118,9 +128,12 @@ The later disagreement did not require Joshua and Caleb to deny these observatio
 ## Majority Assessment — Ten Representatives
 
 **Record type:** Assessment Report  
-**Outcome:** Majority recommendation — Do not proceed  
+**Date:** 2026-02-23  
+**Visibility:** Shared  
 **Status:** Historical  
 **Tags:** #dramatic #serious #fear #risk
+
+**Outcome:** Majority recommendation — Do not proceed
 
 Ten representatives concluded that Israel was not able to attack the people because they were stronger.
 
@@ -145,10 +158,13 @@ The problem was that risk became the controlling reality in their recommendation
 ## Minority Assessment — Joshua and Caleb
 
 **Record type:** Dissenting / Minority Report  
-**Submitted by:** Joshua son of Nun and Caleb son of Jephunneh  
-**Recommendation:** Proceed in faith and obedience  
+**Date:** 2026-02-23  
+**Visibility:** Shared  
 **Status:** Historical  
 **Tags:** #dramatic #serious #courage #faith #hope
+
+**Submitted by:** Joshua son of Nun and Caleb son of Jephunneh  
+**Recommendation:** Proceed in faith and obedience
 
 ### Assessment
 
@@ -185,6 +201,8 @@ A minority report should not be dismissed because it lacks votes, nor accepted m
 ## Personnel Outcome Review — Twelve-Spies Assignment
 
 **Record type:** Personnel / Assignment Outcome Review  
+**Date:** 2026-03-02  
+**Visibility:** Shared  
 **Status:** Closed  
 **Tags:** #serious #dramatic #accountability #courage
 

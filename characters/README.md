@@ -22,6 +22,8 @@ characters/<character>/
 
 Folders/files should be added as real material is authored; do not create empty placeholder prose merely to satisfy the shape.
 
+`profile.md` begins with an **Oikonomia identity** block (title, access, reports to, ministries, groups, demo persona). That block is what makes the character a person in the demo. Files under `content/` follow `docs/generation/RECORD-FORMAT.md`.
+
 ## Meaning of notable topics
 
 `notable-topics.md` answers: **What does this person's actual biblical account give them meaningful material to write, reflect, report, teach, or interact about?**

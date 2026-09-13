@@ -1,5 +1,7 @@
 # Joshua — Special Reports: First Victory at Amalek
 
+**Oikonomia section:** Leadership Report
+
 > **Source boundary:** Exodus 17:8–16 records the attack, Moses' assignment to Joshua, Joshua's selection of men, the battle, Moses' raised hands with Aaron and Hur supporting him, Israel's victory, and God's instruction to preserve the event in writing and recite it to Joshua. Scripture does not state Joshua's troop count, selection criteria, Israelite casualties, enemy casualties, equipment inventory, or captured loot. Those fields are therefore marked as not recorded rather than invented.
 
 ---
@@ -7,10 +9,12 @@
 ## Operational Assignment — Amalek Response
 
 **Record type:** Leadership Assignment  
-**Owner:** Joshua  
-**Assigned by:** Moses  
+**Date:** 2026-01-12  
+**Visibility:** Shared  
 **Status:** Completed  
-**Tags:** #serious #dramatic #leadership #courage
+**Tags:** #serious #dramatic #courage
+
+**Assigned by:** Moses
 
 ### Assignment
 
@@ -42,9 +46,12 @@ Delegation became real when the assignment carried consequences I could not retu
 ## Personnel Selection Record — Men Chosen for Amalek Response
 
 **Record type:** Personnel Selection / Assignment Record  
-**Selection owner:** Joshua  
+**Date:** 2026-01-19  
+**Visibility:** Shared  
 **Status:** Completed  
-**Tags:** #administrative #serious #leadership
+**Tags:** #administrative #serious
+
+**Selection owner:** Joshua
 
 ### Instruction received
 
@@ -74,10 +81,13 @@ This assignment demonstrates an early transition from Joshua as assistant to Jos
 ## First Victory Report — Amalek
 
 **Record type:** After-Action / Victory Report  
-**Submitted by:** Joshua  
-**Outcome:** Victory  
+**Date:** 2026-01-26  
+**Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #dramatic #serious #victory #gratitude #courage
+
+**Submitted by:** Joshua  
+**Outcome:** Victory
 
 ### Summary
 
@@ -125,9 +135,12 @@ That detail is personally significant: my first major victory came with an instr
 ## Victory Preservation / Institutional Memory Record
 
 **Record type:** Documentation Requirement  
-**Related person:** Joshua  
+**Date:** 2026-02-02  
+**Visibility:** Shared  
 **Status:** Historical requirement completed in biblical account  
 **Tags:** #administrative #reflective #testimony #gratitude
+
+**Related person:** Joshua
 
 After the victory, the Lord instructed Moses to write the event on a scroll as something to be remembered and to recite it to Joshua.
 

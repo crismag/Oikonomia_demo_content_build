@@ -1,13 +1,17 @@
 # Replacement Stone Tablets
 
-**Record type:** Equipment / Replacement Request  
-**Requested by:** Moses  
-**Quantity:** 2  
-**Material:** Stone  
-**Status:** Replacement Requested  
-**Priority:** High
+**Oikonomia section:** Leadership Report
 
-## Request
+---
+
+## Replacement Stone Tablets
+
+**Record type:** Equipment / Replacement Request  
+**Date:** 2026-05-04  
+**Visibility:** Leadership  
+**Status:** Replacement Requested
+
+### Request
 
 Sorry, I damaged the two stone tablets I received earlier. I would like to request another copy.
 
@@ -17,14 +21,19 @@ The original tablets contained the covenant commands and were written by God. Af
 
 I will prepare and bring the replacement tablets as instructed.
 
-## Administrative details
+### Administrative details
+
+**Requested by:** Moses  
+**Quantity:** 2  
+**Material:** Stone  
+**Priority:** High
 
 **Replacement reason:** Damaged by requester  
 **Previous set:** Two stone tablets  
 **Recurring purchase:** No  
 **Delivery / follow-up location:** Mount Sinai
 
-## Personal note
+### Personal note
 
 I would prefer not to submit this request again.
 

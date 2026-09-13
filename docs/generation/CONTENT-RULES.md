@@ -32,6 +32,8 @@ Characters are modern communicators in Oikonomia. Avoid faux-biblical English. P
 
 Use dates, statuses, owners, participants, follow-ups, decisions, attention flags, permissions and completion states where they make the record believable. Do not overload devotional writing with database-like metadata when it harms readability.
 
+Write these details in the field lines and closing lines defined in `RECORD-FORMAT.md`, using its field names and visibility words. Every imported record needs a 2026 date.
+
 ## Shared sources
 
 A shared meeting or scenario should have one canonical artifact. Character-specific reflections can link to it. Do not copy a meeting into five folders and allow the copies to diverge.
@@ -40,9 +42,13 @@ A shared meeting or scenario should have one canonical artifact. Character-speci
 
 Comments may carry contemporary fictional interaction and humor. They must remain coherent with the record. Longer comments are encouraged when context makes the interaction easier to understand. Not every comment needs a reply; unresolved threads are valid demo states.
 
+Oikonomia accepts comments on Leadership Reports and Reach-Out reports. Put conversation there rather than on gatherings, meetings or goals.
+
 ## Tags
 
-Use controlled tags to improve later mapping/search. Tags describe the actual record. Do not tag `#anger` merely because an old story involving anger is mentioned if the current record is not about anger.
+Tags describe the record's **tone** and the author's **emotional or spiritual state**, tone first. The vocabulary is open: start from the base set in `RECORD-FORMAT.md` and add a tag when none fits, after checking for a near-synonym. Do not use tags for ministry, record kind or topic.
+
+Tags describe the actual record. Do not tag `#anger` merely because an old story involving anger is mentioned if the current record is not about anger.
 
 ## Balance
 

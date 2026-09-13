@@ -1,11 +1,14 @@
 # David — Special Operational Reports: Goliath / First Major Public Victory
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Field Situation Assessment — Goliath Challenge
 
 **Record type:** Field / Leadership Assessment  
-**Owner:** David  
+**Date:** 2026-01-19  
+**Visibility:** Shared  
 **Status:** Threat Resolved  
 **Tags:** #dramatic #serious #courage #faith
 
@@ -36,7 +39,8 @@ The visible strength of Goliath was real. David's confidence was rooted in the L
 ## Equipment Decision — Saul's Armor Declined
 
 **Record type:** Equipment / Readiness Decision  
-**Owner:** David  
+**Date:** 2026-02-02  
+**Visibility:** Shared  
 **Status:** Alternative Equipment Selected  
 **Tags:** #administrative #serious #confidence
 
@@ -67,7 +71,8 @@ David used tools he actually knew how to use.
 ## Victory / After-Action Report — Goliath
 
 **Record type:** Major Incident / Victory Report  
-**Owner:** David  
+**Date:** 2026-02-16  
+**Visibility:** Shared  
 **Outcome:** Victory  
 **Status:** Complete  
 **Tags:** #dramatic #celebratory #courage #faith #gratitude

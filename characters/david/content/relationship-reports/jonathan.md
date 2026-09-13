@@ -1,5 +1,7 @@
 # David — Relationship and Leadership Reports: Jonathan
 
+**Oikonomia section:** Leadership Report
+
 > **Source boundary:** Jonathan is treated as a major relationship in David's life, not merely a supporting character in the Saul conflict. The biblical record presents covenant friendship, loyalty under pressure, truth-telling, personal cost, encouragement in God, separation, and grief.
 
 ---
@@ -7,6 +9,7 @@
 ## Jonathan Was Not Valuable to Me Because He Had Access to Saul
 
 **Record type:** Relationship Reflection  
+**Date:** 2026-01-20  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #reflective #serious #friendship #gratitude
@@ -32,6 +35,7 @@ That distinction matters in leadership because relationships become distorted wh
 ## Jonathan Protected Me at Personal Cost
 
 **Record type:** Relationship / Leadership Reflection  
+**Date:** 2026-01-27  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #serious #friendship #courage #loyalty
@@ -57,7 +61,8 @@ I do not romanticize that position. Loyalty sometimes costs the person who choos
 ## We Had to Test Whether the Danger Was Real
 
 **Record type:** Relationship / Safety Assessment  
-**Visibility:** Restricted  
+**Date:** 2026-02-03  
+**Visibility:** Only me  
 **Status:** Complete  
 **Tags:** #dramatic #serious #fear #uncertainty #friendship
 
@@ -86,7 +91,8 @@ Jonathan listened, helped establish the facts, and then acted on what became cle
 ## The Arrow Signal
 
 **Record type:** Communication / Safety Record  
-**Visibility:** Restricted  
+**Date:** 2026-02-04  
+**Visibility:** Only me  
 **Status:** Historical  
 **Tags:** #administrative #dramatic #fear #grief
 
@@ -113,6 +119,7 @@ A communication protocol can be technically successful and still carry terrible 
 ## Jonathan Strengthened My Hand in God
 
 **Record type:** Lifegroup / Friendship Reflection  
+**Date:** 2026-02-10  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #devotional #reflective #friendship #hope #courage
@@ -140,6 +147,7 @@ I want my friendships and mentorships to leave people more dependent on God, not
 ## Jonathan Did Not Need Me to Become Smaller
 
 **Record type:** Leadership / Relationship Reflection  
+**Date:** 2026-02-17  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #reflective #friendship #humility #gratitude
@@ -160,14 +168,15 @@ I want to become that kind of leader for other people.
 
 **Related goal:** Develop Psalmists without making worship revolve around David.
 
-**Biblical foundation:** 1 Samuel 18:1–4; 1 Samuel 20; 1 Samuel 23:16–18.
+**Biblical account:** 1 Samuel 18:1–4; 1 Samuel 20; 1 Samuel 23:16–18.
 
 ---
 
 ## The Last Time I Saw Jonathan
 
 **Record type:** Personal Reflection  
-**Visibility:** Restricted  
+**Date:** 2026-07-01  
+**Visibility:** Only me  
 **Status:** Complete  
 **Tags:** #serious #grief #friendship #gratitude
 
@@ -192,7 +201,8 @@ I am grateful that our final recorded meeting was one in which Jonathan strength
 ## Report Received — Saul and Jonathan Killed at Gilboa
 
 **Record type:** Bereavement / Critical Personal Report  
-**Visibility:** Restricted  
+**Date:** 2026-07-08  
+**Visibility:** Only me  
 **Status:** Historical  
 **Tags:** #dramatic #serious #grief #loss
 
@@ -215,6 +225,7 @@ I could not replace Jonathan.
 ## Lament for Jonathan
 
 **Record type:** Grief / Worship Reflection  
+**Date:** 2026-07-13  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #devotional #serious #grief #love #lament
@@ -240,6 +251,7 @@ A worship ministry that knows only how to sound victorious will eventually fail 
 ## I Remembered My Covenant With Jonathan
 
 **Record type:** Covenant / Care Report  
+**Date:** 2026-08-10  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #pastoral #serious #friendship #faithfulness #compassion
@@ -263,6 +275,7 @@ Faithfulness to a relationship is tested not only by what we say while the perso
 ## 2026 Friendship Review — What Jonathan Still Teaches Me
 
 **Record type:** Personal Development / Relationship Report  
+**Date:** 2026-09-07  
 **Visibility:** Shared  
 **Status:** Active  
 **Tags:** #reflective #gratitude #friendship #hope
@@ -284,4 +297,4 @@ Jonathan helped me survive Saul's hostility.
 
 More importantly, he helped me remain David while I was surviving it.
 
-**Biblical foundation:** 1 Samuel 18–20; 1 Samuel 23; 2 Samuel 1; 2 Samuel 9.
+**Biblical account:** 1 Samuel 18–20; 1 Samuel 23; 2 Samuel 1; 2 Samuel 9.

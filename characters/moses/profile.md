@@ -1,5 +1,19 @@
 # Moses — Profile
 
+## Oikonomia identity
+
+**Name:** Moses  
+**Title:** Senior Leader  
+**Access:** Bishop  
+**Campus:** Main campus  
+**Reports to:** None  
+**Ministries:** Mentorship — member  
+**Groups:** Leadership Council — member  
+**Leads Lifegroups:** No  
+**Demo persona:** Featured
+
+## Summary
+
 **Demo key:** `moses`  
 **Primary role:** Senior Leader / Leadership Council  
 **Secondary functions:** Mentor, intercessor, teacher, leadership developer, mediator, organizational adviser  

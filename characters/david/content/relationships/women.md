@@ -1,5 +1,7 @@
 # David — Reports Concerning Women, Relationships, Power, and Accountability
 
+**Oikonomia section:** Leadership Report
+
 > These reports are intentionally not a romantic catalog. David's history with women includes wisdom, conflict, marriage, political arrangements, abuse of power, grief, and family failure. Bathsheba and Tamar in particular must be treated with seriousness and dignity.
 
 ---
@@ -7,6 +9,7 @@
 ## Abigail — The Woman Who Stopped Me
 
 **Record type:** Relationship / Personal Development  
+**Date:** 2026-03-13  
 **Visibility:** Shared  
 **Tags:** #serious #gratitude #anger #restraint #wisdom
 
@@ -31,7 +34,8 @@ She showed courage and wisdom when my judgment was failing.
 ## Michal — Celebration and a Marriage With Deep Conflict
 
 **Record type:** Family / Relationship Reflection  
-**Visibility:** Restricted  
+**Date:** 2026-05-26  
+**Visibility:** Only me  
 **Tags:** #serious #relationship #conflict #grief
 
 Michal loved me and once helped me escape when Saul intended to kill me.
@@ -53,7 +57,8 @@ There was love, separation, political power, forced transitions, resentment, pub
 ## Bathsheba — Authority Was Not Permission
 
 **Record type:** Serious Leadership / Personal Accountability  
-**Visibility:** Highly Restricted  
+**Date:** 2026-06-09  
+**Visibility:** Only me  
 **Tags:** #serious #regret #conviction #accountability #repentance
 
 My history involving Bathsheba must never be retold as a romance.
@@ -81,7 +86,8 @@ Nathan later confronted me.
 ## Tamar — A Family Matter I Did Not Handle Well
 
 **Record type:** Family / Leadership Failure  
-**Visibility:** Highly Restricted  
+**Date:** 2026-07-07  
+**Visibility:** Only me  
 **Tags:** #serious #grief #anger #regret #family
 
 Tamar, my daughter, was raped by her half-brother Amnon after he deceived her into being alone with him.
@@ -111,7 +117,8 @@ Victim safety, truth, appropriate reporting, accountability, care, and action ma
 ## Women and Power — 2026 Personal Review
 
 **Record type:** Personal Development  
-**Visibility:** Restricted  
+**Date:** 2026-07-21  
+**Visibility:** Only me  
 **Status:** Active  
 **Tags:** #serious #reflective #conviction #accountability
 

@@ -318,6 +318,7 @@ Before declaring substantial generation complete, verify all of the following:
 - Serious material retained appropriate moral and emotional weight.
 - Humor is coherent, understandable and appropriately located.
 - The artifact has a natural Oikonomia destination.
+- Records follow `RECORD-FORMAT.md`: section, dated heading or **Date**, field names, visibility words with named readers where required, closing lines and roster names.
 - Ministry/record ownership is appropriate.
 - Record types are not duplicating one another.
 - Permissions and confidentiality are plausible.

@@ -1,11 +1,14 @@
 # David — Family Matters Reports
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Family Leadership Review — Public Success Did Not Mean Home Was Healthy
 
 **Record type:** Family / Personal Development  
-**Visibility:** Restricted  
+**Date:** 2026-07-06  
+**Visibility:** Only me  
 **Tags:** #serious #family #grief #conviction
 
 My public leadership record and my family history cannot be evaluated as though they were the same thing.
@@ -23,7 +26,8 @@ Do not use ministry fruit as evidence that family concerns do not require attent
 ## Absalom — Estrangement Was Not Resolution
 
 **Record type:** Family / Relationship Review  
-**Visibility:** Restricted  
+**Date:** 2026-07-27  
+**Visibility:** Only me  
 **Tags:** #serious #family #grief #regret
 
 After Absalom killed Amnon, he fled and remained away for years.
@@ -49,7 +53,8 @@ A ceremony of reconciliation does not automatically address years of grief, ange
 ## Absalom's Death — Leadership and Fatherhood Collided
 
 **Record type:** Bereavement / Family Report  
-**Visibility:** Restricted  
+**Date:** 2026-08-03  
+**Visibility:** Only me  
 **Tags:** #serious #grief #family #lament
 
 Before the battle against Absalom's forces, I ordered Joab, Abishai, and Ittai to deal gently with Absalom for my sake.
@@ -75,8 +80,9 @@ Neither role made the other disappear.
 ## Solomon — Preparing a Son to Carry Work I Cannot
 
 **Record type:** Family / Mentorship / Succession  
+**Date:** 2026-08-24  
 **Visibility:** Shared  
-**Tags:** #family #mentorship #hope #leadership
+**Tags:** #family #hope
 
 Solomon would build the temple I wanted to build.
 
@@ -97,9 +103,10 @@ I want Solomon to receive preparation without receiving the burden of becoming a
 ## Family Attention Item — Do Not Delay Difficult Conversations
 
 **Record type:** Family / Attention Required  
-**Visibility:** Restricted  
+**Date:** 2026-09-01  
+**Visibility:** Only me  
 **Status:** Active  
-**Tags:** #serious #family #conviction #attention
+**Tags:** #serious #family #conviction
 
 One pattern in my family history is that unresolved matters were allowed to remain unresolved until they became larger.
 

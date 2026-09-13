@@ -1,5 +1,7 @@
 # Moses — Special Operational Reports: Exodus Mobilization and Red Sea
 
+**Oikonomia section:** Leadership Report
+
 > **Source boundary:** These documents render Exodus 11–15 as operational/status records while preserving the biblical account. Where Scripture gives counts or instructions, they are included. Where it does not provide operational figures such as casualty totals or inventory counts, the field is marked not recorded rather than invented.
 
 ---
@@ -7,7 +9,8 @@
 ## Departure Readiness Status — Egypt
 
 **Record type:** Operational Readiness Report  
-**Owner:** Moses  
+**Date:** 2026-01-26  
+**Visibility:** Leadership  
 **Status:** Departure Authorized  
 **Tags:** #administrative #serious #dramatic #anticipation
 
@@ -46,7 +49,8 @@ The departure required spiritual obedience, household coordination, food prepara
 ## Movement Status — Departed Egypt
 
 **Record type:** Movement / Facilities Status Update  
-**Owner:** Moses  
+**Date:** 2026-02-02  
+**Visibility:** Leadership  
 **Status:** In Transit  
 **Tags:** #administrative #dramatic #relief #hope
 
@@ -78,7 +82,8 @@ A population of this size includes children, elderly people, families, livestock
 ## Critical Incident Status — Pharaoh Pursuing
 
 **Record type:** Critical Incident / Status Update  
-**Owner:** Moses  
+**Date:** 2026-02-09  
+**Visibility:** Leadership  
 **Status:** Critical  
 **Tags:** #dramatic #serious #fear #pressure
 
@@ -119,7 +124,8 @@ There was a moment to stand and trust. There was also a moment when continuing t
 ## Red Sea Crossing — Live Status Update
 
 **Record type:** Major Incident / Movement Status  
-**Owner:** Moses  
+**Date:** 2026-02-09  
+**Visibility:** Leadership  
 **Status:** Crossing Completed  
 **Tags:** #dramatic #devotional #fear #faith #awe
 
@@ -153,7 +159,8 @@ The route that appeared impossible became the route of deliverance.
 ## Post-Crossing Status — Immediate Aftermath
 
 **Record type:** Outcome / Testimony Report  
-**Owner:** Moses  
+**Date:** 2026-02-16  
+**Visibility:** Leadership  
 **Status:** Threat Resolved  
 **Tags:** #celebratory #devotional #relief #joy #gratitude
 

@@ -1,5 +1,7 @@
 # David — Relationship and Leadership Reports: Saul
 
+**Oikonomia section:** Leadership Report
+
 > **Source boundary:** These reports treat David's history with Saul as lived biblical history remembered and applied in 2026. Saul is not reduced to a villain. He was Israel's king, David's employer and commander, David's father-in-law, Jonathan's father, a man David repeatedly refused to kill, and eventually someone David genuinely mourned.
 
 ---
@@ -7,6 +9,7 @@
 ## Saul Was the First King I Served Closely
 
 **Record type:** Leadership Reflection  
+**Date:** 2026-01-22  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #reflective #serious #gratitude #grief
@@ -34,6 +37,7 @@ That history makes the later years more painful, not less.
 ## When a Leader Begins Treating Another Person's Success as a Threat
 
 **Record type:** Personal Development / Leadership Reflection  
+**Date:** 2026-02-24  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #serious #reflective #fear #jealousy #conviction
@@ -61,7 +65,8 @@ I cannot control whether people compare leaders. I can control whether compariso
 ## Spear Incident — Workplace Safety Was No Longer Theoretical
 
 **Record type:** Critical Leadership / Safety Incident  
-**Visibility:** Restricted  
+**Date:** 2026-02-27  
+**Visibility:** Only me  
 **Status:** Historical  
 **Tags:** #dramatic #serious #fear #grief
 
@@ -90,7 +95,8 @@ A person can refuse revenge without pretending there is no danger.
 ## I Asked Jonathan What I Had Done
 
 **Record type:** Relationship / Crisis Reflection  
-**Visibility:** Restricted  
+**Date:** 2026-03-05  
+**Visibility:** Only me  
 **Status:** Complete  
 **Tags:** #serious #confusion #fear #grief #friendship
 
@@ -115,6 +121,7 @@ Sometimes clarity does not repair a relationship. Sometimes clarity tells you th
 ## Cave at En Gedi — Opportunity Was Not Permission
 
 **Record type:** Leadership / Personal Development  
+**Date:** 2026-03-23  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #dramatic #serious #anger #restraint #conviction
@@ -146,6 +153,7 @@ Circumstances can make retaliation possible without making retaliation right.
 ## Second Opportunity — Saul's Camp
 
 **Record type:** Personal Development / Restraint Report  
+**Date:** 2026-03-31  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #serious #restraint #courage #conviction
@@ -173,7 +181,8 @@ Restraint is not the inability to act. Sometimes restraint is choosing not to us
 ## I Could Not Fix Saul
 
 **Record type:** Personal Development  
-**Visibility:** Restricted  
+**Date:** 2026-04-07  
+**Visibility:** Only me  
 **Status:** Complete  
 **Tags:** #reflective #serious #grief #acceptance
 
@@ -200,6 +209,7 @@ That distinction has protected me from confusing reconciliation with immediate a
 ## Saul Died, and I Did Not Celebrate
 
 **Record type:** Bereavement / Leadership Reflection  
+**Date:** 2026-07-10  
 **Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #serious #grief #lament #compassion
@@ -227,6 +237,7 @@ It means I refuse to make another person's death into my victory.
 ## 2026 Follow-up — What Saul Still Teaches Me About Leadership
 
 **Record type:** Leadership Progress Report  
+**Date:** 2026-09-08  
 **Visibility:** Shared  
 **Status:** Active  
 **Tags:** #reflective #serious #conviction #hope
@@ -246,4 +257,4 @@ Saul is part of my leadership history whether I like that fact or not.
 
 I want what I learned through him to make me less likely to reproduce what wounded me.
 
-**Biblical foundation:** 1 Samuel 16–31; 2 Samuel 1.
+**Biblical account:** 1 Samuel 16–31; 2 Samuel 1.

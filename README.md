@@ -14,14 +14,14 @@ This repository is the authoring source for **Data Play — Biblical Leadership 
 
 ## Purpose
 
-This repository does **not** directly seed the production database. It develops the canonical people, relationships, organization, scenarios, timelines, and authored content that can later be validated and imported by Oikonomia's demo-data tooling.
+This repository does **not** directly seed a database. It develops the canonical people, relationships, organization, scenarios, timelines, and authored content for the Oikonomia Demo (https://oikosdemo.crishub.com). An import script reads this human-readable content and builds the demo's baseline database; each character becomes a leader who can be signed in as in the demo.
 
 The content should ultimately exercise real product behavior: shared and private records, attention items, assignments, reports, goals, meeting notes, lifegroup activity, ministry work, follow-ups, confidentiality, delegation, and cross-persona visibility.
 
-## Initial structure
+## Structure
 
-- `docs/WORLD-RULES.md` — rules governing the fictional demo world and writing style.
-- `docs/CHARACTER-PLAN.md` — initial cast, persona roles, and character-driven demo opportunities.
-- `docs/TIMELINE-PLAN.md` — how January–December 2026 should develop.
-
-Later iterations can add structured character profiles, organizations, ministries, groups, relationships, scenarios, and finished content records.
+- `docs/generation/` — how content is generated; start with its `README.md`. `RECORD-FORMAT.md` defines the writing format the import script reads.
+- `organization/` — campus, ministries, leadership groups and venues.
+- `targets/` — per-character generation backlog and queue.
+- `characters/` — canonical character profiles and finished content.
+- `docs/WORLD-RULES.md`, `docs/CHARACTER-PLAN.md`, `docs/TIMELINE-PLAN.md` — earlier planning material, superseded by `docs/generation/` where they differ.

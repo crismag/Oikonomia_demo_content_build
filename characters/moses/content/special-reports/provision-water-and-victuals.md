@@ -1,11 +1,14 @@
 # Moses — Special Operational Reports: Provision, Water, and Victuals
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Water Supply Incident — Marah
 
 **Record type:** Resource / Water Incident  
-**Owner:** Moses  
+**Date:** 2026-02-23  
+**Visibility:** Leadership  
 **Status:** Resolved  
 **Tags:** #serious #administrative #frustration #relief
 
@@ -37,10 +40,10 @@ The Lord provided after the people encountered a need they could not solve thems
 ## Victuals Provision Status — Manna
 
 **Record type:** Provision / Victuals Status  
-**Related leader:** Moses  
-**Operational owner:** Victuals Ministry for Data Play mapping  
+**Date:** 2026-03-02  
+**Visibility:** Leadership  
 **Status:** Recurring Provision Established  
-**Tags:** #administrative #devotional #gratitude #provision
+**Tags:** #administrative #devotional #gratitude
 
 ### Situation
 
@@ -59,6 +62,9 @@ The Lord responded by providing bread from heaven.
 
 ### Operational ownership note
 
+**Related leader:** Moses  
+**Operational owner:** Victuals Ministry for Data Play mapping
+
 Although Moses communicated the instruction, this is **Victuals work** in the Oikonomia demo: food provision, household distribution guidance, collection schedule, storage compliance, and testimony preservation.
 
 ### Status
@@ -76,6 +82,8 @@ Although Moses communicated the instruction, this is **Victuals work** in the Oi
 ## Victuals Compliance Incident — Overnight Manna Storage
 
 **Record type:** Food Handling / Compliance Incident  
+**Date:** 2026-03-09  
+**Visibility:** Leadership  
 **Status:** Closed with recurring guidance  
 **Tags:** #administrative #light #frustration
 
@@ -106,7 +114,8 @@ This is a useful ordinary operational record because the biblical account itself
 ## Food Provision Escalation — Quail / Numbers 11
 
 **Record type:** Critical Provision / Leadership Incident  
-**Owner:** Moses  
+**Date:** 2026-03-16  
+**Visibility:** Leadership  
 **Status:** Closed — Serious Historical Event  
 **Tags:** #serious #dramatic #exhaustion #frustration #grief
 
@@ -143,7 +152,8 @@ When Moses said the burden was too heavy, God's answer was not simply to tell hi
 ## Water Crisis — Rephidim
 
 **Record type:** Resource / Water Escalation  
-**Owner:** Moses  
+**Date:** 2026-03-23  
+**Visibility:** Leadership  
 **Status:** Resolved  
 **Tags:** #dramatic #serious #frustration #pressure #relief
 

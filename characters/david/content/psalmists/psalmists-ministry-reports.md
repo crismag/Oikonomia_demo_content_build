@@ -1,6 +1,8 @@
 # David — Psalmists Ministry Reports
 
-## Canonical 2026 rhythm
+**Oikonomia section:** Leadership Report
+
+**Canonical 2026 rhythm**
 
 - Thursday — Psalmists practice.
 - Friday — Psalmists practice.
@@ -11,9 +13,11 @@
 
 ## Weekly Psalmists Report — Developing Other Leaders
 
+**Record type:** Weekly Psalmists Report  
 **Date:** 2026-02-08  
+**Visibility:** Shared  
 **Status:** Complete  
-**Tags:** #administrative #worship #mentorship #growth
+**Tags:** #administrative #growth
 
 ### Thursday practice
 
@@ -39,9 +43,11 @@ None.
 
 ## Psalmists / Production Coordination Report
 
+**Record type:** Psalmists / Production Coordination Report  
 **Date:** 2026-03-15  
+**Visibility:** Shared  
 **Status:** Follow-up Required  
-**Tags:** #administrative #worship #production #light
+**Tags:** #administrative #light
 
 ### Issue
 
@@ -57,19 +63,23 @@ Production had to revise channel assignment and stage setup shortly before rehea
 - Late additions require confirmation rather than assumption.
 - David to stop saying, "It is only one more instrument," because Production has explained that this sentence has technical consequences.
 
-### Comment
+### Comments
 
-**Production:** Please finalize the arrangement before soundcheck.  
-**David:** The arrangement was finalized. Then I heard another part.  
-**Production:** That is the opposite of finalized.
+**Production lead:** Please finalize the arrangement before soundcheck.
+
+**David:** The arrangement was finalized. Then I heard another part.
+
+**Production lead:** That is the opposite of finalized.
 
 ---
 
 ## Song Review — Biblical Context
 
+**Record type:** Song Review  
 **Date:** 2026-04-12  
+**Visibility:** Shared  
 **Status:** Complete  
-**Tags:** #administrative #devotional #teaching #worship
+**Tags:** #administrative #devotional #teaching
 
 Reviewed new Psalmists material for biblical clarity.
 
@@ -92,9 +102,11 @@ Musical beauty and theological care should not be treated as competitors.
 
 ## Worship Equipment Stewardship
 
+**Record type:** Equipment Stewardship Review  
 **Date:** 2026-05-17  
+**Visibility:** Shared  
 **Status:** Complete  
-**Tags:** #administrative #equipment #worship
+**Tags:** #administrative
 
 ### Review
 
@@ -106,17 +118,21 @@ Completed Psalmists equipment check with Production.
 - Personal instruments distinguished from church-managed equipment.
 - No biblical harp has been added to the modern asset register merely because I keep mentioning one.
 
-### Comment
+### Comments
 
-**Cris:** Is the lyre church property?  
-**David:** Which one?  
+**Cris:** Is the lyre church property?
+
+**David:** Which one?
+
 **Cris:** I regret asking the question in that form.
 
 ---
 
 ## Weekly Psalmists Report — Lament Service
 
+**Record type:** Weekly Psalmists Report  
 **Date:** 2026-07-19  
+**Visibility:** Shared  
 **Status:** Complete  
 **Tags:** #pastoral #devotional #grief #worship
 
@@ -138,9 +154,11 @@ Develop a small indexed set of lament selections with biblical context for pasto
 
 ## Weekly Psalmists Report — Reporting Compliance
 
+**Record type:** Weekly Psalmists Report  
 **Date:** 2026-08-30  
+**Visibility:** Shared  
 **Status:** Complete  
-**Tags:** #administrative #funny #worship
+**Tags:** #administrative #funny
 
 ### Thursday
 
@@ -162,11 +180,16 @@ Submitted before deadline.
 
 Three songs.
 
-### Comment
+### Comments
 
-**Cris:** I am marking this as progress.  
-**David:** The songs or the report?  
-**Cris:** The report.  
-**David:** One of the songs is about progress.  
-**Cris:** David.  
+**Cris:** I am marking this as progress.
+
+**David:** The songs or the report?
+
+**Cris:** The report.
+
+**David:** One of the songs is about progress.
+
+**Cris:** David.
+
 **David:** Understood.

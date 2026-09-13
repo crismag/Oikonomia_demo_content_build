@@ -1,5 +1,7 @@
 # David — 2026 Goals
 
+**Oikonomia section:** Goals
+
 ## Goal 1 — Receive correction before defending myself
 
 **Status:** Active  
@@ -22,7 +24,7 @@ That confession did not remove the consequences, but it remains a pattern I need
 - Keep at least two relationships where people can challenge me without managing my reaction first.
 - Use restricted Personal Development reports for significant correction and follow-through.
 
-**Biblical foundation:** 2 Samuel 11–12; Psalm 51.
+**Biblical account:** 2 Samuel 11–12; Psalm 51.
 
 ---
 
@@ -44,7 +46,7 @@ Being king gave me authority. It did not give me the right to take another man's
 - Require accountability for decisions where my position could make disagreement difficult.
 - Do not allow loyalty to me to become a reason someone ignores what is right.
 
-**Biblical foundation:** 2 Samuel 11–12.
+**Biblical account:** 2 Samuel 11–12.
 
 ---
 
@@ -66,14 +68,14 @@ Abigail met me before I carried it out. She spoke wisely and urged me not to tak
 - Identify the "Abigail moment": the point where wise intervention is still possible before anger becomes action.
 - Record significant anger-related incidents honestly rather than editing them into leadership confidence.
 
-**Biblical foundation:** 1 Samuel 25.
+**Biblical account:** 1 Samuel 25.
 
 ---
 
 ## Goal 4 — Develop Psalmists without making worship revolve around David
 
 **Status:** Active  
-**Tags:** #celebratory #creative #leadership #growth
+**Tags:** #celebratory #creative #growth
 
 ### Why this matters
 
@@ -91,7 +93,7 @@ But a healthy worship ministry cannot become one person's permanent platform.
 
 **Measurement note:** A new song is not automatically a completed leadership report.
 
-**Biblical foundation:** 1 Samuel 16; 2 Samuel 6; 1 Chronicles 23–25; selected Davidic Psalms.
+**Biblical account:** 1 Samuel 16; 2 Samuel 6; 1 Chronicles 23–25; selected Davidic Psalms.
 
 ---
 
@@ -115,14 +117,14 @@ Scripture says I strengthened myself in the Lord my God. Then I sought God's dir
 - Separate emotional acknowledgment from operational direction.
 - Ask for God's direction rather than assuming urgency itself supplies the answer.
 
-**Biblical foundation:** 1 Samuel 30:1–8.
+**Biblical account:** 1 Samuel 30:1–8.
 
 ---
 
 ## Goal 6 — Prepare the next generation for work I may not complete myself
 
 **Status:** Active  
-**Tags:** #reflective #hope #mentorship #gratitude
+**Tags:** #reflective #hope #gratitude
 
 ### Why this matters
 
@@ -137,4 +139,4 @@ My responsibility became preparation: materials, organization, encouragement, pl
 - Give successors enough context to understand why, not only what.
 - Celebrate another person's completion of work I helped prepare.
 
-**Biblical foundation:** 2 Samuel 7; 1 Chronicles 22; 28–29.
+**Biblical account:** 2 Samuel 7; 1 Chronicles 22; 28–29.

@@ -1,5 +1,7 @@
 # David — Logistics, Security, and War Reports
 
+**Oikonomia section:** Leadership Report
+
 > Biblical warfare is presented as historical material, not as a modern church operating model. These records are useful for logistics, status, personnel, crisis, supply, decision, and after-action structures.
 
 ---
@@ -7,9 +9,11 @@
 ## Supply Delivery — Jesse to Field Camp
 
 **Record type:** Logistics / Delivery  
+**Date:** 2026-01-13  
+**Visibility:** Shared  
 **Assigned to:** David  
 **Status:** Completed  
-**Tags:** #administrative #light #logistics
+**Tags:** #administrative #light
 
 Before the confrontation with Goliath, Jesse sent David to the Israelite camp with provisions.
 
@@ -34,9 +38,10 @@ One of the most famous battle narratives in Scripture begins with somebody being
 ## Security Status — Fugitive Period
 
 **Record type:** Security / Movement Status  
-**Owner:** David  
+**Date:** 2026-03-09  
+**Visibility:** Leadership  
 **Status:** Historical High Risk  
-**Tags:** #serious #fear #logistics #security
+**Tags:** #serious #fear #security
 
 During Saul's pursuit, David moved repeatedly among wilderness strongholds, caves, towns, Philistine territory, and other locations.
 
@@ -66,9 +71,10 @@ Doing good for a community does not guarantee that the community can protect you
 ## Personnel Growth — Adullam
 
 **Record type:** Personnel / Team Formation  
-**Owner:** David  
+**Date:** 2026-03-11  
+**Visibility:** Shared  
 **Status:** Historical  
-**Tags:** #administrative #serious #leadership #people
+**Tags:** #administrative #serious #people
 
 When David escaped to the cave of Adullam, his brothers and father's household joined him.
 
@@ -89,9 +95,10 @@ David learned leadership while responsible for people carrying real pressure and
 ## Ziklag Personnel Capacity — Besor
 
 **Record type:** Operational Personnel Status  
-**Owner:** David  
+**Date:** 2026-04-21  
+**Visibility:** Shared  
 **Status:** Completed  
-**Tags:** #administrative #exhaustion #leadership
+**Tags:** #administrative #exhaustion
 
 Pursuit began with six hundred men.
 
@@ -113,8 +120,8 @@ Contribution recognized after recovery: Both groups.
 ## Joab — Operational Success / Leadership Risk
 
 **Record type:** Leadership / Operations Review  
-**Owner:** David  
-**Visibility:** Restricted  
+**Date:** 2026-06-16  
+**Visibility:** Only me  
 **Status:** Persistent Concern  
 **Tags:** #serious #administrative #conflict #accountability
 
@@ -137,7 +144,8 @@ Have we allowed any leader to become operationally indispensable enough that acc
 ## Jerusalem Capture — Strategic Status
 
 **Record type:** Major Operation / Territory Status  
-**Owner:** David  
+**Date:** 2026-06-23  
+**Visibility:** Shared  
 **Status:** Objective Achieved  
 **Tags:** #serious #administrative #strategy
 

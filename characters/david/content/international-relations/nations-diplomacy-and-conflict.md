@@ -1,11 +1,14 @@
 # David — International Relations, Diplomacy, and Neighboring Nations
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Diplomatic Outreach — Hanun of Ammon
 
 **Record type:** International Relations / Diplomatic Mission  
-**Owner:** David  
+**Date:** 2026-06-29  
+**Visibility:** Shared  
 **Status:** Mission Failed / Relations Escalated  
 **Tags:** #administrative #serious #diplomacy #conflict
 
@@ -40,9 +43,10 @@ Also: personnel who have been publicly humiliated do not need to be immediately 
 ## International Escalation — Ammon and Aramean Forces
 
 **Record type:** International Relations / Conflict Status  
-**Owner:** David  
+**Date:** 2026-07-14  
+**Visibility:** Leadership  
 **Status:** Escalated to Armed Conflict  
-**Tags:** #serious #administrative #conflict #leadership
+**Tags:** #serious #administrative #conflict
 
 After the Ammonites realized they had become offensive to David, they hired Aramean forces.
 
@@ -65,9 +69,10 @@ Two-front pressure requires explicit mutual-support planning rather than assumin
 ## Treaty / Tribute Status — Neighboring Kingdoms
 
 **Record type:** International Relations / Regional Status  
-**Owner:** David  
+**Date:** 2026-07-28  
+**Visibility:** Shared  
 **Status:** Historical Summary  
-**Tags:** #administrative #serious #governance
+**Tags:** #administrative #serious
 
 David's reign included conflicts and changing relationships with surrounding peoples including Philistines, Moabites, Arameans, Edomites, Ammonites, and others.
 
@@ -95,9 +100,10 @@ The account can still exercise:
 ## Hiram of Tyre — Construction Relationship
 
 **Record type:** International / Supplier Relationship  
-**Owner:** David  
+**Date:** 2026-08-04  
+**Visibility:** Shared  
 **Status:** Active Historical Relationship  
-**Tags:** #administrative #diplomacy #project #gratitude
+**Tags:** #administrative #diplomacy #gratitude
 
 Hiram king of Tyre sent envoys to David along with cedar logs, carpenters, and stonemasons who built a palace for David.
 
@@ -121,7 +127,8 @@ This can exercise:
 ## Mephibosheth / Ziba Matter — Information During Political Crisis
 
 **Record type:** Governance / Information Reliability Review  
-**Owner:** David  
+**Date:** 2026-08-17  
+**Visibility:** Leadership  
 **Status:** Historical Review  
 **Tags:** #serious #administrative #uncertainty #judgment
 

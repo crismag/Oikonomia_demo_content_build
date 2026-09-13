@@ -1,13 +1,16 @@
 # David — Administrative Duties, Governance, and Stewardship Reports
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Government Organization Status
 
 **Record type:** Administrative / Governance Status  
-**Owner:** David  
+**Date:** 2026-05-05  
+**Visibility:** Shared  
 **Status:** Established  
-**Tags:** #administrative #leadership #governance
+**Tags:** #administrative
 
 After the kingdom became established, administration required more than battlefield leadership. Scripture records officials responsible for the army, records, priests, secretarial work, and other functions around David's government.
 
@@ -33,7 +36,8 @@ The work eventually requires records, delegated authority, finance/material stew
 ## Justice and Administration Review
 
 **Record type:** Governance / Leadership Reflection  
-**Owner:** David  
+**Date:** 2026-05-19  
+**Visibility:** Leadership  
 **Status:** Ongoing  
 **Tags:** #serious #administrative #justice #conviction
 
@@ -59,7 +63,8 @@ A leader may build effective institutions while still requiring correction in pr
 ## Census Authorization — Post-Mortem
 
 **Record type:** Administrative Failure / Post-Mortem  
-**Owner:** David  
+**Date:** 2026-06-02  
+**Visibility:** Leadership  
 **Status:** Closed with Serious Consequences  
 **Tags:** #serious #administrative #regret #conviction #accountability
 
@@ -88,10 +93,11 @@ When a trusted subordinate raises a serious objection, positional authority shou
 ## Temple Preparation — Work I Will Not Complete
 
 **Record type:** Major Project / Preparation Status  
-**Owner:** David  
+**Date:** 2026-06-10  
+**Visibility:** Shared  
 **Successor:** Solomon  
 **Status:** Preparation Active / Construction Assigned Elsewhere  
-**Tags:** #administrative #project #mentorship #hope #gratitude
+**Tags:** #administrative #hope #gratitude
 
 I wanted to build a house for the Lord. That assignment was not given to me to complete.
 
@@ -119,8 +125,10 @@ Not being the person who completes a project does not make preparation unimporta
 
 **Record type:** Weekly Leadership Report  
 **Date:** 2026-06-14  
+**Visibility:** Leadership  
+**Shared with:** Cris  
 **Status:** Submitted  
-**Tags:** #administrative #light #leadership
+**Tags:** #administrative #light
 
 ### Completed
 
@@ -130,7 +138,7 @@ Not being the person who completes a project does not make preparation unimporta
 - Reviewed one restricted pastoral concern.
 - Prepared mentoring notes for Tuesday.
 
-### Attention required
+### Attention
 
 - One Psalmists equipment request needs Production confirmation.
 - Joab has once again completed the operational objective while creating a separate leadership conversation about how he completed the operational objective.
@@ -142,10 +150,14 @@ Not being the person who completes a project does not make preparation unimporta
 - Meet with Psalmists developing leaders.
 - Submit reports before submitting additional songs.
 
-### Comment
+### Comments
 
-**Cris:** Thank you for submitting an actual report.  
-**David:** I also attached a song.  
-**Cris:** I saw it.  
-**David:** It summarizes the week.  
+**Cris:** Thank you for submitting an actual report.
+
+**David:** I also attached a song.
+
+**Cris:** I saw it.
+
+**David:** It summarizes the week.
+
 **Cris:** The report is still why this item is marked complete.

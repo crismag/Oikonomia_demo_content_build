@@ -1,13 +1,17 @@
 # Moses — Special Operational Reports: Camp Movement and Travel Status
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Camp Organization Status — Tribal Arrangement
 
 **Record type:** Facilities / Camp Operations  
-**Owner:** Moses and Aaron  
+**Date:** 2026-06-08  
+**Visibility:** Leadership  
+**Shared with:** Aaron  
 **Status:** Established  
-**Tags:** #administrative #serious #operations
+**Tags:** #administrative #serious
 
 ### Situation
 
@@ -34,7 +38,8 @@ This material belongs strongly with **Facilities**: movement, setup, transport, 
 ## Movement Control — Cloud / Fire Status
 
 **Record type:** Travel / Movement Status  
-**Owner:** Moses  
+**Date:** 2026-06-15  
+**Visibility:** Leadership  
 **Status:** Recurring Operating Pattern  
 **Tags:** #administrative #devotional #waiting #guidance
 
@@ -65,12 +70,14 @@ A community may be packed, organized, and capable of moving and still need to wa
 ## Travel Delay — Miriam
 
 **Record type:** Travel / Facilities Status Update  
-**Related person:** Miriam  
-**Owner:** Moses / Camp Operations  
+**Date:** 2026-06-29  
+**Visibility:** Leadership  
 **Status:** Resolved after seven-day delay  
 **Tags:** #administrative #serious #pastoral #waiting
 
 ### Situation
+
+**Related person:** Miriam
 
 After Miriam and Aaron spoke against Moses, the Lord confronted the matter. Miriam became leprous/was afflicted with a serious skin condition described in the text.
 
@@ -101,9 +108,10 @@ The delay is operationally important, but Miriam should not be reduced to a sche
 ## Route Change Request — Edom Passage Denied
 
 **Record type:** Travel / Route Status  
-**Owner:** Moses  
+**Date:** 2026-08-17  
+**Visibility:** Leadership  
 **Status:** Reroute Required  
-**Tags:** #administrative #serious #frustration #operations
+**Tags:** #administrative #serious #frustration
 
 ### Request
 
@@ -132,7 +140,8 @@ Not every blocked route should become a battle merely because the original plan 
 ## Leadership Transition Status — Aaron's Death
 
 **Record type:** Leadership / Travel Status  
-**Owner:** Moses  
+**Date:** 2026-08-24  
+**Visibility:** Leadership  
 **Status:** Transition Completed  
 **Tags:** #serious #pastoral #grief #transition
 

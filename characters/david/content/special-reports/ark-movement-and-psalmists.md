@@ -1,11 +1,14 @@
 # David — Special Operational Reports: Ark Movement and Psalmists
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Ark Transport Incident — First Attempt
 
 **Record type:** Critical Operations Incident  
-**Owner:** David  
+**Date:** 2026-05-11  
+**Visibility:** Leadership  
 **Status:** Movement Suspended  
 **Tags:** #dramatic #serious #grief #fear #conviction
 
@@ -43,7 +46,8 @@ A ministry can be enthusiastic, well attended, and emotionally sincere while sti
 ## Corrective Review — Ark Transport Requirements
 
 **Record type:** Corrective Action / Process Review  
-**Owner:** David  
+**Date:** 2026-05-18  
+**Visibility:** Leadership  
 **Status:** Corrective Plan Established  
 **Tags:** #serious #administrative #conviction #learning
 
@@ -71,7 +75,8 @@ Find what was wrong. Change it.
 ## Ark Movement Completion — Jerusalem
 
 **Record type:** Major Event / Completion Report  
-**Owner:** David  
+**Date:** 2026-05-25  
+**Visibility:** Shared  
 **Status:** Completed  
 **Tags:** #celebratory #devotional #joy #gratitude
 
@@ -103,9 +108,10 @@ Obedience did not reduce worship. It made the celebration rightly ordered.
 ## Psalmists Organization Status
 
 **Record type:** Ministry Organization / Psalmists  
-**Owner:** David  
+**Date:** 2026-06-01  
+**Visibility:** Shared  
 **Status:** Established  
-**Tags:** #administrative #celebratory #creative #leadership
+**Tags:** #administrative #celebratory #creative
 
 ### Biblical background
 
@@ -133,4 +139,4 @@ Canonical rhythm:
 
 **Songs submitted this week:** This field does not automatically satisfy `Weekly Leadership Report`.
 
-**Biblical foundation:** 1 Chronicles 15–16; 1 Chronicles 23–25.
+**Biblical account:** 1 Chronicles 15–16; 1 Chronicles 23–25.

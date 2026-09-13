@@ -1,11 +1,14 @@
 # David — Worship Reports
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Worship Is Response Before It Is Performance
 
 **Record type:** Worship Reflection  
-**Owner:** David  
+**Date:** 2026-01-08  
+**Visibility:** Shared  
 **Tags:** #devotional #reflective #gratitude
 
 Many of my songs came from events before they became material for public worship.
@@ -18,13 +21,15 @@ Skill matters. Preparation matters. Music matters.
 
 But worship begins with who God is and what He has done.
 
-**Biblical foundation:** Davidic Psalms broadly; 1 Chronicles 16.
+**Biblical account:** Davidic Psalms broadly; 1 Chronicles 16.
 
 ---
 
 ## Worship While Afraid
 
 **Record type:** Worship / Personal Reflection  
+**Date:** 2026-01-14  
+**Visibility:** Shared  
 **Tags:** #devotional #fear #hope #faith
 
 Some prayers associated with my fugitive years do not sound like a man pretending he is fearless.
@@ -44,6 +49,8 @@ Sometimes worship sounds like: I am afraid, and I will trust You.
 ## Worship After Deliverance
 
 **Record type:** Testimony / Worship Reflection  
+**Date:** 2026-04-30  
+**Visibility:** Shared  
 **Tags:** #celebratory #devotional #joy #gratitude
 
 Psalm 18 is associated with the day the Lord delivered me from my enemies and from Saul.
@@ -54,14 +61,15 @@ The important sequence is that deliverance becomes testimony.
 
 A testimony should not merely announce that something worked out. It should help the community remember who God was in the middle of it.
 
-**Biblical foundation:** Psalm 18; 2 Samuel 22.
+**Biblical account:** Psalm 18; 2 Samuel 22.
 
 ---
 
 ## Worship in Repentance
 
 **Record type:** Worship / Confession  
-**Visibility:** Restricted  
+**Date:** 2026-06-19  
+**Visibility:** Only me  
 **Tags:** #devotional #serious #regret #repentance #conviction
 
 Psalm 51 does not attempt to turn failure into inspirational branding.
@@ -72,13 +80,15 @@ The worship leader is not exempt from repentance because he knows how to write a
 
 In fact, knowing the language can become dangerous if I learn to sound broken without becoming honest.
 
-**Biblical foundation:** Psalm 51 superscription; 2 Samuel 11–12.
+**Biblical account:** Psalm 51 superscription; 2 Samuel 11–12.
 
 ---
 
 ## Worship in Grief
 
 **Record type:** Worship / Lament  
+**Date:** 2026-07-17  
+**Visibility:** Shared  
 **Tags:** #devotional #serious #grief #lament
 
 When Saul and Jonathan died, I wrote a lament.
@@ -98,6 +108,8 @@ If every musical response sounds triumphant, we may be asking grieving people to
 ## Dancing Before the Lord
 
 **Record type:** Worship / Celebration  
+**Date:** 2026-07-26  
+**Visibility:** Shared  
 **Tags:** #celebratory #joy #worship #light
 
 When the ark entered Jerusalem successfully, I danced before the Lord with all my might.

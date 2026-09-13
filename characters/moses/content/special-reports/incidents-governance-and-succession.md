@@ -1,11 +1,14 @@
 # Moses — Special Operational Reports: Incidents, Governance, and Succession
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Critical Incident — Golden Calf
 
 **Record type:** Leadership / Covenant Incident  
-**Owner:** Moses  
+**Date:** 2026-05-04  
+**Visibility:** Leadership  
 **Status:** Historical Critical Incident  
 **Tags:** #dramatic #serious #anger #grief #conviction
 
@@ -45,7 +48,8 @@ Aaron yielded to pressure from the people. I responded to what I saw with anger.
 ## Asset Replacement Request — Stone Tablets
 
 **Record type:** Replacement / Administrative Request  
-**Requester:** Moses  
+**Date:** 2026-05-04  
+**Visibility:** Leadership  
 **Status:** Replacement Required  
 **Tags:** #administrative #funny #regret
 
@@ -55,6 +59,7 @@ I broke the original tablets after coming down from Mount Sinai and seeing that 
 
 I understand that the original set contained the commandments written by God. I have been instructed to prepare two new stone tablets like the first ones and return to Mount Sinai.
 
+**Requester:** Moses  
 **Quantity:** 2  
 **Material:** Stone  
 **Replacement reason:** Damaged by requester  
@@ -72,8 +77,9 @@ I understand that the original set contained the commandments written by God. I 
 ## Leadership Conduct Incident — Meribah
 
 **Record type:** Leadership Incident / Personal Accountability  
-**Owner:** Moses  
-**Visibility:** Restricted  
+**Date:** 2026-08-10  
+**Visibility:** Named people  
+**Shared with:** Aaron, Joshua  
 **Status:** Closed with lasting consequence  
 **Tags:** #serious #dramatic #anger #regret #conviction
 
@@ -111,9 +117,10 @@ That did not mean my leadership response was right.
 ## Governance Case — Daughters of Zelophehad
 
 **Record type:** Governance / Policy Case  
-**Owner:** Moses  
+**Date:** 2026-08-24  
+**Visibility:** Leadership  
 **Status:** Ruling Established  
-**Tags:** #administrative #serious #justice #governance
+**Tags:** #administrative #serious #justice
 
 ### Request
 
@@ -142,7 +149,8 @@ He escalated the case to God, received instruction, and the result became broade
 ## Succession Request — Israel Needs a Shepherd
 
 **Record type:** Leadership Succession Request  
-**Owner:** Moses  
+**Date:** 2026-08-31  
+**Visibility:** Leadership  
 **Status:** Approved  
 **Tags:** #serious #pastoral #hope #transition
 
@@ -173,7 +181,8 @@ Moses was instructed to bring Joshua before Eleazar and the congregation, lay hi
 ## Succession Completion Status — Joshua Commissioned
 
 **Record type:** Leadership Transition / Completion Report  
-**Owner:** Moses  
+**Date:** 2026-09-21  
+**Visibility:** Leadership  
 **Status:** Commissioned  
 **Tags:** #serious #celebratory #hope #gratitude #transition
 

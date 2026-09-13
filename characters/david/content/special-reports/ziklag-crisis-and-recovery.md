@@ -1,11 +1,14 @@
 # David — Special Operational Reports: Ziklag Crisis and Recovery
 
+**Oikonomia section:** Leadership Report
+
 ---
 
 ## Critical Incident — Ziklag Burned / Families Taken
 
 **Record type:** Critical Incident  
-**Owner:** David  
+**Date:** 2026-04-06  
+**Visibility:** Leadership  
 **Status:** Critical at discovery  
 **Tags:** #dramatic #serious #grief #distress #fear
 
@@ -39,7 +42,8 @@ The men became bitter in spirit because of their sons and daughters and talked a
 ## Crisis Leadership Decision — Seek the Lord Before Pursuit
 
 **Record type:** Crisis Decision  
-**Owner:** David  
+**Date:** 2026-04-13  
+**Visibility:** Leadership  
 **Status:** Direction Received  
 **Tags:** #serious #devotional #distress #hope #faith
 
@@ -66,9 +70,10 @@ The pain was real. The threat was immediate. I still needed to know whether the 
 ## Personnel Status — Besor Brook
 
 **Record type:** Personnel / Operational Status  
-**Owner:** David  
+**Date:** 2026-04-20  
+**Visibility:** Shared  
 **Status:** Force Split by Capacity  
-**Tags:** #administrative #serious #exhaustion #leadership
+**Tags:** #administrative #serious #exhaustion
 
 ### Personnel movement
 
@@ -95,7 +100,8 @@ Their later treatment became part of an important distribution principle after t
 ## Recovery Report — All Recovered
 
 **Record type:** Rescue / Recovery Report  
-**Owner:** David  
+**Date:** 2026-04-27  
+**Visibility:** Shared  
 **Outcome:** Complete Recovery  
 **Status:** Complete  
 **Tags:** #dramatic #celebratory #relief #gratitude #joy
@@ -127,9 +133,10 @@ The recovery should not erase the earlier grief. It answers it.
 ## Distribution Policy Decision — Those Who Stayed With Supplies
 
 **Record type:** Governance / Distribution Decision  
-**Owner:** David  
+**Date:** 2026-05-04  
+**Visibility:** Shared  
 **Status:** Policy Established  
-**Tags:** #administrative #serious #justice #leadership
+**Tags:** #administrative #serious #justice
 
 ### Issue
 

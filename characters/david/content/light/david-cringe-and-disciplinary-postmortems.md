@@ -1,5 +1,7 @@
 # David — Cringe Moments, Administrative Comedy, and Disciplinary Post-Mortems
 
+**Oikonomia section:** Leadership Report
+
 > **Boundary:** Humor comes from awkward real biblical circumstances and modern administrative framing. Grave sins, deaths, sexual violence, and human suffering are not comedy material.
 
 ---
@@ -7,9 +9,11 @@
 ## Disciplinary Action — Conduct at Gath
 
 **Record type:** Disciplinary Action (DA)  
+**Date:** 2026-01-12  
+**Visibility:** Leadership  
 **Subject:** David  
 **Status:** Post-Mortem Required  
-**Tags:** #disciplinary #fear #judgment #cringe #funny
+**Tags:** #fear #judgment #cringe #funny
 
 ### Incident summary
 
@@ -38,9 +42,11 @@ Achish concluded that David was mad and questioned why his servants had brought 
 ## DA Post-Mortem — David Response
 
 **Record type:** Disciplinary Post-Mortem  
-**Visibility:** Restricted  
+**Date:** 2026-01-26  
+**Visibility:** Named people  
+**Shared with:** Cris  
 **Status:** Completed  
-**Tags:** #disciplinary #reflective #fear #cringe #funny
+**Tags:** #reflective #fear #cringe #funny
 
 ### David's statement
 
@@ -73,10 +79,14 @@ I understand why Leadership would still like to discuss the method.
 
 ### Comments
 
-**Cris:** For completeness, the incident report says you were making marks on the doors.  
-**David:** Correct.  
-**Cris:** And saliva was running down your beard.  
-**David:** I was committed to the strategy.  
+**Cris:** For completeness, the incident report says you were making marks on the doors.
+
+**David:** Correct.
+
+**Cris:** And saliva was running down your beard.
+
+**David:** I was committed to the strategy.
+
 **Cris:** That is not the part of the report currently being questioned.
 
 ---
@@ -84,6 +94,8 @@ I understand why Leadership would still like to discuss the method.
 ## Equipment Trial — Saul's Armor
 
 **Record type:** Equipment / Cringe Moment  
+**Date:** 2026-02-09  
+**Visibility:** Shared  
 **Status:** Returned Immediately  
 **Tags:** #light #administrative #cringe
 
@@ -109,20 +121,25 @@ David returned to:
 - five smooth stones,
 - shepherd's bag.
 
-### Comment
-
-**Cris:** So the king personally issued you equipment and you returned the entire kit?  
-**David:** After testing it.  
-**Cris:** How long was the test?  
-**David:** Long enough to know I was going to die wearing somebody else's confidence.
-
 **Biblical account:** 1 Samuel 17:38–40.
+
+### Comments
+
+**Cris:** So the king personally issued you equipment and you returned the entire kit?
+
+**David:** After testing it.
+
+**Cris:** How long was the test?
+
+**David:** Long enough to know I was going to die wearing somebody else's confidence.
 
 ---
 
 ## Bride-Price Completion Record — Michal
 
 **Record type:** Historical Administrative Record  
+**Date:** 2026-03-02  
+**Visibility:** Shared  
 **Status:** Completed  
 **Tags:** #administrative #cringe #awkward
 
@@ -140,22 +157,29 @@ David and his men killed two hundred Philistines and delivered the required evid
 **Delivered quantity:** 200.  
 **Variance:** +100.
 
-### Comment
-
-**Cris:** I have several questions about why this record exists.  
-**David:** So do I.  
-**Cris:** You delivered twice the requested quantity.  
-**David:** Correct.  
-**Cris:** There is no performance bonus associated with this field.  
-**David:** I am aware of that now.
-
 **Biblical account:** 1 Samuel 18:20–29.
+
+### Comments
+
+**Cris:** I have several questions about why this record exists.
+
+**David:** So do I.
+
+**Cris:** You delivered twice the requested quantity.
+
+**David:** Correct.
+
+**Cris:** There is no performance bonus associated with this field.
+
+**David:** I am aware of that now.
 
 ---
 
 ## Garment Damage Incident — Saul's Robe
 
 **Record type:** Property / Personal Development  
+**Date:** 2026-03-30  
+**Visibility:** Shared  
 **Status:** Self-Reported  
 **Tags:** #administrative #cringe #conviction #light
 
@@ -170,14 +194,17 @@ David's conscience troubled him afterward.
 **Damage:** Corner removed.  
 **Purpose:** Evidence that David had been close enough to harm Saul but chose not to kill him.
 
-### Comment
-
-**Cris:** You spared his life. That is the important part.  
-**David:** Yes.  
-**Cris:** But you still cut his robe.  
-**David:** My conscience already filed that report before you did.
-
 **Biblical account:** 1 Samuel 24.
+
+### Comments
+
+**Cris:** You spared his life. That is the important part.
+
+**David:** Yes.
+
+**Cris:** But you still cut his robe.
+
+**David:** My conscience already filed that report before you did.
 
 ---
 
@@ -185,8 +212,9 @@ David's conscience troubled him afterward.
 
 **Record type:** Administrative / Reporting Issue  
 **Date:** 2026-05-24  
+**Visibility:** Shared  
 **Status:** Resolved  
-**Tags:** #administrative #funny #cringe #worship
+**Tags:** #administrative #funny #cringe
 
 ### Requested
 
@@ -206,9 +234,12 @@ David was reminded that:
 
 ### Comments
 
-**David:** It has four sections.  
-**Cris:** So does the report template.  
-**David:** Exactly.  
+**David:** It has four sections.
+
+**Cris:** So does the report template.
+
+**David:** Exactly.
+
 **Cris:** No.
 
 ---
@@ -217,8 +248,9 @@ David was reminded that:
 
 **Record type:** Ministry / Light Incident  
 **Date:** 2026-06-26  
+**Visibility:** Shared  
 **Status:** Closed  
-**Tags:** #funny #light #worship #cringe
+**Tags:** #funny #light #cringe
 
 ### Situation
 
@@ -233,15 +265,19 @@ David decided explanation was insufficient and demonstrated.
 - Production confirmed no equipment was damaged.
 - Two younger Psalmists are now significantly more confident about dancing because "whatever we do will be less memorable than that."
 
-### Comment
-
-**David:** I danced before the Lord with all my might.  
-**Cris:** Historically, yes.  
-**David:** I was providing biblical context.  
-**Cris:** With your entire body.  
-**David:** Context should be embodied.
-
 **Biblical inspiration:** 2 Samuel 6:14–22. The 2026 practice incident is fictional Data Play activity.
+
+### Comments
+
+**David:** I danced before the Lord with all my might.
+
+**Cris:** Historically, yes.
+
+**David:** I was providing biblical context.
+
+**Cris:** With your entire body.
+
+**David:** Context should be embodied.
 
 ---
 
@@ -249,6 +285,7 @@ David decided explanation was insufficient and demonstrated.
 
 **Record type:** Psalmists / Asset Clarification  
 **Date:** 2026-08-07  
+**Visibility:** Shared  
 **Status:** Pending Owner Clarification  
 **Tags:** #administrative #funny #cringe
 
@@ -275,6 +312,9 @@ Production has requested that historical significance not be used as an asset-ow
 ## Weekly Reporting Pattern — Songs Do Not Close Tasks
 
 **Record type:** Leadership Development / Recurring Administrative Issue  
+**Date:** 2026-08-31  
+**Visibility:** Leadership  
+**Shared with:** Cris  
 **Status:** Improving  
 **Tags:** #administrative #funny #growth
 
@@ -296,12 +336,18 @@ The weekly report remains overdue.
 2. Submit report.
 3. Then attach song if relevant.
 
-### Comment
+### Comments
 
-**Cris:** You cannot close `Weekly Report` by linking `Psalm Draft`.  
-**David:** What if the Psalm contains all the relevant information?  
-**Cris:** Does it contain attendance?  
-**David:** Not numerically.  
-**Cris:** Then we are finished here.  
-**David:** Technically, we are not finished until I submit the report.  
+**Cris:** You cannot close `Weekly Report` by linking `Psalm Draft`.
+
+**David:** What if the Psalm contains all the relevant information?
+
+**Cris:** Does it contain attendance?
+
+**David:** Not numerically.
+
+**Cris:** Then we are finished here.
+
+**David:** Technically, we are not finished until I submit the report.
+
 **Cris:** Progress.

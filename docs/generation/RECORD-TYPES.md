@@ -2,6 +2,8 @@
 
 Data Play should exercise Oikonomia as a working binder rather than a pile of prose.
 
+This file describes **what** to author. `RECORD-FORMAT.md` describes **how to write it**, including which Oikonomia section each kind of record becomes.
+
 ## Planning and calendar
 Weekly/monthly agenda, scheduled ministry activity, future event, visit, practice, preparation and milestone. Answers: what is or was happening and when?
 

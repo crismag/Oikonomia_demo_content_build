@@ -93,13 +93,13 @@ Grave sin, death, sexual violence, abuse, trauma and human suffering are not com
 
 ## Metadata
 
-Use tags when useful. Core vocabulary includes `#serious #reflective #devotional #dramatic #funny #light #celebratory #pastoral #administrative #joy #gratitude #fear #anxiety #anger #frustration #grief #exhaustion #hope #courage #peace #regret #resentment #confusion #relief #conviction #compassion #confidence #uncertainty` plus precise contextual tags where needed.
+Write records in the human-readable format defined in `RECORD-FORMAT.md`: record headings, a few field lines (record type, date, visibility, status, tags), closing lines for attention, requests, related goals and biblical accounts, and comments.
 
-Tags describe the actual record, not merely the biblical story mentioned.
+Tags describe tone and emotional or spiritual state. The vocabulary is open, grows from the base set in `RECORD-FORMAT.md`, and describes the actual record, not merely the biblical story mentioned.
 
 ## Source architecture
 
-Prefer stable semantic identities such as `person.david`, `ministry.psalmists`, `scenario.david.ziklag` rather than database IDs. Canonical source documents remain human-readable and semantically structured rather than imitating current SQLite tables or volatile implementation details.
+Prefer stable semantic identities such as `person.david`, `ministry.psalmists`, `scenario.david.ziklag` rather than database IDs. Inside records, refer to people, ministries and groups by their roster or `/organization` names; the import script resolves them. Canonical source documents remain human-readable and semantically structured rather than imitating current SQLite tables or volatile implementation details.
 
 Generated/import output is disposable and separate. Canonical source content must never be rewritten by a transformer.
 
