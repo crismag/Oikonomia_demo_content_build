@@ -11,3 +11,9 @@ Write entries in the field-line style of `docs/generation/RECORD-FORMAT.md`. Min
 Assign a lead or member only when the character's canonical content supports it. `Not yet assigned` is a valid state until that character is generated.
 
 Venues are added here when a record first needs one.
+
+## Where organization-level records live
+
+- **Ministry goals:** `characters/<head>/content/ministry-goals/2026-<ministry>.md`, owned by each ministry head. Gifts and Arrows has no head yet; its Council goal is in Moses' folder.
+- **Weekly church schedule and dated events:** `characters/cris/content/calendar/`, maintained by Cris as coordinator.
+- **Meeting minutes:** in the folder of the person who owned the meeting, e.g. Leadership Council minutes in Peter's and Esther's folders.
