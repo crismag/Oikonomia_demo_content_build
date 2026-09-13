@@ -4,7 +4,7 @@ Every person in `targets/GENERATION-QUEUE.md` now has a character workspace esta
 
 ## Planning status
 
-A character with `notable-topics.md` has reached **PLANNED** at the topic-map level. This does not mean full canonical content has been generated.
+Every character now has a **FOUNDATION EXISTS** workspace: a `profile.md` with an Oikonomia identity block and a fact/inference/tradition table, a researched `notable-topics.md`, and, where Scripture supports them, `biblical-context.md`, `relationships.md`, `2026-goals.md` and `2026-rhythm.md`. Moses, Joshua and David also have substantial record content. A foundation does not mean record content has been generated.
 
 The intended mature workspace is:
 
