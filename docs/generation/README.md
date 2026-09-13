@@ -20,6 +20,7 @@ Generation should therefore respect Oikonomia's actual sections, record types, o
 8. `RECORD-FORMAT.md` — **required writing format** for finished records, character identities and tags, so the import script can read them.
 9. `RELATIONSHIP-AND-SCENARIO-GUIDE.md` — continuity and cross-character story construction.
 10. `HUMOR-AND-SENSITIVITY.md` — comedy boundaries and treatment of grave material.
+11. `STYLE-REFERENCE-REPORTS.md` — approved examples of report tone and style.
 
 An AI should not begin substantial character generation after reading only a target file. It must use the generation context and guardrails, then inspect the character's existing workspace and relevant biblical source material.
 

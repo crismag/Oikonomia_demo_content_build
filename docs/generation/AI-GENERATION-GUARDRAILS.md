@@ -110,6 +110,8 @@ When the biblical text does not settle a question, preserve that uncertainty. **
 
 Do not forward-date Scripture. The Red Sea did not occur in March 2026; Moses may submit a March 2026 reflection about having crossed it.
 
+The record date is present-day; the substance may be past. A 2026-dated report may present a biblical event with operational immediacy, in present tense, as the character's own account (see "Record date versus event" in `WORLD-AND-TIMELINE.md` and `STYLE-REFERENCE-REPORTS.md`). That is allowed. Moving the event into a 2026 setting, adding modern elements to it, or changing its facts is not.
+
 Do not back-project Oikonomia into biblical history. Cameras, microphones, production equipment, Oikonomia reports, modern church departments, Toronto locations, contemporary forms and electronic calendars did not exist in the ancient account.
 
 A modern situation may cause a character to remember biblical history. Do not gimmickily reenact a miracle or biblical event merely to create a 2026 scenario.
