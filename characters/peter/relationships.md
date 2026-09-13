@@ -15,7 +15,7 @@ Andrew heard John the Baptist, followed Jesus, and first brought Simon to Him (J
 **2026 fiction:** Andrew connects people and doesn't need the spotlight; Peter is naturally visible. Andrew may quietly bring newcomers to Peter's Lifegroup or to Field Ministry. Peter knows he is in the story because his brother went looking for him.
 
 ### James and John, sons of Zebedee — partners
-Fishing partners (Luke 5:10). With Peter, the three were taken into Jairus' house, up the mountain of the Transfiguration and further into Gethsemane (Mark 5:37; 9:2; 14:33). Herod killed James with the sword; shortly after, Peter was imprisoned (Acts 12:1–3). John and Peter prepared the Passover (Luke 22:8), went to the temple together, were arrested together and spoke together before the council (Acts 3–4), and were sent together to Samaria (Acts 8:14). Paul names James (the Lord's brother), Cephas and John as pillars (Galatians 2:9).
+Fishing partners (Luke 5:10). With Peter, the three were taken into Jairus' house, up the mountain of the Transfiguration and further into Gethsemane (Mark 5:37; 9:2; 14:33). Herod killed James with the sword; shortly after, Peter was imprisoned (Acts 12:1–3). John and Peter prepared the Passover (Luke 22:8), went to the temple together, were arrested together and spoke together before the council (Acts 3–4), and were sent together to Samaria (Acts 8:14). Paul names James, Cephas and John as pillars (Galatians 2:9); that this James is the Lord's brother is a reasonable inference from Galatians 1:19, since James son of Zebedee had already been killed, but it is not stated in 2:9.
 
 **Qualification:** "The disciple whom Jesus loved" ran with Peter to the tomb, told Peter "It's the Lord!", and prompted Peter's "Lord, what about this man?" (John 20:2–10; 21:7, 20–22). That disciple is traditionally identified as John, but the text does not name him. Records should either say "the disciple whom Jesus loved" or state that the identification is traditional.
 
@@ -48,7 +48,7 @@ Peter wrote 1 Peter "through Silvanus, our faithful brother" (1 Peter 5:12).
 **2026 fiction:** A trusted co-worker for letters, messages and careful delivery.
 
 ### Cornelius
-The Roman centurion whose household received the Holy Spirit while Peter was still preaching (Acts 10). Peter refused to be worshipped by him, stayed with his household, and defended the decision in Jerusalem (Acts 11).
+The Roman centurion whose household received the Holy Spirit while Peter was still preaching (Acts 10). Peter refused to be worshipped by him. The household asked him to stay some days (Acts 10:48), and Jerusalem believers later criticised him for going in and eating with them (Acts 11:3). He defended the decision in Jerusalem (Acts 11).
 
 **2026 fiction:** A mutual friendship across cultural lines. Cornelius' hospitality and prayer, and Peter's willingness to cross thresholds, shape newcomer and cross-cultural welcome records. Neither treats the other as a project.
 
