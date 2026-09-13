@@ -2,7 +2,7 @@
 
 **Oikonomia section:** Leadership Report
 
-Cris files these as a 2026 coordinator. Each report takes a situation from a leader's lived history and follows it up the way Cris would follow up any leadership matter: what happened, who needs to talk to whom, what not to force, and what to watch. The events are the leaders' history. Cris was not there, and doesn't pretend to have been.
+Cris files these as a 2026 coordinator. Each report takes a situation from a leader's lived history and follows it up the way Cris would follow up any leadership matter: what happened, what concerns him, who needs to talk to whom, and what the account itself teaches. The events are exactly as Scripture records them. Cris was not there, and doesn't pretend to have been.
 
 ---
 
@@ -11,34 +11,68 @@ Cris files these as a 2026 coordinator. Each report takes a situation from a lea
 **Record type:** Leadership Capacity / Follow-up  
 **Date:** 2026-01-19  
 **Visibility:** Leadership  
-**Status:** Follow-up Required  
-**Tags:** #administrative #serious #exhaustion
+**Shared with:** Moses  
+**Status:** Resolved  
+**Tags:** #administrative #funny #exhaustion #wisdom #leadership
 
-People are standing around Moses from morning until evening waiting for him to hear their disputes.
+I need to document a queue problem.
 
-His father-in-law Jethro has observed this and told him plainly that it is not good, that both Moses and the people will wear themselves out, and that the work is too heavy for one person.
+Moses has been sitting as judge for the people.
 
-Moses' explanation is that people come to him to inquire of God. That is true. It is also why the queue is so long.
+All of them.
+
+From morning until evening.
+
+Every dispute, every question about God's statutes, every disagreement between neighbours has been coming to one person. The people stand around him the whole day waiting for their turn.
+
+His father-in-law, Jethro, visited and watched this for one day.
+
+He then asked Moses the question I have been trying to find a polite way to ask: "Why do you sit alone?"
+
+Moses explained that the people come to him to inquire of God. That is true. It is also the reason the line never gets shorter.
+
+Jethro's assessment was direct: "The thing that you do is not good. You will surely wear away, both you, and this people that is with you."
+
+I have not been able to improve on that wording, so I have used it in the summary.
+
+### Jethro's Recommendation
+
+- Moses continues to represent the people before God and to teach them His statutes.
+- Capable men who fear God, are trustworthy and hate unjust gain are appointed over thousands, hundreds, fifties and tens.
+- Small matters are judged by those leaders.
+- Hard cases still come to Moses.
 
 ### Follow-up
 
-- Help Moses identify trustworthy leaders for ordinary matters without making him feel replaced.
-- Write down which matters still come to Moses, so the new arrangement doesn't quietly drift back.
-- Thank Jethro. People who say "this is not good" to senior leaders are not always thanked.
+- Confirm the new leaders were chosen for character, not availability. Jethro's list of qualifications starts with "fear God," not "free on Tuesdays."
+- Write down which matters still come to Moses, so the old arrangement doesn't quietly return.
+- Thank Jethro. People who tell a senior leader "this is not good" are not always thanked for it.
 
 ### Current Assessment
 
-The problem is not that Moses cares too much. The problem is that the church has learned to route everything through the person who cares most.
+Moses listened, and did everything his father-in-law said.
 
-For the record: being the only escalation path for an entire nation is not a sustainable leadership model.
+The leaders now judge the small matters, and bring the hard cases to Moses.
 
-**Attention:** Routine matters are waiting on one senior leader.  
+The problem was never that Moses cared too much. The problem was that everyone had learned to route everything through the one person who cared most. Sharing the load did not make Moses less of a leader. It made it possible for him, and for the people, to endure.
+
+From a coordination standpoint, I would like it noted that the most effective leadership restructure in this record was proposed by a visiting relative after watching for one day.
+
+### Prayer
+
+Strength for Moses, who carried more than one person was meant to carry.
+
+Wisdom and integrity for the new leaders of thousands, hundreds, fifties and tens.
+
+And humility for me, because Jethro solved in one afternoon a problem I had scheduled three meetings to discuss.
+
+**Attention:** Confirm the new arrangement is holding and hard cases still reach Moses.  
 **Attention to:** Cris  
 **Biblical account:** Exodus 18:13–26.
 
 ### Comments
 
-**Moses:** I've read this twice. The second time I agreed with it.
+**Moses:** I read this twice. The second time I agreed with it.
 
 ---
 
@@ -49,31 +83,64 @@ For the record: being the only escalation path for an entire nation is not a sus
 **Visibility:** Named people  
 **Shared with:** Peter  
 **Status:** Complete  
-**Tags:** #serious #regret #hope
+**Tags:** #serious #regret #restoration #hope #leadership
 
-On the night Jesus was arrested, Peter said that even if everyone else fell away, he never would. Then that he was ready to die rather than deny Him. Every disciple said the same. Peter said it first and loudest.
+I need to document a commitment Peter made that he was not able to keep.
 
-Before the rooster crowed, Peter had denied knowing Jesus three times. He went out and wept bitterly.
+On the night Jesus was arrested, Jesus told the disciples that all of them would stumble and scatter.
 
-I'm not writing this to relive the worst night of Peter's life. He tells it himself, better than I could. I'm writing it because Peter's current follow-up list has thirty-one items with his name on them, and eleven of them say "soon."
+Peter disagreed.
+
+He said that even if everyone else stumbled, he never would.
+
+Jesus told him plainly that before the rooster crowed, Peter would deny Him three times.
+
+Peter disagreed again. He said that even if he had to die with Jesus, he would not deny Him. The other disciples said the same thing.
+
+That same night, in the high priest's courtyard, a servant girl said Peter had been with Jesus. Peter said he didn't know Him. Someone else said it. Peter denied it again. About an hour later, a third person insisted. Peter said he didn't know what they were talking about.
+
+While he was still speaking, the rooster crowed.
+
+The Lord turned and looked at Peter. Peter remembered, went out, and wept bitterly.
+
+### Immediate Concerns
+
+- The commitment was sincere. Peter meant every word of it.
+- The commitment was made before Peter's capacity had been tested.
+- The warning was given in advance, clearly, and by the person best placed to know.
+- This is not a humorous matter, and this record doesn't treat it as one.
 
 ### Follow-up
 
-- Separate commitments Peter can keep from commitments that express how much he cares.
-- Every promise gets a date or it isn't a promise.
-- Peter's restoration by the sea came with an assignment, not a longer list.
+- No further action on the denial itself. It has already been dealt with, by the Lord, personally.
+- Note for Peter's development: sincerity and capacity are not the same thing. It is possible to mean a promise completely and still be unable to keep it in your own strength.
+- Note that Jesus had already prayed for Peter before any of this happened, and had already told him what to do afterward: "When once you have turned again, establish your brothers."
 
 ### Current Assessment
 
-The serious issue isn't enthusiasm. It's promising beyond tested capacity. Peter's courage was real, and so was the fear that overturned it within hours. Jesus had already prayed for him, and told him what to do afterward: strengthen your brothers.
+The most important part of this file is not the failure. It is what happened after.
 
-**Attention:** Commitments exceeding capacity.  
+By the sea, after breakfast, Jesus asked Peter three times whether he loved Him. Three denials; three questions. Each time, Peter answered, and each time Jesus gave him the same kind of work: feed my lambs, tend my sheep, feed my sheep.
+
+Jesus did not restore Peter by removing him from leadership. He restored him by giving him the flock.
+
+I have closed this follow-up. The restoration was already completed by someone with considerably more authority than me.
+
+### Prayer
+
+Thank God for His prayer for Peter before the night began.
+
+Humility for every leader who is sure they would never fail the way someone else did.
+
+And for Peter, courage to keep strengthening his brothers, including the ones who remind him of this report.
+
+**Attention:** Restoration recorded as complete. No further action.  
 **Attention to:** Peter  
-**Biblical account:** Matthew 26:33–35, 69–75; Luke 22:31–34; John 13:36–38; John 21:15–17.
+**Biblical account:** Matthew 26:31–35; Luke 22:31–34, 54–62; John 21:15–17.
 
 ### Comments
 
-**Peter:** Thirty-one. I've cut it to fourteen. With dates.
+**Peter:** He asked me three times. I noticed.
 
 ---
 
@@ -83,29 +150,53 @@ The serious issue isn't enthusiasm. It's promising beyond tested capacity. Peter
 **Date:** 2026-03-24  
 **Visibility:** Leadership  
 **Status:** Follow-up Required  
-**Tags:** #serious #administrative #discernment
+**Tags:** #serious #administrative #conflict #discernment #leadership
 
-Peter had been eating with Gentile believers in Antioch. When certain people arrived from James, he withdrew and separated himself, because he feared the circumcision group. Other Jewish believers followed. So did Barnabas.
+I need to document a public correction between two senior leaders in Antioch.
 
-Paul opposed Peter to his face, in front of everyone.
+Peter had been eating with the Gentile believers there. Regularly. At the same table.
 
-Two senior leaders. One public correction. An audience.
+Then some people arrived from James.
 
-I am being asked to mediate for a senior leader whose behaviour changed depending on who walked into the room.
+Peter stopped eating with the Gentile believers. He drew back and kept himself separate, because he was afraid of the circumcision group.
+
+The other Jewish believers followed his lead.
+
+So did Barnabas.
+
+Paul saw that this was not in step with the truth of the gospel. He confronted Peter to his face, in front of everyone, and asked him: if you, a Jew, live like a Gentile, how can you compel Gentiles to live like Jews?
+
+### Immediate Concerns
+
+- This was not about food. It was about who was considered fully welcome at the table.
+- Peter's conduct changed depending on who walked into the room.
+- A senior leader's example moved other people, including an encourager as strong as Barnabas.
+- The Gentile believers were the people most affected, and they are the people least mentioned.
 
 ### Follow-up
 
-- Check that the Gentile believers who were left at the table have been spoken to directly, not only discussed.
-- Speak with Barnabas separately. Being carried along is a real risk for encouragers.
-- Do not schedule a joint meeting called "Clearing the Air."
+- Confirm that the Gentile believers who were left at the table have been spoken to directly, not only talked about.
+- Speak with Barnabas separately. Encouragers are especially vulnerable to being carried along.
+- Do not schedule a joint meeting titled "Clearing the Air."
+- Do not add to the record anything Peter said in reply. Scripture doesn't record it, and I am not going to write it for him.
 
 ### Current Assessment
 
-Paul was addressing something that affected the whole table, not a private offence. Peter's withdrawal was not about food. It was about fear of who was watching.
+Paul corrected Peter publicly because the behaviour was public and it was teaching the whole church something false about the gospel.
 
-The record doesn't tell us what Peter said in reply. I'm not going to write it for him.
+The matter was serious. It does not appear to have been the end of the relationship. Years later, Peter wrote of "our beloved brother Paul" and the wisdom given to him.
 
-**Attention:** Watch for later signs of respect between Peter and Paul, not only for the conflict.  
+I would like every leader to notice that sentence was written by the man who was corrected.
+
+### Prayer
+
+Courage for leaders to eat with the people they already believe God has welcomed, whoever walks in.
+
+Grace for Peter and Paul to remain brothers after a hard conversation.
+
+And wisdom for me, because I am the one who has to decide where people sit at the next leadership lunch.
+
+**Attention:** Watch for signs of respect between Peter and Paul, not only for the conflict.  
 **Attention to:** Cris  
 **Biblical account:** Galatians 2:11–14; 2 Peter 3:15.
 
@@ -118,24 +209,53 @@ The record doesn't tell us what Peter said in reply. I'm not going to write it f
 **Visibility:** Leadership  
 **Shared with:** Nehemiah  
 **Status:** Complete  
-**Tags:** #administrative #light #conviction
+**Tags:** #administrative #funny #courage #discernment
 
-Sanballat and Geshem have requested a meeting with Nehemiah in the villages on the plain of Ono.
+I have a meeting request that Nehemiah keeps declining.
 
-Nehemiah has declined.
+The wall was finished except for the doors in the gates.
 
-They have requested the meeting four times. Nehemiah has declined four times, in the same words: "I am doing a great work, so that I can't come down. Why should the work cease while I leave it and come down to you?"
+Sanballat and Geshem sent an invitation: "Come, let's meet together in the villages in the plain of Ono."
 
-The fifth request arrived as an open letter.
+Nehemiah replied: "I am doing a great work, so that I can't come down. Why should the work cease while I leave it and come down to you?"
+
+They sent the same invitation again.
+
+He sent the same reply.
+
+This happened four times.
+
+The fifth time, Sanballat sent his servant with an open letter. It claimed that Nehemiah was planning a rebellion and wanted to make himself king, and that this would be reported to the king unless they met.
+
+Nehemiah replied that none of it was true and that they were inventing it in their own hearts.
+
+### Immediate Concerns
+
+- Scripture says plainly that they intended to harm him. This was never a scheduling disagreement.
+- The open letter was an attempt to make Nehemiah afraid, so the work would stop.
+- The meeting location was well away from the wall. I don't consider that a coincidence.
 
 ### Follow-up
 
-- Record for everyone who asks me how to decline a meeting: this is the template.
-- Note for accuracy: Scripture says the invitations were meant to harm him. This was never a scheduling disagreement, and the calendar humor stops there.
+- Keep Nehemiah's reply on file. When a leader asks how to decline a meeting that would pull them off essential work, this is the template.
+- No need to reschedule. The meeting is not happening.
+- Note for anyone receiving pressure by open letter: a false accusation does not have to be answered in the location of the accuser's choosing.
 
 ### Current Assessment
 
-Not every meeting request is a meeting. Some are ways to stop the wall. Nehemiah knew which one he had.
+Not every meeting request is a meeting. Some are ways to stop the wall.
+
+Nehemiah knew which kind he had, answered the lie honestly, and prayed a very short prayer: "But now, strengthen my hands."
+
+I have seen many leaders protect their calendar. This is the first time I have seen someone protect it with prayer and hold the same answer five times in a row.
+
+### Prayer
+
+Discernment for leaders to recognise invitations that are really distractions.
+
+Strength for hands that are tired from building.
+
+And for me, the courage to decline a meeting in fewer words than the invitation used.
 
 **Biblical account:** Nehemiah 6:1–9.
 
@@ -154,26 +274,51 @@ Not every meeting request is a meeting. Some are ways to stop the wall. Nehemiah
 **Visibility:** Named people  
 **Shared with:** David, Samuel  
 **Status:** Follow-up Required  
-**Tags:** #serious #fear #grief
+**Tags:** #serious #fear #grief #safety
 
-While David was playing music for Saul, Saul threw a spear at him, intending to pin him to the wall. David escaped. This has happened twice.
+I need to record a serious safety matter between two leaders.
 
-This is not a personality clash, a communication issue or a difference in leadership style. A senior leader tried to kill a younger one. It is recorded here as a safety matter, and I am not adding any lightness to it.
+After David came back from the battle with the Philistine, the women of Israel came out singing, "Saul has slain his thousands, and David his ten thousands."
+
+Saul was very angry. From that day on, he watched David.
+
+The next day, while David was playing music for him, as he did every day, Saul had his spear in his hand. He threw it, saying, "I will pin David to the wall!"
+
+David escaped. Scripture records that he escaped from Saul's presence twice.
+
+Later, it happened again. David was playing music, Saul tried to pin him to the wall with the spear, David slipped away, and the spear went into the wall. David fled that night.
+
+### Immediate Concerns
+
+- This is not a personality clash, a communication issue or a difference in leadership style.
+- A senior leader tried to kill a younger leader, more than once.
+- David was placed back in the same room, doing the same work, after the first attempt.
+- There is no humor in this record, and none should be added to it.
 
 ### Follow-up
 
 - David's safety comes before the working relationship.
-- Samuel is the appropriate person to speak with Saul, not me.
-- Do not ask David to keep "managing" Saul's moods by being in the room.
+- Samuel is the appropriate person to speak with Saul. I am not.
+- Do not ask David to keep "managing" Saul's moods by staying in the room.
 - Keep this record restricted to the people involved.
 
 ### Current Assessment
 
-Saul's fear of David's success is the root of this. David has shown restraint. Restraint is not the same as staying in harm's way.
+Scripture names the root of this plainly. Saul was afraid of David, because the LORD was with David and had departed from Saul. Jealousy turned into fear, and fear turned into violence.
+
+David showed remarkable restraint, then and later. Restraint is not the same thing as remaining in harm's way. Leaving that night was wise, not disloyal.
+
+### Prayer
+
+Protection for David.
+
+For Saul, that the fear and jealousy that ruled him would not rule anyone else in leadership.
+
+And wisdom for all of us to recognise when a situation has stopped being a conflict and become a danger.
 
 **Attention:** Physical safety concern between two leaders.  
 **Attention to:** Samuel  
-**Biblical account:** 1 Samuel 18:6–16; 1 Samuel 19:9–10.
+**Biblical account:** 1 Samuel 18:6–12; 1 Samuel 19:9–10.
 
 ### Comments
 
@@ -190,29 +335,67 @@ Saul's fear of David's success is the root of this. David has shown restraint. R
 **Visibility:** Leadership  
 **Shared with:** Jonah, Peter  
 **Status:** Reassigned (Same Destination)  
-**Tags:** #administrative #light #serious
+**Tags:** #administrative #funny #mercy #reluctance #leadership
+
+I need to document a travel irregularity.
 
 Jonah was assigned to Nineveh.
 
-Jonah went to Joppa, bought his own ticket, and boarded a ship to Tarshish, which is the other direction.
+Jonah went to Joppa, found a ship going to Tarshish, paid the fare himself, and boarded.
 
-A storm followed. The crew threw cargo overboard and prayed to every god they knew. Jonah was asleep below deck. After some discussion, Jonah asked to be thrown overboard.
+Tarshish is in the other direction.
 
-He has since been returned to land by a large fish and given the same assignment a second time.
+A great storm followed. The sailors were terrified. Every man cried out to his own god, and they threw the cargo overboard to lighten the ship.
+
+Jonah was asleep below deck.
+
+The captain woke him up and asked him to pray. The sailors cast lots to find out who was responsible. The lot fell on Jonah. He told them he feared the LORD, the God who made the sea and the dry land.
+
+This did not reassure them.
+
+Jonah told them to throw him into the sea. The sailors tried rowing back to land first, which I would like recorded to their credit. When they couldn't, they prayed to the LORD, threw Jonah overboard, and the sea became calm.
+
+The LORD had prepared a great fish. Jonah was inside it for three days and three nights, and was then returned to dry land.
+
+The word of the LORD then came to Jonah a second time.
+
+Same assignment. Same destination.
+
+### Travel and Expense Notes
+
+- Outbound fare to Tarshish: paid by Jonah. No reimbursement requested. None will be offered.
+- Cargo lost at sea: belonged to the ship. Not Jonah's to replace, but I have noted it.
+- Return transport: provided. Not through any approved vendor.
 
 ### Follow-up
 
-- Confirm the assignment destination in writing: Nineveh.
-- Note for expense review: Jonah paid the fare to Tarshish himself. No reimbursement will be requested, and none will be offered.
-- Speak with Peter about coaching. The issue is not Jonah's sense of direction.
+- Confirm the destination in writing: Nineveh.
+- Jonah went the second time. He preached, and the people of Nineveh believed God, fasted and repented.
+- Speak with Peter about coaching Jonah. The issue is not Jonah's sense of direction.
 
 ### Current Assessment
 
-Jonah knows exactly what God is like: gracious, merciful, slow to anger. That is the problem. He isn't worried the assignment will fail. He's worried it will work.
+Jonah was not afraid the assignment would fail. He was afraid it would work.
 
-**Attention:** Assignment accepted on second issue. Watch for what happens if it succeeds.  
+After Nineveh repented, Jonah was angry. He told God that this was exactly why he ran: "I knew that you are a gracious God and merciful, slow to anger, and abundant in loving kindness."
+
+He knew exactly who God is. He just didn't want that mercy to reach Nineveh.
+
+God's last question to Jonah was whether He should not be concerned for a great city of more than one hundred twenty thousand people.
+
+The record doesn't include Jonah's answer. I think it is left open for the rest of us.
+
+### Prayer
+
+Thank God for a second assignment.
+
+A heart in every leader that wants mercy to reach the people they would rather avoid.
+
+And patience for me, because this is the first travel file I've closed where the corrective transport was a fish.
+
+**Attention:** Assignment accepted on second issue. Watch for how Jonah handles the success.  
 **Attention to:** Peter  
-**Biblical account:** Jonah 1:1–17; Jonah 3:1–3; Jonah 4:1–2.
+**Biblical account:** Jonah 1:1–17; Jonah 3:1–5; Jonah 4:1–11.
 
 ### Comments
 
@@ -229,25 +412,55 @@ Jonah knows exactly what God is like: gracious, merciful, slow to anger. That is
 **Visibility:** Named people  
 **Shared with:** Saul, Samuel  
 **Status:** Recorded  
-**Tags:** #serious #fear #regret
+**Tags:** #serious #fear #regret #obedience
 
-Saul was told to wait seven days at Gilgal for Samuel, who would offer the sacrifices.
+I need to document a decision Saul made at Gilgal while waiting for Samuel.
 
-He waited the seven days. Samuel hadn't arrived. The Philistines were gathering. His troops were hiding and scattering. Saul said, "Bring the burnt offering to me," and offered it himself.
+Saul had been told to wait seven days for Samuel, who would come and offer the sacrifices.
 
-Samuel arrived just as he finished. Samuel asked, "What have you done?" Saul explained the pressure: the people were scattering, Samuel was late, and he forced himself.
+Saul waited the seven days.
 
-### Follow-up
+Samuel had not arrived. The Philistines had gathered at Michmash. Saul's troops were scattering from him.
 
-- Deadline pressure is real. It doesn't transfer authority.
-- When the person responsible is late, the next step is to ask, not to act in their place.
-- Saul's 2026 check-ins with Samuel include every "I had to" decision.
+Saul said, "Bring the burnt offering to me here," and he offered it himself.
+
+As soon as he finished, Samuel arrived.
+
+Samuel asked, "What have you done?"
+
+### Leader's Account
+
+Saul explained that the people were scattering, that Samuel had not come within the appointed days, and that the Philistines were about to come down on him before he had sought the LORD's favour.
+
+He said: "I forced myself therefore, and offered the burnt offering."
+
+I have recorded that explanation exactly as given.
+
+### Immediate Concerns
+
+- The pressure was real. The army was leaving and the enemy was gathering.
+- Pressure did not change who was authorised to offer the sacrifice.
+- When the person responsible is late, the next step is to keep waiting on God, not to act in their place.
 
 ### Current Assessment
 
-Saul waited almost long enough. The consequence Samuel announced was grave, and I'm not softening it. The lesson for any leader under pressure is that "I forced myself" is how it feels from inside, and "you have done foolishly" is how it looked to the one sent by God.
+Samuel told Saul that he had acted foolishly and had not kept the LORD's commandment. He said that Saul's kingdom would not continue, and that the LORD had sought a man after His own heart.
 
-**Attention:** Watch for decisions made outside a leader's authority under time pressure.  
+That is a grave consequence, and I am not softening it.
+
+The lesson I am taking for every leader under deadline pressure is this: "I forced myself" is how disobedience often feels from the inside. It feels like responsibility. It is still disobedience.
+
+Obedience sometimes looks like waiting longer than seems safe.
+
+### Prayer
+
+Patience for leaders when the deadline has passed and God has not yet moved.
+
+Honesty to name "I had to" decisions for what they are.
+
+And for Saul, a heart that listens before it acts.
+
+**Attention:** Watch for leaders taking authority that isn't theirs under time pressure.  
 **Attention to:** Samuel  
 **Biblical account:** 1 Samuel 13:8–14.
 
@@ -335,22 +548,53 @@ And wisdom for me in mediating two respected leaders who are both accustomed to 
 **Visibility:** Named people  
 **Shared with:** Martha, Mary of Bethany  
 **Status:** Resolved  
-**Tags:** #reflective #frustration #gratitude
+**Tags:** #reflective #funny #frustration #priorities #gratitude
 
-Martha welcomed Jesus into her home and was distracted with much serving. Her sister Mary sat and listened to Him. Martha asked Jesus whether He cared that her sister had left her to serve alone, and asked Him to tell Mary to help.
+I received a workload escalation from Martha.
 
-Jesus said Martha was anxious and troubled about many things, that one thing is needed, and that Mary had chosen the good part, which would not be taken from her.
+Jesus was a guest in her home.
+
+Martha was doing the serving. There was a lot of it.
+
+Her sister Mary was sitting at Jesus' feet, listening to Him teach.
+
+Martha went directly to Jesus and asked: "Lord, don't you care that my sister left me to serve alone? Ask her therefore to help me."
+
+As a coordinator, I would normally handle this by adjusting the serving rota.
+
+This escalation was not routed to me. It went to Jesus. So I am recording His answer instead of mine.
+
+### Response to Escalation
+
+Jesus said: "Martha, Martha, you are anxious and troubled about many things, but one thing is needed. Mary has chosen the good part, which will not be taken away from her."
+
+### Immediate Concerns
+
+- Martha's complaint was not really about the kitchen. It was about being alone with the work.
+- Jesus did not tell Martha that serving was wrong.
+- Jesus did not tell Mary to get up.
 
 ### Follow-up
 
-- Do not turn this into a report about kitchens. Martha's question was about being alone.
-- Workload escalation received directly from Martha, naming Mary. Escalation was answered by Jesus, whose answer is the centre of this record, not the rota.
-- Victuals now has a rotation so that no one serves every week (Martha's own goal).
 - No action for Mary.
+- Do not rewrite this as a report about hospitality standards.
+- Keep in mind for every busy ministry: the work of serving Jesus can crowd out time with Jesus.
 
 ### Current Assessment
 
-Jesus didn't tell Martha that serving was wrong. He told her what was needed first. Later, when her brother died, Martha was the one who went out to meet Him and said plainly what she believed.
+This is one of the few escalations I have seen answered completely, on the spot, by the person it was addressed to.
+
+The answer was gentle. He said her name twice. He saw how anxious she was. He did not shame her for serving, but He would not take the good part away from Mary to make the work more even.
+
+I also want to note what came later. When their brother Lazarus died, it was Martha who went out to meet Jesus, and Martha who said plainly, "I have come to believe that you are the Christ, God's Son." She had been listening, too.
+
+### Prayer
+
+Rest for every leader who is anxious and troubled about many things.
+
+Grace to choose the good part before the serving.
+
+And for me, the self-control not to create a rota for sitting at Jesus' feet.
 
 **Biblical account:** Luke 10:38–42; John 11:20–27.
 
@@ -366,26 +610,54 @@ Jesus didn't tell Martha that serving was wrong. He told her what was needed fir
 **Date:** 2026-06-22  
 **Visibility:** Named people  
 **Shared with:** David  
-**Status:** Follow-up Required  
-**Tags:** #serious #grief #reflective
+**Status:** Recorded  
+**Tags:** #serious #grief #worship #reflective
 
-The ark arrived in the city. David danced before the Lord with all his might, wearing a linen ephod. The people shouted; the trumpets sounded.
+I was asked to review "appropriate conduct during a public event" after the ark was brought into the City of David.
 
-Michal, Saul's daughter, watched from a window and despised him in her heart. When David came home to bless his household, she met him with contempt about how he had uncovered himself before the servants' maids. David answered that it was before the Lord, who had chosen him over her father, and that he would be even more undignified.
+I have reviewed it. I don't think that is the real issue.
+
+When the ark of the LORD was brought up with shouting and trumpets, David danced before the LORD with all his might, wearing a linen ephod.
+
+Michal, Saul's daughter, looked out through a window, saw King David leaping and dancing before the LORD, and despised him in her heart.
+
+David offered sacrifices, blessed the people, and gave every person in the crowd bread, dates and raisins.
+
+Then he went home to bless his household.
+
+Michal came out to meet him with contempt. She said the king had shamed himself in front of the servants' maids.
+
+David answered that it was before the LORD, who had chosen him, and that he would become even more undignified than this in worship.
 
 Scripture then records that Michal had no child to the day of her death.
 
+### Immediate Concerns
+
+- This is a marriage, not a platform conduct review. I will not be writing guidelines about dancing.
+- There is painful history here. Michal once loved David and helped him escape her father. She was later given to another man, and then taken back. None of that is light.
+- Contempt had taken root in her heart before a word was spoken.
+
 ### Follow-up
 
-- This is a marriage, not a worship-platform conduct review. I will not be writing guidelines about dancing.
-- There is history here: Michal's father tried to kill David, and Michal was given to another man and then taken back. None of that is light.
-- Any conversation belongs to David, privately, not to a report.
+- No conduct action. David's worship was before the LORD, and the LORD is the one it was for.
+- Any conversation about the marriage belongs to David privately, not to a report.
+- Keep this record restricted.
 
 ### Current Assessment
 
-I was asked whether "appropriate conduct on the platform after the ark has successfully arrived" should be discussed. It has been noted that the ark arriving successfully was the point. The deeper matter is contempt inside a home, and grief on both sides.
+The ark coming home was one of the most joyful days in Israel's history. It ended with contempt inside a home.
 
-**Biblical account:** 2 Samuel 6:12–23; 1 Samuel 18:20–28; 1 Samuel 25:44; 2 Samuel 3:13–16.
+Two things are true here. Worship that is wholehearted will sometimes look undignified to people watching from a window. And a heart that watches worship with contempt is carrying a grief of its own.
+
+### Prayer
+
+Freedom for leaders to worship God with all their might, whoever is watching.
+
+Healing for homes where contempt has quietly moved in.
+
+And gentleness for all of us who are tempted to evaluate worship from the window instead of joining it.
+
+**Biblical account:** 2 Samuel 6:12–23; 1 Samuel 18:20–28; 1 Samuel 19:11–17; 1 Samuel 25:44; 2 Samuel 3:13–16.
 
 ### Comments
 
@@ -400,29 +672,67 @@ I was asked whether "appropriate conduct on the platform after the ark has succe
 **Visibility:** Named people  
 **Shared with:** Elijah, Samuel  
 **Status:** Follow-up Required  
-**Tags:** #serious #exhaustion #compassion
+**Tags:** #serious #exhaustion #compassion #hope
 
-After the confrontation at Carmel, which was the most visible victory of his ministry, Elijah received a death threat from Jezebel. He ran. He left his servant, went a day into the wilderness, sat under a tree and asked God to take his life.
+I need to document a leader welfare concern.
 
-God's first response was sleep and food, twice.
+Elijah has just come through the most visible victory of his ministry at Mount Carmel.
+
+Immediately afterward, Jezebel sent him a message: by this time tomorrow, she would take his life.
+
+Elijah ran.
+
+He went to Beersheba and left his servant there. Then he went on alone, a day's journey into the wilderness, sat down under a juniper tree, and asked God to take his life. He said, "It is enough."
+
+He lay down and slept.
+
+### What God Did First
+
+An angel touched him and said, "Arise and eat." There was bread baked on hot stones and a jar of water. He ate, drank, and lay down again.
+
+The angel came a second time: "Arise and eat, because the journey is too great for you."
+
+God's first response to a leader who wanted to die was not a correction, a sermon or a new assignment.
+
+It was sleep, food and water. Twice.
+
+### Immediate Concerns
+
+- A leader can be at his lowest in the week after his biggest public success.
+- Elijah separated himself from the one companion he had.
+- He believed he was the only faithful person left. God later told him there were seven thousand others.
+- This is a matter of life and wellbeing, and there is nothing light about it.
 
 ### Follow-up
 
-- No new assignments to Elijah this month. I've checked with Samuel.
-- Emerging leaders cover the Saturday prayer meeting.
+- No new assignments for Elijah this month. I've checked with Samuel.
 - Do not send Elijah a list of things that went well at Carmel. He knows.
+- When he is ready, the next conversation belongs to God. At Horeb, God asked him gently, "What are you doing here, Elijah?", and spoke in a still small voice.
+- Note that God gave him a successor and companion: Elisha. Elijah was not meant to carry this alone.
 
 ### Current Assessment
 
-A leader can be at his lowest in the week after his biggest public success. The calendar should expect that, not be surprised by it.
+Elijah was not weak. He was exhausted, afraid and alone, and he was honest with God about it.
+
+God cared for his body first, listened to his complaint twice without interrupting, corrected his belief that he was the only one left, and gave him work to do with someone beside him.
+
+I want our church calendar to expect what God expected: that a great victory is sometimes followed by a very hard week.
+
+### Prayer
+
+Rest and food for leaders who have come to the end of their strength.
+
+A still small voice for everyone who thinks they are the only one left.
+
+And for me, the wisdom to bring bread before I bring a checklist.
 
 **Attention:** Leader recovery after a demanding season.  
 **Attention to:** Samuel  
-**Biblical account:** 1 Kings 19:1–8.
+**Biblical account:** 1 Kings 19:1–18.
 
 ### Comments
 
-**Elijah:** Two Saturdays off. Taking them.
+**Elijah:** Two Saturdays off. I'm taking them.
 
 ---
 
@@ -433,28 +743,61 @@ A leader can be at his lowest in the week after his biggest public success. The 
 **Visibility:** Leadership  
 **Shared with:** Elisha  
 **Status:** Resolved  
-**Tags:** #reflective #humility #light
+**Tags:** #funny #humility #healing #pride
 
-Naaman, commander of the Aramean army and a man with a skin disease, came to Elisha for healing with horses, chariots and gifts.
+I need to document a complaint about how a healing was delivered.
 
-Elisha didn't come out. He sent a messenger: wash in the Jordan seven times.
+Naaman is the commander of the army of the king of Syria. He is a great and honoured man, a mighty man of valour, and he has leprosy.
 
-Naaman left in a rage. He had expected the prophet to come out, call on the Lord and wave his hand over the place. He also pointed out that Damascus has better rivers.
+The idea of seeing Elisha came from a young Israelite girl who had been taken captive and served Naaman's wife. She said she wished her master could meet the prophet in Samaria.
 
-His servants asked: if the prophet had told you to do something great, wouldn't you have done it? So why not this?
+Naaman arrived at Elisha's house with horses, chariots, ten talents of silver, six thousand pieces of gold and ten changes of clothing.
 
-He washed seven times, and was made clean.
+Elisha did not come out.
+
+He sent a messenger with a simple instruction: go and wash in the Jordan seven times, and you will be clean.
+
+Naaman was furious.
+
+He had expected the prophet to come out personally, stand there, call on the name of the LORD, wave his hand over the place and heal him.
+
+He also pointed out that the rivers of Damascus are better than all the waters of Israel.
+
+He left in a rage.
+
+### Immediate Concerns
+
+- The complaint was not about the result. It was about the lack of ceremony.
+- Naaman was prepared to do something great, and was offended by something simple.
+- The best counsel in this account came from people with no title.
 
 ### Follow-up
 
-- Leadership concern for 2026: rejecting an effective solution because it lacks sufficient ceremony.
-- Credit to Naaman's servants, who gave the best counsel in the account and are not named.
+- Credit Naaman's servants. They said: "If the prophet had asked you to do some great thing, wouldn't you have done it? How much rather then, when he says to you, 'Wash, and be clean'?"
+- Credit the young servant girl, who pointed her captor toward healing.
+- No further action on the river comparison.
 
 ### Current Assessment
 
-The instruction wasn't beneath him. His expectations were above it.
+Naaman went down and dipped himself seven times in the Jordan.
 
-**Biblical account:** 2 Kings 5:1–14.
+His flesh was restored like the flesh of a little child, and he was clean.
+
+He then came back to Elisha and said, "Now I know that there is no God in all the earth, but in Israel."
+
+The instruction was not beneath him. His expectations were above it.
+
+I have noticed this in leaders more often than I would like, including myself. We will take on a large, impressive assignment gladly, and resist a small, humble step of obedience because it doesn't feel important enough.
+
+### Prayer
+
+Humility to obey instructions that come without ceremony.
+
+Thanksgiving for unnamed servants who give good counsel.
+
+And for me, the grace to accept the simple answer, even when I have already prepared a very detailed process.
+
+**Biblical account:** 2 Kings 5:1–15.
 
 ### Comments
 
@@ -471,23 +814,58 @@ The instruction wasn't beneath him. His expectations were above it.
 **Visibility:** Leadership  
 **Shared with:** Nehemiah  
 **Status:** Resolved  
-**Tags:** #administrative #frustration #light
+**Tags:** #administrative #funny #frustration #holiness #leadership
 
-While Nehemiah was away at the king's court, Eliashib the priest gave Tobiah, one of Nehemiah's long-standing opponents, a large room in the temple courts. The room had been used to store grain offerings, frankincense, vessels and tithes.
+I need to document an unauthorised room assignment.
 
-On his return, Nehemiah was deeply grieved. He threw all of Tobiah's household goods out of the room personally, ordered it cleaned and put the offerings back.
+While Nehemiah was away reporting to the king, Eliashib the priest, who was in charge of the storerooms of God's house, gave a large room to Tobiah.
+
+Tobiah was related to Eliashib.
+
+Tobiah was also one of the people who had opposed the rebuilding of the wall from the beginning.
+
+The room had been used to store the grain offerings, the frankincense, the temple vessels, and the tithes of grain, new wine and oil set aside for the Levites, singers and gatekeepers.
+
+It was now storing Tobiah's household goods.
+
+When Nehemiah returned, he was deeply grieved.
+
+He threw all of Tobiah's belongings out of the room.
+
+Personally.
+
+He then ordered the rooms purified and put the vessels, grain offerings and frankincense back where they belonged.
+
+### Immediate Concerns
+
+- The person responsible for the rooms assigned one to a relative, who was also an opponent of the work.
+- The arrangement happened while the leader was away, and nobody stopped it.
+- Nehemiah also found that the Levites' portions had not been given, so the Levites and singers had gone back to their fields.
 
 ### Follow-up
 
-- The room is restored to its purpose.
-- Review who had authority to assign rooms, and why nobody asked Nehemiah.
-- Note for 2026: when Events used the Facilities storeroom without asking, Nehemiah called Ezra before carrying anything anywhere. I'd like that recorded as progress.
+- Room restored to its original purpose.
+- Review who has authority to assign rooms, and why nobody raised a concern.
+- Nehemiah confronted the officials, asked, "Why is God's house forsaken?", and brought the Levites back to their posts.
+- No facilities form exists for "removing an opponent's furniture from the temple." I am not creating one.
 
 ### Current Assessment
 
-The room was given away because Nehemiah was absent and nobody else owned the arrangement. The lesson is not "never leave." It's "don't build a system that only works while you're standing in it."
+This was not only a storage problem. A space set apart for God's worship, and for providing for the people who served, had been given to a man who opposed God's work, by someone who was supposed to guard it.
 
-**Biblical account:** Nehemiah 13:4–9.
+Nehemiah's reaction was strong. It was also grief first, not temper.
+
+The lesson for us is not "never leave." It is that faithful structures need faithful people in them, and that neglecting what belongs to God rarely starts with a dramatic decision. It starts with a room quietly given away.
+
+### Prayer
+
+Faithfulness for those who hold keys to God's house.
+
+Courage for leaders to put things back where they belong.
+
+And for me, a clearer room booking process, so that no one has to carry furniture into the courtyard to correct it.
+
+**Biblical account:** Nehemiah 13:4–11.
 
 ### Comments
 
@@ -502,29 +880,57 @@ The room was given away because Nehemiah was absent and nobody else owned the ar
 **Visibility:** Leadership  
 **Shared with:** James son of Zebedee, John  
 **Status:** Closed  
-**Tags:** #light #humility #administrative
+**Tags:** #funny #humility #ambition #servanthood
 
-James and John asked Jesus to grant that one of them sit at His right hand and the other at His left in His glory.
+I received a seating request.
 
-Jesus told them they didn't know what they were asking. The seats were not His to give.
+James and John came to Jesus and opened with: "Teacher, we want you to do for us whatever we will ask."
 
-When the other ten heard, they were indignant.
+From a request-handling standpoint, that is not a request. It is a blank authorisation.
+
+Jesus asked what they wanted.
+
+They asked to sit one at His right hand and one at His left, in His glory.
+
+Jesus told them they did not know what they were asking. He asked if they could drink the cup He would drink. They said they could. He told them they would, but that the seats were not His to give. They were for those for whom they had been prepared.
+
+When the other ten disciples heard about it, they were indignant with James and John.
+
+### Immediate Concerns
+
+- Two leaders asked for position.
+- Ten leaders were angry about it, which suggests the seats had been on more than two minds.
+- The request was made shortly after Jesus had told them He was going to suffer and die.
 
 ### Follow-up
 
-- The request is closed. No seats have been assigned.
-- Speak with the ten separately. Indignation about ambition can also be ambition.
-- Jesus' instruction on this matter was that whoever wants to be great must be a servant. That is the only organizational chart update.
+- Request closed. No seats assigned.
+- Speak with the ten separately. Indignation about someone else's ambition can also be ambition.
+- Jesus' reorganisation applies to the whole team, not just the two who asked.
 
 ### Current Assessment
 
-Two capable, energetic leaders asked for position. The correction didn't remove them from the team. It changed what greatness means on it.
+Jesus called all twelve together and explained how leadership works among His people:
+
+Rulers of the nations lord it over people. "But it shall not be so among you." Whoever wants to be great must be a servant. Whoever wants to be first must be the slave of all. "For the Son of Man also came not to be served but to serve, and to give his life as a ransom for many."
+
+That is the only organisational chart update on file.
+
+The correction didn't remove James and John from the team. It changed what greatness means on it.
+
+### Prayer
+
+Servant hearts in every leader who wants a better seat.
+
+Honesty for those of us who are indignant about other people's ambition.
+
+And for me, the discipline to never again accept a request that begins with "whatever we ask."
 
 **Biblical account:** Mark 10:35–45.
 
 ### Comments
 
-**James son of Zebedee:** I'd like it recorded that I now want the driver's seat.
+**James son of Zebedee:** I'd like it recorded that I'm only asking for the driver's seat now.
 
 **Cris:** Recorded. It is also not available.
 
@@ -537,25 +943,60 @@ Two capable, energetic leaders asked for position. The correction didn't remove 
 **Visibility:** Leadership  
 **Shared with:** Philip, Andrew  
 **Status:** Complete  
-**Tags:** #light #faith #reflective
+**Tags:** #funny #faith #provision #gratitude
 
-A large crowd was coming. Jesus asked Philip, "Where are we to buy bread, that these may eat?" The record adds that He asked to test him, already knowing what He would do.
+I need to document a catering estimate.
 
-Philip immediately produced the budget: two hundred denarii of bread wouldn't be enough for each person to get a little.
+A very large crowd was coming toward Jesus.
 
-Andrew found a boy with five barley loaves and two fish, and asked what that was among so many.
+Jesus asked Philip: "Where are we to buy bread, that these may eat?"
 
-### Follow-up
+John adds a note I found very helpful: Jesus asked this to test Philip, because He already knew what He was going to do.
 
-- Both answers were honest. Philip calculated the constraint. Andrew brought what was available.
-- Neither had the solution. Jesus fed everyone, and there were leftovers.
-- Note for More Than Enough planning: ask both questions, what we lack and what we already have.
+Philip gave an immediate budget estimate. Two hundred denarii worth of bread would not be enough for each person to get even a little.
+
+I checked his number. It is a reasonable estimate. It is also more than half a year's wages.
+
+Andrew then reported available resources. There was a boy with five barley loaves and two fish.
+
+He followed that with an honest assessment: "But what are these among so many?"
+
+### Resource Summary
+
+- Men present: about five thousand.
+- Budget required: more than two hundred denarii.
+- Budget available: not stated.
+- Food on hand: five barley loaves, two fish, one boy.
+
+### What Happened
+
+Jesus told the disciples to have the people sit down on the grass.
+
+He took the loaves, gave thanks, and distributed them. He did the same with the fish. Everyone ate as much as they wanted.
+
+When they were filled, He told the disciples to gather the leftovers so nothing would be lost.
+
+They filled twelve baskets.
 
 ### Current Assessment
 
-Some leaders instinctively calculate what's missing. Some bring what's in the room. A team needs both, and neither is the miracle.
+Both disciples gave honest answers. Philip counted what was missing. Andrew brought what was in the room.
 
-**Biblical account:** John 6:5–13.
+Neither of them had the solution. The solution was Jesus, who already knew what He was going to do.
+
+A leadership team needs people who can do both: see the need clearly and bring the little that is available. Then it needs to put both into the hands of the Lord, give thanks, and see what He does.
+
+For the record, the catering ended with more food than it started with. I have never closed a budget like that before.
+
+### Prayer
+
+Honesty about what we don't have.
+
+Faith to offer what we do have.
+
+And for me, the humility to remember that my calculation can be correct and still not be the final word.
+
+**Biblical account:** John 6:5–14.
 
 ### Comments
 
@@ -572,27 +1013,63 @@ Some leaders instinctively calculate what's missing. Some bring what's in the ro
 **Visibility:** Leadership  
 **Shared with:** Thomas  
 **Status:** Resolved  
-**Tags:** #reflective #faith #light
+**Tags:** #reflective #faith #funny #grace
 
-Thomas was not with the other disciples when the risen Jesus came to them. When they told him, "We have seen the Lord!", Thomas said he would not believe unless he saw and touched the marks for himself.
+I need to document one missed meeting.
 
-Eight days later he was with them. Jesus came again and invited Thomas to look. Thomas said, "My Lord and my God."
+Thomas was not with the other disciples when the risen Jesus came and stood among them.
+
+When he returned, the others told him, "We have seen the Lord!"
+
+Thomas did not accept the report.
+
+He said that unless he saw the nail marks in Jesus' hands, put his finger into them and put his hand into His side, he would not believe.
+
+That is a high verification standard for meeting minutes.
+
+Eight days later, the disciples were together again, and this time Thomas was with them.
+
+The doors were locked. Jesus came and stood among them and said, "Peace be to you."
+
+Then He spoke directly to Thomas, and offered exactly what Thomas had asked for: "Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don't be unbelieving, but believing."
+
+Thomas answered, "My Lord and my God!"
+
+### Immediate Concerns
+
+- Thomas missed the meeting where the most important thing happened.
+- The report he received was completely accurate.
+- He asked to see for himself what the others had already been shown.
 
 ### Follow-up
 
-- No corrective action. Thomas came back the following week, which is the part I'd like people to notice.
-- Process note: Thomas missed one meeting and then required an extraordinary amount of verification before accepting the minutes. The minutes were correct. His request was answered in person.
-- Do not refer to him as "the doubter" in team communications. Earlier, when others hesitated to go to Judea, he was the one who said, "Let us go also, that we may die with him."
+- No corrective action.
+- Thomas came back the following week. I'd like people to notice that part.
+- Do not refer to him as "the doubter" in team communications. When Jesus decided to go back to Judea, where His life was in danger, Thomas was the one who said, "Let us go also, that we may die with him."
 
 ### Current Assessment
 
-Missing one meeting left Thomas with a second-hand report of the most important event of his life. He asked for what the others had already been given. Then he made one of the clearest confessions in the whole record.
+Jesus did not rebuke Thomas for asking. He came back and answered him personally.
 
-**Biblical account:** John 20:19–29; John 11:16.
+Then Thomas made one of the clearest confessions in the whole Bible: my Lord and my God.
+
+Jesus added one more sentence, and it is for us: "Blessed are those who have not seen and have believed."
+
+Most of our church is in that category. We have a faithful report, and we have not seen the nail marks. Jesus calls that blessed.
+
+### Prayer
+
+Grace for everyone who is struggling to believe a report they weren't there for.
+
+Faithfulness to keep coming back to the gathering.
+
+And for me, the humility to accept that the best-attested meeting minutes in history still needed a personal follow-up.
+
+**Biblical account:** John 20:24–29; John 11:16.
 
 ### Comments
 
-**Thomas:** Thank you for the second bullet point.
+**Thomas:** Thank you for the third bullet point.
 
 ---
 
@@ -603,37 +1080,77 @@ Missing one meeting left Thomas with a second-hand report of the most important 
 **Visibility:** Named people  
 **Shared with:** Solomon, David  
 **Status:** Follow-up Required  
-**Tags:** #administrative #serious #conviction
+**Tags:** #administrative #serious #wisdom #warning #conviction
 
-Solomon has submitted his long-range document. It is extensive.
+I have reviewed Solomon's long-range leadership file.
 
-### Sections received
+It is very long. It is also very impressive, for most of its length.
 
-1. **Wisdom:** asked God for an understanding heart rather than long life or riches. Received it, and more. Excellent.
-2. **Administration:** twelve district officers, provision for the royal household each month. Highly organized.
-3. **Building:** the temple, seven years; the royal palace, thirteen years. The temple dedication prayer is the best document in the file.
-4. **Trade:** a fleet, gold from Ophir, visitors from Sheba. Noted.
-5. **Horses:** fourteen hundred chariots and twelve thousand horsemen. Horses imported from Egypt.
-6. **Silver:** made as common as stones in Jerusalem.
-7. **Household:** many foreign wives, from nations the Lord had warned would turn Israel's heart to their gods.
-8. **Later years:** his heart turned after other gods. High places built for Chemosh and Molech.
+### Section 1 — Wisdom
 
-### Follow-up
+At Gibeon, God appeared to Solomon in a dream and said, "Ask for what I should give you."
 
-- Sections 5 to 7 match, item by item, what the law said a king must not multiply for himself: horses from Egypt, wives, silver and gold.
-- Section 8 is not an administrative finding. It's the reason the kingdom was torn.
+Solomon said he was like a little child who didn't know how to go out or come in, and asked for an understanding heart to judge God's people and discern between good and evil.
+
+God was pleased. He gave Solomon a wise and understanding heart, and also the riches and honour he didn't ask for.
+
+Rating: excellent. This is the best request in the file.
+
+### Section 2 — Building
+
+The temple. Then the royal palace. The prayer at the temple's dedication is one of the finest prayers on record.
+
+### Section 3 — Revenue and Trade
+
+- Six hundred sixty-six talents of gold in one year, not counting trade.
+- A fleet of ships bringing gold, silver, ivory, apes and peacocks.
+- Silver made as common as stones in Jerusalem.
+
+### Section 4 — Horses
+
+- One thousand four hundred chariots and twelve thousand horsemen.
+- Horses imported from Egypt.
+
+### Section 5 — Household
+
+- Many foreign wives, from the nations God had specifically warned would turn Israel's heart after their gods.
+
+### Section 6 — Later Years
+
+- When Solomon was old, his heart was turned after other gods.
+- He built high places for Chemosh and for Molech on the mountain facing Jerusalem.
+
+### Compliance Check
+
+Before Israel ever had a king, the law gave three instructions for one. He must not multiply horses for himself or send people back to Egypt for them. He must not multiply wives, so that his heart does not turn away. He must not greatly multiply silver and gold.
+
+Sections 3, 4 and 5 match that list, item by item.
+
+Section 6 is what the law said would happen.
 
 ### Current Assessment
 
-I started reading this document impressed. I finished it sober. The wisdom in section 1 was real. Wisdom at the beginning doesn't guarantee a whole heart at the end.
+I started reading this file impressed. I finished it sober.
+
+The wisdom in Section 1 was real, and it was a gift from God. But wisdom at the beginning did not guarantee a whole heart at the end. Solomon's heart was not fully devoted to the LORD, as David's had been. The LORD said the kingdom would be torn away from his son, leaving one tribe for David's sake.
+
+None of the accumulation happened in a single decision. It happened one import, one alliance and one exception at a time.
+
+### Prayer
+
+Hearts that stay whole to the end, not only at the start.
+
+Watchfulness for every leader who is being blessed with more.
+
+And for me, the discipline to read a whole file before approving its first section.
 
 **Attention:** Accumulation after early faithfulness.  
 **Attention to:** David  
-**Biblical account:** 1 Kings 3:5–14; 1 Kings 4:7; 1 Kings 10:26–28; 1 Kings 11:1–13; Deuteronomy 17:16–17.
+**Biblical account:** 1 Kings 3:5–13; 1 Kings 10:14–29; 1 Kings 11:1–13; Deuteronomy 17:16–17.
 
 ### Comments
 
-**Solomon:** I'd like to add a section 9 in 2026. Finishing with a whole heart.
+**Solomon:** I'd like to add a Section 7 in 2026. Finishing with a whole heart.
 
 **David:** So would I, for both of us.
 
