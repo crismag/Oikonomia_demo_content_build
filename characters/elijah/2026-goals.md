@@ -25,6 +25,12 @@ God did not start with my theology. He started with bread and water. I had made 
 - Do not resign from anything, or make a large decision about my ministry, while exhausted. Wait, eat, sleep, then talk to Samuel.
 - Do not go the last day's journey alone: keep at least one trusted person informed when I am struggling.
 
+### Progress
+
+- 2026-03-02 — Wrote a wellbeing follow-up to Samuel instead of making a large decision while tired.
+- 2026-07-06 — Asked for two Saturdays off in July; took them.
+- 2026-07-08 — Told Jeremiah to eat before deciding what an unwelcome word meant.
+
 **Biblical account:** 1 Kings 19:1–8.
 
 ---
@@ -47,6 +53,10 @@ When I feel alone, I describe the whole church as if it were empty. That is unfa
 - In the prayer meeting, pray by name for faithful people serving quietly in other ministries.
 - At Mentorship Night, help emerging leaders check their sense of isolation against the facts.
 - Thank the Obadiahs: people doing costly, unseen work inside difficult situations.
+
+### Progress
+
+- 2026-08-08 — Eleven people at the prayer meeting; didn't call it a collapse.
 
 **Biblical account:** 1 Kings 18:3–16; 1 Kings 19:9–18.
 
@@ -71,5 +81,11 @@ The ministry was never meant to end with me. It isn't meant to depend on me now 
 - At Mentorship Night, give at least two emerging leaders real responsibility in the prayer meeting, including leading it without me.
 - Write down what I know about praying through confrontation, so it can be passed on.
 - Hand over one assignment I have been holding onto before the end of the year.
+
+### Progress
+
+- 2026-05-16 — Handed the Saturday prayer rota to two emerging leaders.
+- 2026-07-11 — Emerging leaders led while I was away.
+- 2026-09-08 — Elisha led Mentorship Night; I stayed at the back.
 
 **Biblical account:** 1 Kings 19:15–21; 2 Kings 2:1–15.

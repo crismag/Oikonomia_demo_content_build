@@ -1,6 +1,6 @@
 # Elijah — Generation Target
 
-**ID:** `person.elijah` | **Status:** FOUNDATION EXISTS
+**ID:** `person.elijah` | **Status:** SUBSTANTIAL
 
 **Identity:** intense prayer and prophetic leader whose public courage is paired with exhaustion, fear and recovery; terse, either/or, persistent in prayer, learning that the day after the hard day matters and that he is not the only faithful one left; hands on his ministry through Elisha.
 
@@ -12,15 +12,12 @@
 - [x] `2026-goals.md` (rest before conclusions; counting what God counts; handing on the mantle)
 - [x] `2026-rhythm.md` (Tuesday Mentorship Night, Saturday early-morning prayer meeting, light Mondays)
 
-## Record coverage (not started)
-- [ ] Restricted wellbeing and recovery report after a demanding season (broom tree; follow `STYLE-REFERENCE-REPORTS.md` §4), shared with Samuel
-- [ ] Saturday prayer meeting calendar entry and occasional prayer-meeting reports
-- [ ] Mentorship Night notes with Elisha on succession; handing over one assignment
-- [ ] Testimony: Cherith and Zarephath; Carmel and the rain prayer
-- [ ] Leadership accountability concern routed through Samuel (Naboth pattern, new 2026 matter)
-- [ ] Restricted Mentorship conversation with Moses about Horeb and asking to die
-- [ ] Comment thread: Peter mentions the mountain; Elijah does not remember it
-- [ ] Gentle humor: Cris cannot find Elijah on the calendar; a one-line report and Samuel's follow-up
+## Record coverage
+- [x] Baseline: March wellbeing follow-up; April Elisha coaching; May prayer rota handover
+- [x] Special reports from lived history: Zarephath widow; Carmel; Horeb; Naboth's vineyard
+- [x] Saturday prayer meeting reports, July–September
+- [x] Q3 notes: July wellbeing; prayer with Jeremiah before a hard word; Elisha leads Mentorship Night
+- [x] Goal progress entries
 
 ## Roles
 Prayer and prophetic ministry; Mentorship (leader); reports to Samuel; attends a Lifegroup as a member.
