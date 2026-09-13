@@ -6,8 +6,8 @@ Responsibilities and rhythm for each ministry are canonical in `docs/generation/
 
 ## Victuals Ministry
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Martha
 
 Food, refreshments, preparation, serving and provision planning.
 
@@ -15,8 +15,8 @@ Food, refreshments, preparation, serving and provision planning.
 
 ## Psalmists
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Miriam
 
 Worship, praise, dancing, instruments and worship equipment.
 
@@ -24,8 +24,8 @@ Worship, praise, dancing, instruments and worship equipment.
 
 ## Production
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Tychicus
 
 Audio, lights, equipment, photography, video, media and curation.
 
@@ -42,8 +42,8 @@ Kids, infants, teaching children and child care.
 
 ## Events Ministry
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Solomon
 
 Celebrations, baptisms, weddings, setup and special occasions.
 
@@ -51,8 +51,8 @@ Celebrations, baptisms, weddings, setup and special occasions.
 
 ## Facilities
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Nehemiah
 
 Cleaning, facilities support, logistics and transport.
 
@@ -69,8 +69,8 @@ Visitation and offsite services.
 
 ## Greeters and Ushers
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Mordecai
 
 Welcoming, newcomer coordination and ushering.
 
@@ -78,8 +78,8 @@ Welcoming, newcomer coordination and ushering.
 
 ## More Than Enough
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Stephen
 
 Outreach food giving, donation receiving and distribution.
 
@@ -87,8 +87,8 @@ Outreach food giving, donation receiving and distribution.
 
 ## Radicals
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Timothy
 
 Young adults.
 
@@ -96,8 +96,8 @@ Young adults.
 
 ## TrailBlazers
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Aquila
 
 Couples.
 
@@ -105,7 +105,7 @@ Couples.
 
 ## Mentorship
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Barnabas
 
 Leadership development; Tuesday Mentorship Night.
