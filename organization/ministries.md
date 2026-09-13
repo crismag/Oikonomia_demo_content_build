@@ -60,8 +60,8 @@ Cleaning, facilities support, logistics and transport.
 
 ## Field Ministry
 
-**Campus:** Main campus
-**Lead:** Not yet assigned
+**Campus:** Main campus  
+**Lead:** Peter
 
 Visitation and offsite services.
 
