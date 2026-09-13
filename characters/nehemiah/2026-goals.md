@@ -26,6 +26,13 @@ I can finish a project. What I need to learn is building something that keeps wo
 - Develop Hezekiah and Caleb so either can run a Sunday without me.
 - Take a planned week away and read the Facilities report afterwards, not during.
 
+### Progress
+
+- 2026-01-11 — Walked the building at night and assessed before announcing any plan.
+- 2026-03-15 — First unannounced lock-up check with Mordecai; named owner and backup for every door.
+- 2026-07-26 — Hezekiah ran a Sunday alone; I read his notes on Monday.
+- 2026-08-30 — Took a planned week away; Hezekiah and Caleb ran Facilities and made one better decision than I would have.
+
 **Biblical account:** Nehemiah 7:1–3; Nehemiah 13:4–22.
 
 ---
@@ -49,6 +56,13 @@ Years later I found the Levites had left their posts because nobody had paid the
 - Keep setup days within agreed hours, and make sure Victuals knows when people need feeding.
 - Flag any volunteer carrying more than their share as an attention item, not a compliment.
 - Never ask the team for something I'm not carrying myself.
+
+### Progress
+
+- 2026-02-08 — Fixed the project budget so it never draws on More Than Enough; leftovers promised to MTE families.
+- 2026-06-13 — Workday hours capped at 2:00 with Victuals lunches and a heat plan.
+- 2026-07-19 — Cut workdays to every other week after volunteers said they were exhausted; flagged Caleb's load as an attention item.
+- 2026-09-07 — Project completed within budget; leftover materials delivered to two MTE families.
 
 **Biblical account:** Nehemiah 4:10; Nehemiah 5:1–19; Nehemiah 13:10–13.
 
@@ -75,6 +89,12 @@ Seeing what is wrong is not the same as knowing how to correct it.
 - Ask Ezra to tell me directly if my tone crosses a line.
 - Review this goal privately with Ezra each quarter.
 
+### Progress
+
+- 2026-04-17 — Storeroom: waited a day and called Ezra before speaking to Solomon.
+- 2026-08-02 — Ladder near-miss: called Ezra from the car park, spoke to the volunteer privately with a witness.
+- 2026-09-09 — Quarterly review with Ezra: no corridor confrontations this year.
+
 **Biblical account:** Nehemiah 5:6–13; Nehemiah 13:23–27.
 
 ---
@@ -97,5 +117,10 @@ Most criticism in a church isn't an enemy plot, and I shouldn't treat it like on
 - Take legitimate complaints to the next Facilities meeting, with a named owner.
 - Decline meetings that don't serve the work, politely and without drama.
 - Pray before responding to anything written to provoke me.
+
+### Progress
+
+- 2026-07-26 — Declined a neighbour's meeting request about the project's "overall direction"; offered the schedule and an invitation to the dedication.
+- 2026-09-06 — Dedication held; the neighbour attended and has volunteered for October.
 
 **Biblical account:** Nehemiah 4:1–23; Nehemiah 6:1–14.

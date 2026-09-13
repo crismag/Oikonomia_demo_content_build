@@ -27,7 +27,7 @@ This is the roster/status view. Character-specific topics live only in the linke
 - [ ] Jeremiah — `ot/jeremiah.md` — FOUNDATION EXISTS
 - [ ] Daniel — `ot/daniel.md` — FOUNDATION EXISTS
 - [ ] Ezra — `ot/ezra.md` — FOUNDATION EXISTS
-- [ ] Nehemiah — `ot/nehemiah.md` — FOUNDATION EXISTS
+- [x] Nehemiah — `ot/nehemiah.md` — SUBSTANTIAL
 - [ ] Jonah — `ot/jonah.md` — FOUNDATION EXISTS
 
 ## Gospels / Twelve

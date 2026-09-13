@@ -1,6 +1,6 @@
 # Nehemiah — Generation Target
 
-**ID:** `person.nehemiah` | **Status:** FOUNDATION EXISTS
+**ID:** `person.nehemiah` | **Status:** SUBSTANTIAL
 
 **Identity:** Facilities head and project/operations leader who turns burden into prayer, permission, named ownership, milestones and corrective action; stops a project to confront injustice; builds under ridicule and threat; forceful in reform, sometimes too forceful; closes with "Remember me, my God."
 
@@ -12,20 +12,28 @@
 - [x] `2026-goals.md` (systems that hold without him; no project on the backs of workers; confront without losing control; keep building under criticism)
 - [x] `2026-rhythm.md` (Sunday site oversight, Monday Facilities report, Tuesday Mentorship, Wednesday Lifegroup, Thursday maintenance, Saturday setup and walk-through)
 
-## Record coverage (not started)
-- [ ] Weekly Facilities reports, Jan–Sep 2026 (site condition, ownership, open safety items, tired volunteers)
-- [ ] Lifegroup Gathering reports (Wednesday), including confession (Nehemiah 1; 9) and joy (Nehemiah 8)
-- [ ] Facilities planning meeting notes with named section assignments (Hezekiah, Caleb, Joshua, Saul, Thaddaeus, Aristarchus, Onesimus)
-- [ ] Project report: walk-through before the plan; milestone completion with honest open items
-- [ ] Leadership report with attention item: volunteers overworked or unsupported (Nehemiah 5; 13:10)
-- [ ] Restricted personal development with Ezra: anger that pauses; force in correction (Nehemiah 13:25)
-- [ ] Door and locking procedures with Mordecai; quarterly unannounced check
-- [ ] Storeroom and key audit after an absence (light only on the storeroom)
-- [ ] Testimony / prayer: grief over the report; "So I prayed"; "Remember me"
-- [ ] Mentorship Night: assess before announcing; finishing under opposition; handing over to faithful people
-- [ ] Cross-ministry dedication-style occasion with Solomon (Events), Miriam (Psalmists), Tychicus (Production)
-- [ ] Comments: declined meeting invitations; "Remember me, my God" on a routine report; Ezra and Nehemiah on escorts
-- [ ] Future plans (Sep 2026 – 2027): planned week away; 2027 building project beginning with capacity
+## Record coverage
+- [x] Weekly Facilities reports (selected Jan–Jun; every week of the Summer Renewal Project Jul–Sep)
+- [x] Lifegroup Gathering reports (Wednesday; monthly to June, fortnightly from July), including confession (Neh 1; 9) and joy (Neh 8; 12)
+- [x] Facilities planning meeting notes with named section owners (2026-06-13)
+- [x] Project reports: night assessment before the plan (2026-01-12); completion with honest open items (2026-09-07)
+- [x] Attention item: volunteers overworked (2026-07-19)
+- [x] Restricted personal development with Ezra: storeroom anger, ladder near-miss, quarterly review
+- [x] Door and locking procedures with Mordecai; quarterly unannounced check (March)
+- [x] Storeroom audit (Events decorations), light on the storeroom only
+- [x] Safety stand-down minutes after a ladder near-miss (2026-08-01)
+- [x] Cross-ministry dedication with Solomon, Miriam, Tychicus (2026-09-06)
+- [x] Comments: declined meeting, "Remember me, my God" on a Facilities report, Ezra's checks
+- [x] Planned week away (2026-08-23 to 29)
+- [x] Goal progress entries
+- [ ] Mentorship Night records (assess before announcing; handing over to faithful people)
+- [ ] Future plans (Oct 2026 – 2027): 2027 building project beginning with capacity; written procedures review
+
+## Continuity threads open at 2026-09-13
+- The Riverside neighbour volunteering with Facilities in October (via Caleb).
+- Ezra's December question about "remember me."
+- The 214 folding chairs of unknown origin.
+- Tom Hart's change of team at work; Grace's sister's recovery.
 
 ## Roles
 Facilities (head); Mentorship (member); Wednesday Lifegroup; reports to Ezra; coordinates with Greeters and Ushers, Events, Production, Victuals and More Than Enough.
