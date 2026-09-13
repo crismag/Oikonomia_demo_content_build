@@ -27,6 +27,12 @@ Correction can end a conversation. It must not end my prayer.
 - After a hard conversation, send one follow-up that is not about the problem.
 - Notice when grief is turning into staying away, and bring that to God rather than letting it decide.
 
+### Progress
+
+- 2026-01-12 — Began fortnightly check-ins with Saul, praying first.
+- 2026-06-09 — Began pastoral meetings with a member who had been confronted; still praying for him by name.
+- 2026-08-03 — Saul named himself first at the Facilities safety stand-down.
+
 **Biblical account:** 1 Samuel 12:19–25; 15:10–11, 35; 16:1.
 
 ---
@@ -51,6 +57,10 @@ I made the same mistake twice. I don't assume I've stopped making it.
 - Put a named, overlooked leader forward for real responsibility at least twice this year.
 - Pray about appointments before they are discussed, and record the reasons for them.
 
+### Progress
+
+- 2026-08-11 — Put Tunde Adeyemi and two other overlooked people forward as Lifegroup co-leaders.
+
 **Biblical account:** 1 Samuel 9:2; 10:23–24; 16:6–13.
 
 ---
@@ -74,6 +84,10 @@ Fear was honest both times. Leaving part of the message out would not have been.
 - Deliver correction privately first, and without contempt.
 - Ask one trusted leader to tell me when they think I have softened something until it no longer says anything.
 
+### Progress
+
+- 2026-07-27 — Encouraged Jeremiah after a hard word in Council was unwelcome.
+
 **Biblical account:** 1 Samuel 3:15–18; 15:16–23; 16:1–2.
 
 ---
@@ -96,5 +110,9 @@ At the end of my public leadership I asked the people whose ox or donkey I had t
 - Review the people who report to me by their conduct, not by how long I have known them.
 - Invite a colleague to review my recommendations for responsibility this year.
 - Write down the expectations of any role I recommend, as the regulations of the kingdom were written down.
+
+### Progress
+
+- 2026-06-15 — Wrote the integrity review practice for leaders handing over responsibility.
 
 **Biblical account:** 1 Samuel 8:1–5; 10:25; 12:1–5.

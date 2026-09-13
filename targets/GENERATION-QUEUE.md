@@ -20,7 +20,7 @@ This is the roster/status view. Character-specific topics live only in the linke
 - [ ] Josiah — `ot/josiah.md` — FOUNDATION EXISTS
 - [x] Esther — `ot/esther.md` — SUBSTANTIAL
 - [ ] Mordecai — `ot/mordecai.md` — FOUNDATION EXISTS
-- [ ] Samuel — `ot/samuel.md` — FOUNDATION EXISTS
+- [x] Samuel — `ot/samuel.md` — SUBSTANTIAL
 - [ ] Elijah — `ot/elijah.md` — FOUNDATION EXISTS
 - [ ] Elisha — `ot/elisha.md` — FOUNDATION EXISTS
 - [ ] Isaiah — `ot/isaiah.md` — FOUNDATION EXISTS

@@ -1,6 +1,6 @@
 # Samuel — Generation Target
 
-**ID:** `person.samuel` | **Status:** FOUNDATION EXISTS
+**ID:** `person.samuel` | **Status:** SUBSTANTIAL
 
 **Identity:** senior leader for prayer, discernment and leader development: the child of Hannah's prayer who learned to listen under Eli, delivered hard messages while afraid, served a governance transition he disliked, anointed and grieved Saul, anointed David, and never stopped praying for people he corrected. Spare, grave and unhurried.
 
@@ -12,17 +12,13 @@
 - [x] `2026-goals.md` (keep praying for people I correct; look past appearance in selection; say the whole message when afraid; appointments clean of family and favour)
 - [x] `2026-rhythm.md` (Monday circuit check-ins; alternate-Monday Saul check-in; Tuesday Mentorship Night; Wednesday Lifegroup; Thursday prayer; quarterly Prayer & Fasting)
 
-## Record coverage (not started)
-- [ ] Lifegroup Gathering reports, Jan–Sep 2026 (prayer-centred Wednesday group; Hannah; waiting on God)
-- [ ] Restricted check-in notes with Saul (`Named people`: Saul), slow and plain
-- [ ] Mentorship Night meeting notes with Barnabas on leader selection (Goal 2)
-- [ ] Leadership Council: appointment with declared conflict of interest (Goal 4)
-- [ ] Personal development (Only me): grief turning into avoidance; fear of powerful people
-- [ ] Prayer & Fasting calendar entries and a Mizpah/Ebenezer remembrance report
-- [ ] Integrity/handover reflection ("Whose ox have I taken?")
-- [ ] Testimony: calling in the night; anointing David (coordinate with David's perspective)
-- [ ] Oversight check-ins with Elijah, Isaiah and Jeremiah
-- [ ] Gentle comments: very short replies to long reports; "Has anyone prayed about this?"
+## Record coverage
+- [x] Restricted fortnightly check-ins with Saul (selected)
+- [x] Private pastoral notes: a confronted member (Esther's advocacy arc)
+- [x] Special reports from lived history: request for a king; integrity review; mourning for Saul
+- [x] Leadership reports: prophets' circuit; selection counsel; quarterly Prayer & Fasting
+- [x] Prayer-centred Lifegroup gatherings (short)
+- [x] Goal progress entries
 
 ## Roles
 Leadership Council; Mentorship (member); Wednesday Lifegroup; Prayer & Fasting gatherings; oversight of Elijah, Isaiah, Jeremiah and Saul.
