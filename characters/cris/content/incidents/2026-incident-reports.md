@@ -6,7 +6,7 @@ Cris files incident reports as a 2026 coordinator. The events are the leaders' l
 
 ---
 
-## Equipment Replacement Review — Stone Tablets
+## Equipment Replacement — The Stone Tablets
 
 **Record type:** Equipment / Replacement Review  
 **Date:** 2026-02-16  
@@ -71,7 +71,7 @@ And patience for me, because someone has already asked whether the replacement t
 
 ---
 
-## Serious Incident — The Golden Calf
+## Serious Incident — Aaron and the Golden Calf
 
 **Record type:** Serious Incident / Leadership Accountability  
 **Date:** 2026-03-02  
@@ -153,7 +153,7 @@ And intercessors like Moses, who stand before God for people who have failed bad
 
 ---
 
-## Equipment Fit Review — Saul's Armor
+## Equipment Fit Review — David and Saul's Armor
 
 **Record type:** Equipment / Procurement Lesson  
 **Date:** 2026-04-20  
@@ -228,7 +228,7 @@ And for me, a better equipment request form, one that includes the question "Hav
 
 ---
 
-## Staffing Reduction Review — Gideon
+## Staffing Reduction Review — Gideon's Army
 
 **Record type:** Resourcing / Staffing Review  
 **Date:** 2026-05-11  
@@ -317,7 +317,7 @@ And humility for me, because my resourcing spreadsheet has no column for "so tha
 
 ---
 
-## Audit Finding — Livestock Noise
+## Audit Finding — Saul and the Amalekite Livestock
 
 **Record type:** Compliance / Audit Finding  
 **Date:** 2026-06-08  
@@ -476,7 +476,7 @@ And wisdom for me as I prepare to tell one of the most effective teachers in the
 
 ---
 
-## Facilities Incident — Borrowed Axe Head
+## Equipment Incident — Borrowed Axe Head
 
 **Record type:** Facilities / Equipment Incident  
 **Date:** 2026-08-17  

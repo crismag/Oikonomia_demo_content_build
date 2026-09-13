@@ -6,7 +6,7 @@ Cris files these as a 2026 coordinator. Each report takes a situation from a lea
 
 ---
 
-## Escalation Bottleneck — Moses
+## Leadership Capacity Follow-up — Moses and Jethro
 
 **Record type:** Leadership Capacity / Follow-up  
 **Date:** 2026-01-19  
@@ -76,7 +76,7 @@ And humility for me, because Jethro solved in one afternoon a problem I had sche
 
 ---
 
-## Overcommitment Follow-up — Peter
+## Broken Commitment Follow-up — Peter's Denial
 
 **Record type:** Personal Development / Capacity Concern  
 **Date:** 2026-02-23  
@@ -202,7 +202,7 @@ And wisdom for me, because I am the one who has to decide where people sit at th
 
 ---
 
-## Calendar Boundary Report — Nehemiah
+## Declined Meeting Requests — Nehemiah and Sanballat
 
 **Record type:** Meeting Boundaries / Follow-up  
 **Date:** 2026-03-30  
@@ -267,7 +267,7 @@ And for me, the courage to decline a meeting in fewer words than the invitation 
 
 ---
 
-## Workplace Safety Follow-up — The Spear
+## Safety Concern — Saul's Spear and David
 
 **Record type:** Leadership Relationship / Safety Concern  
 **Date:** 2026-04-06  
@@ -328,7 +328,7 @@ And wisdom for all of us to recognise when a situation has stopped being a confl
 
 ---
 
-## Assignment Status — Jonah
+## Assignment Follow-up — Jonah and Nineveh
 
 **Record type:** Assignment Follow-up  
 **Date:** 2026-04-27  
@@ -405,7 +405,7 @@ And patience for me, because this is the first travel file I've closed where the
 
 ---
 
-## Gilgal Follow-up — Authority Taken Under Deadline Pressure
+## Unauthorized Sacrifice Follow-up — Saul at Gilgal
 
 **Record type:** Leadership Conduct / Follow-up  
 **Date:** 2026-05-04  
@@ -604,7 +604,7 @@ And for me, the self-control not to create a rota for sitting at Jesus' feet.
 
 ---
 
-## Visibility and Marriage Concern — David and Michal
+## Marriage Concern — David and Michal
 
 **Record type:** Family / Leadership Visibility Concern  
 **Date:** 2026-06-22  
@@ -665,7 +665,7 @@ And gentleness for all of us who are tempted to evaluate worship from the window
 
 ---
 
-## Leader Unreachable After a Major Event — Elijah
+## Leader Wellbeing Follow-up — Elijah
 
 **Record type:** Wellbeing / Follow-up  
 **Date:** 2026-07-06  
@@ -736,7 +736,7 @@ And for me, the wisdom to bring bread before I bring a checklist.
 
 ---
 
-## Offended by Simple Instructions — Naaman
+## Healing Instructions Complaint — Naaman
 
 **Record type:** Leadership Attitude / Follow-up  
 **Date:** 2026-07-13  
@@ -807,7 +807,7 @@ And for me, the grace to accept the simple answer, even when I have already prep
 
 ---
 
-## Storeroom Occupancy Review — Nehemiah
+## Temple Storeroom Misuse — Nehemiah and Tobiah
 
 **Record type:** Facilities Governance / Follow-up  
 **Date:** 2026-07-20  
@@ -873,7 +873,7 @@ And for me, a clearer room booking process, so that no one has to carry furnitur
 
 ---
 
-## Seating Request Received — James and John
+## Seating Request — James and John
 
 **Record type:** Team Dynamics / Follow-up  
 **Date:** 2026-08-10  
@@ -936,7 +936,7 @@ And for me, the discipline to never again accept a request that begins with "wha
 
 ---
 
-## Feeding Calculation — Philip and Andrew
+## Feeding Estimate — Philip and Andrew
 
 **Record type:** Resource Planning / Follow-up  
 **Date:** 2026-08-24  
@@ -1006,7 +1006,7 @@ And for me, the humility to remember that my calculation can be correct and stil
 
 ---
 
-## Attendance Follow-up — Thomas
+## Missed Meeting Follow-up — Thomas
 
 **Record type:** Team Communication / Follow-up  
 **Date:** 2026-09-01  
@@ -1073,7 +1073,7 @@ And for me, the humility to accept that the best-attested meeting minutes in his
 
 ---
 
-## Strategy Document Review — Solomon
+## Leadership File Review — Solomon
 
 **Record type:** Leadership Review / Follow-up  
 **Date:** 2026-09-07  
