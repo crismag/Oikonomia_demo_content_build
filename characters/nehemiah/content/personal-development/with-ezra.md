@@ -101,9 +101,9 @@ Third quarterly review of Goal 3.
 ### This year
 
 - April storeroom: waited a day, called Ezra, meeting went well.
+- May: corrected a volunteer sharply over an unsecured storeroom before checking the handover procedure. Ezra and I reviewed it on May 11; the checklist followed.
 - July noise complaint: declined a meeting politely, which Cris rewrote more politely.
 - August ladder: waited, called Ezra, spoke privately with a witness.
-- No confrontation in a corridor this year.
 
 ### Honest note
 

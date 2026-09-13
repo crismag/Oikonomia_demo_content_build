@@ -17,7 +17,7 @@
 
 Apollos taught at Radicals in May. Timothy reports that he served the series rather than turning it into a performance, and Priscilla has given the detailed feedback in the restricted record. That is the kind of progress we want: a person receives a real assignment, not a protected rehearsal, and still has someone close enough to tell the truth afterward.
 
-John Mark has also completed three Field Ministry shadow visits with Peter. Peter's notes say Mark prepared, arrived, and asked for help when a visit became harder than expected. Those are small, observable things. They matter more than a large promise about who he will be next year.
+John Mark has kept his Field Ministry route since February. When he missed a visit in June and told nobody until the next day, he went to Peter before Peter came to him, called the family himself and kept the route. Peter's notes say Mark prepared, arrived, and now asks for help earlier. Those are small, observable things. They matter more than a large promise about who he will be next year.
 
 I have noticed a weakness in my own follow-up. I am quick to name a person's possibility; I can be too slow to name the evidence still needed. In Jerusalem, when Saul came after persecuting believers, people were afraid for good reasons. I spoke for him by telling the apostles what had happened and what he had actually done. That is the standard: not goodwill alone, but facts.
 
@@ -35,6 +35,6 @@ I have noticed a weakness in my own follow-up. I am quick to name a person's pos
 
 ### Comments
 
-**Peter:** The shadow-visit notes support this. Mark did not try to sound ready; he did the work that was given.
+**Peter:** The June record supports this. Mark did not try to sound ready; after the missed visit he came to me first and did the repair himself.
 
 **Barnabas:** Good. Let us not make either the earlier departure or the later usefulness do all the talking for him.

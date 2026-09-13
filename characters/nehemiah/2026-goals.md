@@ -92,8 +92,9 @@ Seeing what is wrong is not the same as knowing how to correct it.
 ### Progress
 
 - 2026-04-17 — Storeroom: waited a day and called Ezra before speaking to Solomon.
+- 2026-05-11 — Reviewed with Ezra a sharp correction of a volunteer made before checking the handover procedure; storeroom checklist introduced.
 - 2026-08-02 — Ladder near-miss: called Ezra from the car park, spoke to the volunteer privately with a witness.
-- 2026-09-09 — Quarterly review with Ezra: no corridor confrontations this year.
+- 2026-09-09 — Quarterly review with Ezra: one sharp correction in May, none since.
 
 **Biblical account:** Nehemiah 5:6–13; Nehemiah 13:23–27.
 

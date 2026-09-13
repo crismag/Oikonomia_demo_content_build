@@ -2,14 +2,14 @@
 
 **Oikonomia section:** Lifegroup Gathering
 
-Esther's Lifegroup meets on Wednesday evenings in the church library. Sensitive prayer requests are kept in restricted entries.
+Esther's Lifegroup meets on Wednesday evenings in the fellowship hall (the 2026-03-04 gathering is recorded in `../leadership/advocacy-and-follow-up.md`). Sensitive prayer requests are kept in restricted entries.
 
 ---
 
 ## 2026-02-18 — When God Isn't Named
 
-**Venue:** Church library  
-**Attendance:** Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor, Phoebe  
+**Venue:** Fellowship hall  
+**Attendance:** Deborah, Mordecai, Phoebe, Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor  
 **Tags:** #reflective #uncertainty #faith
 
 Samira asked why God feels absent this year. I told the group that the book about my life never names God once. Yet a king couldn't sleep on the right night, and the right record was read to him. God can be at work where He isn't mentioned.
@@ -24,8 +24,8 @@ Where might God be working in your life without being named?
 
 ## 2026-05-20 — A Day of Fasting
 
-**Venue:** Church library  
-**Attendance:** Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor, Phoebe  
+**Venue:** Fellowship hall  
+**Attendance:** Deborah, Mordecai, Phoebe, Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor  
 **Tags:** #devotional #faith #courage
 
 A leadership prayer and fasting day. I told the group only that I was praying about something difficult. We talked about the fast before I went to the king: asking for support before acting, and saying, "If I perish, I perish."
@@ -42,8 +42,8 @@ For the matter I'm carrying, and for courage on May 31.
 
 ## 2026-07-22 — The Decree Still Stood
 
-**Venue:** Church library  
-**Attendance:** Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor, Phoebe  
+**Venue:** Fellowship hall  
+**Attendance:** Deborah, Mordecai, Phoebe, Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor  
 **Tags:** #serious #hope #reflective
 
 Liam's court case went his way, and he's still waiting for what the ruling actually changes. I told him that when Haman fell, the decree against my people still stood. I had to go back to the king. A first win isn't always the end.
@@ -58,11 +58,11 @@ What "first win" in your life still needs follow-through?
 
 ## 2026-08-19 — Raised by Someone
 
-**Venue:** Church library  
-**Attendance:** Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor, Phoebe; guest Mordecai  
+**Venue:** Fellowship hall  
+**Attendance:** Deborah, Mordecai, Phoebe, Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor  
 **Tags:** #gratitude #light #reflective
 
-Mordecai visited. Abby asked how he raised me. He said he mostly walked past the courtyard every day to find out how I was. I said he also told me what to do for years, and then one day did everything I told him to. The group enjoyed that more than we did.
+Abby asked Mordecai how he raised me. He said he mostly walked past the courtyard every day to find out how I was. I said he also told me what to do for years, and then one day did everything I told him to. The group enjoyed that more than we did.
 
 **Biblical account:** Esther 2:7, 11; Esther 4:17.
 
@@ -70,8 +70,8 @@ Mordecai visited. Abby asked how he raised me. He said he mostly walked past the
 
 ## 2026-09-09 — Sorrow Turned to Gladness
 
-**Venue:** Church library  
-**Attendance:** Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor, Phoebe  
+**Venue:** Fellowship hall  
+**Attendance:** Deborah, Mordecai, Phoebe, Rosa Delgado, Kenji Sato, Abby Turner, Samira Haddad, Liam O'Connor  
 **Tags:** #gratitude #joy #hope
 
 We shared one thing this year that turned from sorrow to gladness. Kenji's mother recovered. Rosa's son came home. I said a young person I've been praying for is sleeping at night now, and left it there. Phoebe invited everyone to November's remembrance evening.

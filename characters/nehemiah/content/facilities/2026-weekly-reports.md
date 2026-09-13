@@ -99,7 +99,7 @@ First quarterly unannounced check of opening and locking procedures, with Mordec
 
 - Children's wing exit: chair removed on the spot. A sign and a check added to the Greeters and Ushers closing list (Mordecai).
 - Side door: added to the summer project as a priority repair. Until then Thaddaeus checks it at 9:30 on Wednesdays.
-- Named owner and named backup for every door, posted inside the Facilities office.
+- Named owner for every external door, posted inside the Facilities office. Backups to follow.
 
 When Jerusalem's gates were rebuilt, I told the gatekeepers not to open them until the sun was hot, and to stand guard while they shut and barred them. I appointed guards from among the people, each near his own house. Nobody here needs a sword. Somebody does need to own the door.
 
